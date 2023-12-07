@@ -1,0 +1,4873 @@
+op_id;name_it;Year;Days
+2881;Aldino;1980;21,6
+2882;Andriano;1980;20,5
+2883;Anterivo;1980;23,4
+2884;Appiano sulla strada del vino;1980;19,1
+2885;Avelengo;1980;26,4
+2886;Badia;1980;17
+2887;Barbiano;1980;20,4
+2888;Bolzano;1980;18,2
+2889;Braies;1980;21,5
+2890;Brennero;1980;30,2
+2891;Bressanone;1980;19,7
+2892;Bronzolo;1980;19,3
+2893;Brunico;1980;19,7
+2894;Caines;1980;27,9
+2895;Caldaro sulla strada del vino;1980;20,4
+2896;Campo di Trens;1980;23,7
+2897;Campo Tures;1980;16,6
+2898;Castelbello-Ciardes;1980;34,5
+2899;Castelrotto;1980;16,4
+2900;Cermes;1980;28,3
+2901;Chienes;1980;19,7
+2902;Chiusa;1980;21,6
+2903;Cornedo all'Isarco;1980;17,3
+2904;Cortaccia sulla strada del vino;1980;22,5
+2905;Cortina sulla strada del vino;1980;22
+2906;Corvara in Badia;1980;15,3
+2907;Curon Venosta;1980;27,9
+2908;Dobbiaco;1980;21,6
+2909;Egna;1980;22,4
+2910;Falzes;1980;19,7
+2911;Fiè allo Sciliar;1980;16,4
+2912;Fortezza;1980;21,7
+2913;Funes;1980;18,2
+2914;Gais;1980;18,6
+2915;Gargazzone;1980;21,9
+2916;Glorenza;1980;27,1
+2918;Laces;1980;32,1
+2919;Lagundo;1980;31,2
+2920;Laion;1980;18,6
+2921;Laives;1980;18,5
+2922;Lana;1980;26,4
+2923;Lasa;1980;27,4
+2924;Lauregno;1980;22,1
+2925;Luson;1980;19,3
+2926;Magrè sulla strada del vino;1980;22,3
+2927;Malles Venosta;1980;30,3
+2928;Marebbe;1980;19,7
+2929;Marlengo;1980;29,6
+2930;Martello;1980;21
+2931;Meltina;1980;21,9
+2932;Merano;1980;27,5
+2933;Monguelfo-Tesido;1980;21,3
+2934;Montagna;1980;22,1
+2935;Moso in Passiria;1980;28,3
+2936;Nalles;1980;20,9
+2937;Naturno;1980;34
+2938;Naz-Sciaves;1980;20,4
+2939;Nova Levante;1980;16
+2940;Nova Ponente;1980;18,6
+2941;Ora;1980;20,5
+2942;Ortisei;1980;16,6
+2943;Parcines;1980;36,3
+2944;Perca;1980;19,2
+2945;Plaus;1980;32,8
+2946;Ponte Gardena;1980;18,1
+2947;Postal;1980;24,1
+2948;Prato allo Stelvio;1980;26,6
+2949;Predoi;1980;20,8
+2950;Proves;1980;21,2
+2951;Racines;1980;29,9
+2952;Rasun-Anterselva;1980;20,2
+2953;Renon;1980;18,8
+2954;Rifiano;1980;27,8
+2955;Rio di Pusteria;1980;21,2
+2956;Rodengo;1980;20,6
+2957;Salorno;1980;22,6
+2958;San Candido;1980;22,1
+2959;San Genesio Atesino;1980;19,6
+2960;San Leonardo in Passiria;1980;26,8
+2961;San Lorenzo di Sebato;1980;19,6
+2962;San Martino in Badia;1980;17,4
+2963;San Martino in Passiria;1980;25,9
+2964;San Pancrazio;1980;26,3
+2965;Santa Cristina Valgardena;1980;16,5
+2966;Sarentino;1980;23,7
+2967;Scena;1980;27
+2968;Selva dei Molini;1980;15,8
+2969;Selva di Val Gardena;1980;15,7
+2970;Senales;1980;49,4
+2972;Sesto;1980;23,4
+2973;Silandro;1980;38,1
+2974;Sluderno;1980;27,7
+2975;Stelvio;1980;23,4
+2976;Terento;1980;19,6
+2977;Terlano;1980;20,4
+2978;Termeno sulla strada del vino;1980;21,6
+2979;Tesimo;1980;22,4
+2980;Tires;1980;15,9
+2981;Tirolo;1980;29,8
+2982;Trodena nel parco naturale;1980;22,7
+2983;Tubre;1980;26,2
+2984;Ultimo;1980;21
+2985;Vadena;1980;19,7
+2987;Valdaora;1980;20,3
+2986;Val di Vizze;1980;22,6
+2988;Valle Aurina;1980;14,3
+2989;Valle di Casies;1980;21,7
+2990;Vandoies;1980;19,2
+2991;Varna;1980;21,6
+2993;Verano;1980;24,3
+2994;Villabassa;1980;21
+2995;Villandro;1980;21,8
+2996;Vipiteno;1980;28,4
+2992;Velturno;1980;21,1
+2917;La Valle;1980;18,4
+2971;Senale-San Felice;1980;21,1
+2881;Aldino;1981;16,8
+2882;Andriano;1981;18,5
+2883;Anterivo;1981;17
+2884;Appiano sulla strada del vino;1981;16,1
+2885;Avelengo;1981;20,8
+2886;Badia;1981;16,8
+2887;Barbiano;1981;18,8
+2888;Bolzano;1981;16,3
+2889;Braies;1981;27,9
+2890;Brennero;1981;29,1
+2891;Bressanone;1981;19,4
+2892;Bronzolo;1981;14,9
+2893;Brunico;1981;23,6
+2894;Caines;1981;22,1
+2895;Caldaro sulla strada del vino;1981;14,9
+2896;Campo di Trens;1981;24,4
+2897;Campo Tures;1981;22,5
+2898;Castelbello-Ciardes;1981;26,1
+2899;Castelrotto;1981;15
+2900;Cermes;1981;24,2
+2901;Chienes;1981;22,3
+2902;Chiusa;1981;20,5
+2903;Cornedo all'Isarco;1981;15,5
+2904;Cortaccia sulla strada del vino;1981;15,9
+2905;Cortina sulla strada del vino;1981;16
+2906;Corvara in Badia;1981;16
+2907;Curon Venosta;1981;22
+2908;Dobbiaco;1981;27,2
+2909;Egna;1981;15,9
+2910;Falzes;1981;21,6
+2911;Fiè allo Sciliar;1981;13,7
+2912;Fortezza;1981;22,2
+2913;Funes;1981;18,4
+2914;Gais;1981;22,4
+2915;Gargazzone;1981;20,2
+2916;Glorenza;1981;24,5
+2918;Laces;1981;24,2
+2919;Lagundo;1981;25,3
+2920;Laion;1981;17,5
+2921;Laives;1981;15,6
+2922;Lana;1981;22,5
+2923;Lasa;1981;21,4
+2924;Lauregno;1981;17,5
+2925;Luson;1981;20,5
+2926;Magrè sulla strada del vino;1981;16
+2927;Malles Venosta;1981;24,2
+2928;Marebbe;1981;21,8
+2929;Marlengo;1981;24,9
+2930;Martello;1981;18,1
+2931;Meltina;1981;19,1
+2932;Merano;1981;22,9
+2933;Monguelfo-Tesido;1981;29,7
+2934;Montagna;1981;16
+2935;Moso in Passiria;1981;22,9
+2936;Nalles;1981;18,8
+2937;Naturno;1981;25,5
+2938;Naz-Sciaves;1981;19,2
+2939;Nova Levante;1981;15,9
+2940;Nova Ponente;1981;16,6
+2941;Ora;1981;14,6
+2942;Ortisei;1981;16,9
+2943;Parcines;1981;27
+2944;Perca;1981;24,3
+2945;Plaus;1981;26,5
+2946;Ponte Gardena;1981;17
+2947;Postal;1981;21,5
+2948;Prato allo Stelvio;1981;22
+2949;Predoi;1981;23,8
+2950;Proves;1981;17,9
+2951;Racines;1981;24,9
+2952;Rasun-Anterselva;1981;26,3
+2953;Renon;1981;16,6
+2954;Rifiano;1981;21,8
+2955;Rio di Pusteria;1981;23,9
+2956;Rodengo;1981;22
+2957;Salorno;1981;16,3
+2958;San Candido;1981;27
+2959;San Genesio Atesino;1981;18
+2960;San Leonardo in Passiria;1981;21,5
+2961;San Lorenzo di Sebato;1981;22,7
+2962;San Martino in Badia;1981;18,3
+2963;San Martino in Passiria;1981;21,1
+2964;San Pancrazio;1981;20,6
+2965;Santa Cristina Valgardena;1981;15,4
+2966;Sarentino;1981;21
+2967;Scena;1981;21,2
+2968;Selva dei Molini;1981;20,9
+2969;Selva di Val Gardena;1981;15,7
+2970;Senales;1981;36,2
+2972;Sesto;1981;26,3
+2973;Silandro;1981;27,8
+2974;Sluderno;1981;24,9
+2975;Stelvio;1981;19
+2976;Terento;1981;22
+2977;Terlano;1981;18,5
+2978;Termeno sulla strada del vino;1981;14,8
+2979;Tesimo;1981;19,6
+2980;Tires;1981;14,9
+2981;Tirolo;1981;23,9
+2982;Trodena nel parco naturale;1981;16,4
+2983;Tubre;1981;23,6
+2984;Ultimo;1981;18,9
+2985;Vadena;1981;14,5
+2987;Valdaora;1981;27,1
+2986;Val di Vizze;1981;26
+2988;Valle Aurina;1981;22,4
+2989;Valle di Casies;1981;27,4
+2990;Vandoies;1981;23,2
+2991;Varna;1981;21,4
+2993;Verano;1981;20,3
+2994;Villabassa;1981;30
+2995;Villandro;1981;19,8
+2996;Vipiteno;1981;27,3
+2992;Velturno;1981;20,5
+2917;La Valle;1981;20,5
+2971;Senale-San Felice;1981;18,9
+2881;Aldino;1982;22,9
+2882;Andriano;1982;32,8
+2883;Anterivo;1982;24
+2884;Appiano sulla strada del vino;1982;29,1
+2885;Avelengo;1982;37,2
+2886;Badia;1982;26,9
+2887;Barbiano;1982;28,4
+2888;Bolzano;1982;28,8
+2889;Braies;1982;48,9
+2890;Brennero;1982;31,1
+2891;Bressanone;1982;35,3
+2892;Bronzolo;1982;25,9
+2893;Brunico;1982;42,3
+2894;Caines;1982;42,7
+2895;Caldaro sulla strada del vino;1982;26,9
+2896;Campo di Trens;1982;35,1
+2897;Campo Tures;1982;30,3
+2898;Castelbello-Ciardes;1982;44,9
+2899;Castelrotto;1982;22,5
+2900;Cermes;1982;42,9
+2901;Chienes;1982;37,2
+2902;Chiusa;1982;33,9
+2903;Cornedo all'Isarco;1982;26
+2904;Cortaccia sulla strada del vino;1982;29,1
+2905;Cortina sulla strada del vino;1982;30,1
+2906;Corvara in Badia;1982;23,7
+2907;Curon Venosta;1982;22,3
+2908;Dobbiaco;1982;46,7
+2909;Egna;1982;26,9
+2910;Falzes;1982;36,9
+2911;Fiè allo Sciliar;1982;23,7
+2912;Fortezza;1982;37,7
+2913;Funes;1982;28,7
+2914;Gais;1982;36,2
+2915;Gargazzone;1982;37,6
+2916;Glorenza;1982;27,4
+2918;Laces;1982;37,6
+2919;Lagundo;1982;45
+2920;Laion;1982;27,7
+2921;Laives;1982;26,7
+2922;Lana;1982;40,6
+2923;Lasa;1982;27
+2924;Lauregno;1982;27,3
+2925;Luson;1982;38,1
+2926;Magrè sulla strada del vino;1982;30
+2927;Malles Venosta;1982;28,3
+2928;Marebbe;1982;37,7
+2929;Marlengo;1982;43,4
+2930;Martello;1982;19,8
+2931;Meltina;1982;32,4
+2932;Merano;1982;40,6
+2933;Monguelfo-Tesido;1982;49,9
+2934;Montagna;1982;24,6
+2935;Moso in Passiria;1982;34,6
+2936;Nalles;1982;32,4
+2937;Naturno;1982;46
+2938;Naz-Sciaves;1982;39,7
+2939;Nova Levante;1982;20,9
+2940;Nova Ponente;1982;23,3
+2941;Ora;1982;25,8
+2942;Ortisei;1982;23,3
+2943;Parcines;1982;45,4
+2944;Perca;1982;42,8
+2945;Plaus;1982;46,6
+2946;Ponte Gardena;1982;28
+2947;Postal;1982;38
+2948;Prato allo Stelvio;1982;25,5
+2949;Predoi;1982;22,6
+2950;Proves;1982;26,6
+2951;Racines;1982;33,6
+2952;Rasun-Anterselva;1982;43,6
+2953;Renon;1982;25,8
+2954;Rifiano;1982;38,7
+2955;Rio di Pusteria;1982;34,5
+2956;Rodengo;1982;38,6
+2957;Salorno;1982;28,2
+2958;San Candido;1982;44,5
+2959;San Genesio Atesino;1982;27,5
+2960;San Leonardo in Passiria;1982;36,9
+2961;San Lorenzo di Sebato;1982;41,2
+2962;San Martino in Badia;1982;32,2
+2963;San Martino in Passiria;1982;37,4
+2964;San Pancrazio;1982;37,3
+2965;Santa Cristina Valgardena;1982;22,6
+2966;Sarentino;1982;36,2
+2967;Scena;1982;40
+2968;Selva dei Molini;1982;28,9
+2969;Selva di Val Gardena;1982;22,7
+2970;Senales;1982;49
+2972;Sesto;1982;43,5
+2973;Silandro;1982;40,3
+2974;Sluderno;1982;27,7
+2975;Stelvio;1982;22,1
+2976;Terento;1982;34,8
+2977;Terlano;1982;33,6
+2978;Termeno sulla strada del vino;1982;27,4
+2979;Tesimo;1982;33,6
+2980;Tires;1982;21,7
+2981;Tirolo;1982;42,4
+2982;Trodena nel parco naturale;1982;24,1
+2983;Tubre;1982;26,1
+2984;Ultimo;1982;25,3
+2985;Vadena;1982;27
+2987;Valdaora;1982;48
+2986;Val di Vizze;1982;29,6
+2988;Valle Aurina;1982;24,3
+2989;Valle di Casies;1982;44,4
+2990;Vandoies;1982;32,2
+2991;Varna;1982;38,6
+2993;Verano;1982;35,3
+2994;Villabassa;1982;52,2
+2995;Villandro;1982;32,2
+2996;Vipiteno;1982;31,7
+2992;Velturno;1982;35,1
+2917;La Valle;1982;32,8
+2971;Senale-San Felice;1982;28,7
+2881;Aldino;1983;29,2
+2882;Andriano;1983;28,2
+2883;Anterivo;1983;27,5
+2884;Appiano sulla strada del vino;1983;30
+2885;Avelengo;1983;36,3
+2886;Badia;1983;25,8
+2887;Barbiano;1983;33,7
+2888;Bolzano;1983;27,7
+2889;Braies;1983;49,1
+2890;Brennero;1983;32,7
+2891;Bressanone;1983;38,9
+2892;Bronzolo;1983;28,8
+2893;Brunico;1983;46,1
+2894;Caines;1983;41
+2895;Caldaro sulla strada del vino;1983;31,3
+2896;Campo di Trens;1983;35,3
+2897;Campo Tures;1983;34,1
+2898;Castelbello-Ciardes;1983;36
+2899;Castelrotto;1983;30,1
+2900;Cermes;1983;37
+2901;Chienes;1983;38,5
+2902;Chiusa;1983;39,3
+2903;Cornedo all'Isarco;1983;29,7
+2904;Cortaccia sulla strada del vino;1983;33,6
+2905;Cortina sulla strada del vino;1983;32,3
+2906;Corvara in Badia;1983;22,8
+2907;Curon Venosta;1983;36,7
+2908;Dobbiaco;1983;47,6
+2909;Egna;1983;30,6
+2910;Falzes;1983;38,3
+2911;Fiè allo Sciliar;1983;29,3
+2912;Fortezza;1983;39,9
+2913;Funes;1983;33,6
+2914;Gais;1983;41,8
+2915;Gargazzone;1983;28,3
+2916;Glorenza;1983;39,3
+2918;Laces;1983;35,9
+2919;Lagundo;1983;40,2
+2920;Laion;1983;34,9
+2921;Laives;1983;29,1
+2922;Lana;1983;34,4
+2923;Lasa;1983;36,6
+2924;Lauregno;1983;33,5
+2925;Luson;1983;38,5
+2926;Magrè sulla strada del vino;1983;33,2
+2927;Malles Venosta;1983;39,2
+2928;Marebbe;1983;37,5
+2929;Marlengo;1983;38,4
+2930;Martello;1983;31,9
+2931;Meltina;1983;30,3
+2932;Merano;1983;36,9
+2933;Monguelfo-Tesido;1983;52,4
+2934;Montagna;1983;29,6
+2935;Moso in Passiria;1983;44,8
+2936;Nalles;1983;29,9
+2937;Naturno;1983;37,6
+2938;Naz-Sciaves;1983;41,6
+2939;Nova Levante;1983;28,6
+2940;Nova Ponente;1983;30
+2941;Ora;1983;28,8
+2942;Ortisei;1983;30,7
+2943;Parcines;1983;43,6
+2944;Perca;1983;47,4
+2945;Plaus;1983;37,2
+2946;Ponte Gardena;1983;33,5
+2947;Postal;1983;30,9
+2948;Prato allo Stelvio;1983;36,4
+2949;Predoi;1983;27
+2950;Proves;1983;33,2
+2951;Racines;1983;39,3
+2952;Rasun-Anterselva;1983;47,9
+2953;Renon;1983;28,5
+2954;Rifiano;1983;46,2
+2955;Rio di Pusteria;1983;33,3
+2956;Rodengo;1983;39,7
+2957;Salorno;1983;31,2
+2958;San Candido;1983;44,7
+2959;San Genesio Atesino;1983;28
+2960;San Leonardo in Passiria;1983;42,7
+2961;San Lorenzo di Sebato;1983;42,8
+2962;San Martino in Badia;1983;31,7
+2963;San Martino in Passiria;1983;44,6
+2964;San Pancrazio;1983;34,7
+2965;Santa Cristina Valgardena;1983;26,9
+2966;Sarentino;1983;38,2
+2967;Scena;1983;41,3
+2968;Selva dei Molini;1983;29,2
+2969;Selva di Val Gardena;1983;23,7
+2970;Senales;1983;47,3
+2972;Sesto;1983;41,5
+2973;Silandro;1983;41
+2974;Sluderno;1983;40
+2975;Stelvio;1983;32,8
+2976;Terento;1983;35
+2977;Terlano;1983;27,7
+2978;Termeno sulla strada del vino;1983;32,1
+2979;Tesimo;1983;33,1
+2980;Tires;1983;29,5
+2981;Tirolo;1983;44
+2982;Trodena nel parco naturale;1983;29,2
+2983;Tubre;1983;36,7
+2984;Ultimo;1983;33
+2985;Vadena;1983;29
+2987;Valdaora;1983;48,8
+2986;Val di Vizze;1983;27,3
+2988;Valle Aurina;1983;27,8
+2989;Valle di Casies;1983;47,7
+2990;Vandoies;1983;32
+2991;Varna;1983;41,4
+2993;Verano;1983;32,8
+2994;Villabassa;1983;53
+2995;Villandro;1983;36,1
+2996;Vipiteno;1983;34,5
+2992;Velturno;1983;39,7
+2917;La Valle;1983;33,5
+2971;Senale-San Felice;1983;35
+2881;Aldino;1984;17,4
+2882;Andriano;1984;16,1
+2883;Anterivo;1984;17
+2884;Appiano sulla strada del vino;1984;15,8
+2885;Avelengo;1984;20,7
+2886;Badia;1984;26,1
+2887;Barbiano;1984;23
+2888;Bolzano;1984;16,4
+2889;Braies;1984;32,1
+2890;Brennero;1984;20,8
+2891;Bressanone;1984;28,8
+2892;Bronzolo;1984;15,4
+2893;Brunico;1984;29,3
+2894;Caines;1984;20
+2895;Caldaro sulla strada del vino;1984;16,1
+2896;Campo di Trens;1984;24,1
+2897;Campo Tures;1984;24,3
+2898;Castelbello-Ciardes;1984;20,6
+2899;Castelrotto;1984;24,3
+2900;Cermes;1984;18,4
+2901;Chienes;1984;24,6
+2902;Chiusa;1984;26,3
+2903;Cornedo all'Isarco;1984;19
+2904;Cortaccia sulla strada del vino;1984;18,2
+2905;Cortina sulla strada del vino;1984;17,3
+2906;Corvara in Badia;1984;22,9
+2907;Curon Venosta;1984;18,5
+2908;Dobbiaco;1984;30,6
+2909;Egna;1984;16,4
+2910;Falzes;1984;24,9
+2911;Fiè allo Sciliar;1984;21,7
+2912;Fortezza;1984;25,9
+2913;Funes;1984;29,1
+2914;Gais;1984;26,9
+2915;Gargazzone;1984;16,3
+2916;Glorenza;1984;21,2
+2918;Laces;1984;21,8
+2919;Lagundo;1984;20
+2920;Laion;1984;25,6
+2921;Laives;1984;16,1
+2922;Lana;1984;18,8
+2923;Lasa;1984;23,2
+2924;Lauregno;1984;20,4
+2925;Luson;1984;29,9
+2926;Magrè sulla strada del vino;1984;18,1
+2927;Malles Venosta;1984;19,9
+2928;Marebbe;1984;31,1
+2929;Marlengo;1984;18,7
+2930;Martello;1984;22,9
+2931;Meltina;1984;18,4
+2932;Merano;1984;18,8
+2933;Monguelfo-Tesido;1984;33
+2934;Montagna;1984;16,8
+2935;Moso in Passiria;1984;22,4
+2936;Nalles;1984;17,2
+2937;Naturno;1984;20
+2938;Naz-Sciaves;1984;24,6
+2939;Nova Levante;1984;20,1
+2940;Nova Ponente;1984;18,1
+2941;Ora;1984;15,4
+2942;Ortisei;1984;26,4
+2943;Parcines;1984;20,5
+2944;Perca;1984;30
+2945;Plaus;1984;19,2
+2946;Ponte Gardena;1984;23,4
+2947;Postal;1984;17,5
+2948;Prato allo Stelvio;1984;22,4
+2949;Predoi;1984;20,3
+2950;Proves;1984;20,5
+2951;Racines;1984;23,4
+2952;Rasun-Anterselva;1984;30,3
+2953;Renon;1984;20,1
+2954;Rifiano;1984;22,1
+2955;Rio di Pusteria;1984;22,1
+2956;Rodengo;1984;24,6
+2957;Salorno;1984;17,3
+2958;San Candido;1984;29,7
+2959;San Genesio Atesino;1984;17,7
+2960;San Leonardo in Passiria;1984;24,1
+2961;San Lorenzo di Sebato;1984;29,8
+2962;San Martino in Badia;1984;32,1
+2963;San Martino in Passiria;1984;22,8
+2964;San Pancrazio;1984;20,5
+2965;Santa Cristina Valgardena;1984;24,8
+2966;Sarentino;1984;24,5
+2967;Scena;1984;22,3
+2968;Selva dei Molini;1984;21,5
+2969;Selva di Val Gardena;1984;24,1
+2970;Senales;1984;23,3
+2972;Sesto;1984;29,6
+2973;Silandro;1984;22,6
+2974;Sluderno;1984;21,5
+2975;Stelvio;1984;22,5
+2976;Terento;1984;21,8
+2977;Terlano;1984;16,1
+2978;Termeno sulla strada del vino;1984;16,7
+2979;Tesimo;1984;19,3
+2980;Tires;1984;21,8
+2981;Tirolo;1984;20,5
+2982;Trodena nel parco naturale;1984;17,6
+2983;Tubre;1984;19,9
+2984;Ultimo;1984;21,4
+2985;Vadena;1984;14,9
+2987;Valdaora;1984;33,4
+2986;Val di Vizze;1984;19,4
+2988;Valle Aurina;1984;21,3
+2989;Valle di Casies;1984;29,9
+2990;Vandoies;1984;20,7
+2991;Varna;1984;27,5
+2993;Verano;1984;19,5
+2994;Villabassa;1984;32,1
+2995;Villandro;1984;24,1
+2996;Vipiteno;1984;22,3
+2992;Velturno;1984;27,6
+2917;La Valle;1984;31,1
+2971;Senale-San Felice;1984;20,5
+2881;Aldino;1985;35,7
+2882;Andriano;1985;20,7
+2883;Anterivo;1985;35,8
+2884;Appiano sulla strada del vino;1985;22,6
+2885;Avelengo;1985;35,8
+2886;Badia;1985;36
+2887;Barbiano;1985;36,5
+2888;Bolzano;1985;23,8
+2889;Braies;1985;40,5
+2890;Brennero;1985;26,1
+2891;Bressanone;1985;26,3
+2892;Bronzolo;1985;22,7
+2893;Brunico;1985;27,1
+2894;Caines;1985;25,9
+2895;Caldaro sulla strada del vino;1985;25,4
+2896;Campo di Trens;1985;27,2
+2897;Campo Tures;1985;30,2
+2898;Castelbello-Ciardes;1985;26,1
+2899;Castelrotto;1985;36,5
+2900;Cermes;1985;25,6
+2901;Chienes;1985;19,1
+2902;Chiusa;1985;35,1
+2903;Cornedo all'Isarco;1985;34,1
+2904;Cortaccia sulla strada del vino;1985;32,1
+2905;Cortina sulla strada del vino;1985;26,1
+2906;Corvara in Badia;1985;37,9
+2907;Curon Venosta;1985;22
+2908;Dobbiaco;1985;37,3
+2909;Egna;1985;30
+2910;Falzes;1985;19,1
+2911;Fiè allo Sciliar;1985;36,5
+2912;Fortezza;1985;27,9
+2913;Funes;1985;30,9
+2914;Gais;1985;27,2
+2915;Gargazzone;1985;23,8
+2916;Glorenza;1985;24,1
+2918;Laces;1985;29
+2919;Lagundo;1985;26
+2920;Laion;1985;32,1
+2921;Laives;1985;24,2
+2922;Lana;1985;24,9
+2923;Lasa;1985;29,2
+2924;Lauregno;1985;31,1
+2925;Luson;1985;23,4
+2926;Magrè sulla strada del vino;1985;29,9
+2927;Malles Venosta;1985;25,4
+2928;Marebbe;1985;36,9
+2929;Marlengo;1985;25,7
+2930;Martello;1985;32,8
+2931;Meltina;1985;32,8
+2932;Merano;1985;26,9
+2933;Monguelfo-Tesido;1985;37,8
+2934;Montagna;1985;31,8
+2935;Moso in Passiria;1985;33,2
+2936;Nalles;1985;24,5
+2937;Naturno;1985;25,9
+2938;Naz-Sciaves;1985;22,1
+2939;Nova Levante;1985;46,5
+2940;Nova Ponente;1985;39,1
+2941;Ora;1985;23,7
+2942;Ortisei;1985;32,9
+2943;Parcines;1985;31,6
+2944;Perca;1985;34
+2945;Plaus;1985;22,5
+2946;Ponte Gardena;1985;30,8
+2947;Postal;1985;25,6
+2948;Prato allo Stelvio;1985;27,3
+2949;Predoi;1985;31,5
+2950;Proves;1985;31
+2951;Racines;1985;31,4
+2952;Rasun-Anterselva;1985;36,6
+2953;Renon;1985;32,9
+2954;Rifiano;1985;31,7
+2955;Rio di Pusteria;1985;22,9
+2956;Rodengo;1985;20,3
+2957;Salorno;1985;30,9
+2958;San Candido;1985;35,3
+2959;San Genesio Atesino;1985;31,8
+2960;San Leonardo in Passiria;1985;32,8
+2961;San Lorenzo di Sebato;1985;22,7
+2962;San Martino in Badia;1985;31,6
+2963;San Martino in Passiria;1985;29,3
+2964;San Pancrazio;1985;26,1
+2965;Santa Cristina Valgardena;1985;35,6
+2966;Sarentino;1985;37,9
+2967;Scena;1985;31,8
+2968;Selva dei Molini;1985;19,4
+2969;Selva di Val Gardena;1985;37,1
+2970;Senales;1985;43,7
+2972;Sesto;1985;34,9
+2973;Silandro;1985;34,2
+2974;Sluderno;1985;23,4
+2975;Stelvio;1985;30,3
+2976;Terento;1985;18,7
+2977;Terlano;1985;22
+2978;Termeno sulla strada del vino;1985;27,9
+2979;Tesimo;1985;26,1
+2980;Tires;1985;44,2
+2981;Tirolo;1985;30,3
+2982;Trodena nel parco naturale;1985;34,9
+2983;Tubre;1985;28,2
+2984;Ultimo;1985;32,1
+2985;Vadena;1985;22
+2987;Valdaora;1985;37,6
+2986;Val di Vizze;1985;23,6
+2988;Valle Aurina;1985;25,7
+2989;Valle di Casies;1985;37
+2990;Vandoies;1985;20,5
+2991;Varna;1985;31,5
+2993;Verano;1985;34,4
+2994;Villabassa;1985;35,8
+2995;Villandro;1985;37,7
+2996;Vipiteno;1985;24,6
+2992;Velturno;1985;32,4
+2917;La Valle;1985;34,4
+2971;Senale-San Felice;1985;30,6
+2881;Aldino;1986;34,7
+2882;Andriano;1986;34,1
+2883;Anterivo;1986;32,6
+2884;Appiano sulla strada del vino;1986;33,1
+2885;Avelengo;1986;39,1
+2886;Badia;1986;37,4
+2887;Barbiano;1986;41,4
+2888;Bolzano;1986;32,7
+2889;Braies;1986;50,7
+2890;Brennero;1986;28,3
+2891;Bressanone;1986;40
+2892;Bronzolo;1986;30,8
+2893;Brunico;1986;18,6
+2894;Caines;1986;40,6
+2895;Caldaro sulla strada del vino;1986;34,1
+2896;Campo di Trens;1986;30,9
+2897;Campo Tures;1986;27,6
+2898;Castelbello-Ciardes;1986;29,3
+2899;Castelrotto;1986;39,2
+2900;Cermes;1986;39,1
+2901;Chienes;1986;18,8
+2902;Chiusa;1986;44,6
+2903;Cornedo all'Isarco;1986;35,8
+2904;Cortaccia sulla strada del vino;1986;36,4
+2905;Cortina sulla strada del vino;1986;33,3
+2906;Corvara in Badia;1986;36,5
+2907;Curon Venosta;1986;44,4
+2908;Dobbiaco;1986;47,1
+2909;Egna;1986;33,4
+2910;Falzes;1986;12,9
+2911;Fiè allo Sciliar;1986;37,4
+2912;Fortezza;1986;32,9
+2913;Funes;1986;40,8
+2914;Gais;1986;18,8
+2915;Gargazzone;1986;38,2
+2916;Glorenza;1986;33,4
+2918;Laces;1986;27,7
+2919;Lagundo;1986;39,2
+2920;Laion;1986;43,7
+2921;Laives;1986;31,5
+2922;Lana;1986;37,5
+2923;Lasa;1986;26,3
+2924;Lauregno;1986;34
+2925;Luson;1986;32,6
+2926;Magrè sulla strada del vino;1986;35
+2927;Malles Venosta;1986;39,7
+2928;Marebbe;1986;37,7
+2929;Marlengo;1986;39,6
+2930;Martello;1986;21,7
+2931;Meltina;1986;36,6
+2932;Merano;1986;40,3
+2933;Monguelfo-Tesido;1986;44,3
+2934;Montagna;1986;33,4
+2935;Moso in Passiria;1986;40,5
+2936;Nalles;1986;35,4
+2937;Naturno;1986;33,7
+2938;Naz-Sciaves;1986;36,9
+2939;Nova Levante;1986;37,9
+2940;Nova Ponente;1986;35,9
+2941;Ora;1986;32
+2942;Ortisei;1986;39,2
+2943;Parcines;1986;41,1
+2944;Perca;1986;27,6
+2945;Plaus;1986;36,3
+2946;Ponte Gardena;1986;43,2
+2947;Postal;1986;39
+2948;Prato allo Stelvio;1986;27,9
+2949;Predoi;1986;39,9
+2950;Proves;1986;31,9
+2951;Racines;1986;36,7
+2952;Rasun-Anterselva;1986;35,4
+2953;Renon;1986;36,4
+2954;Rifiano;1986;41
+2955;Rio di Pusteria;1986;26
+2956;Rodengo;1986;30,6
+2957;Salorno;1986;32,4
+2958;San Candido;1986;43,9
+2959;San Genesio Atesino;1986;34,5
+2960;San Leonardo in Passiria;1986;38,1
+2961;San Lorenzo di Sebato;1986;20,4
+2962;San Martino in Badia;1986;36,9
+2963;San Martino in Passiria;1986;39
+2964;San Pancrazio;1986;32,2
+2965;Santa Cristina Valgardena;1986;38,2
+2966;Sarentino;1986;38,1
+2967;Scena;1986;39,9
+2968;Selva dei Molini;1986;17
+2969;Selva di Val Gardena;1986;37,5
+2970;Senales;1986;44,3
+2972;Sesto;1986;43,3
+2973;Silandro;1986;32,1
+2974;Sluderno;1986;33,2
+2975;Stelvio;1986;23,3
+2976;Terento;1986;20,7
+2977;Terlano;1986;34,9
+2978;Termeno sulla strada del vino;1986;34,3
+2979;Tesimo;1986;35,1
+2980;Tires;1986;37,6
+2981;Tirolo;1986;41,1
+2982;Trodena nel parco naturale;1986;33,3
+2983;Tubre;1986;35,9
+2984;Ultimo;1986;28
+2985;Vadena;1986;30,6
+2987;Valdaora;1986;39,9
+2986;Val di Vizze;1986;24,8
+2988;Valle Aurina;1986;28,1
+2989;Valle di Casies;1986;40,3
+2990;Vandoies;1986;23,3
+2991;Varna;1986;39
+2993;Verano;1986;38,2
+2994;Villabassa;1986;47,7
+2995;Villandro;1986;42,8
+2996;Vipiteno;1986;30,7
+2992;Velturno;1986;45
+2917;La Valle;1986;38,2
+2971;Senale-San Felice;1986;34,2
+2881;Aldino;1987;33,4
+2882;Andriano;1987;26,3
+2883;Anterivo;1987;30,6
+2884;Appiano sulla strada del vino;1987;26,6
+2885;Avelengo;1987;31,2
+2886;Badia;1987;33,4
+2887;Barbiano;1987;32,4
+2888;Bolzano;1987;27,2
+2889;Braies;1987;37,5
+2890;Brennero;1987;30,9
+2891;Bressanone;1987;26,8
+2892;Bronzolo;1987;27,4
+2893;Brunico;1987;14,5
+2894;Caines;1987;26,7
+2895;Caldaro sulla strada del vino;1987;28,1
+2896;Campo di Trens;1987;33
+2897;Campo Tures;1987;27,5
+2898;Castelbello-Ciardes;1987;32,2
+2899;Castelrotto;1987;35
+2900;Cermes;1987;28,9
+2901;Chienes;1987;17,5
+2902;Chiusa;1987;33,1
+2903;Cornedo all'Isarco;1987;33
+2904;Cortaccia sulla strada del vino;1987;28,8
+2905;Cortina sulla strada del vino;1987;25,1
+2906;Corvara in Badia;1987;35,3
+2907;Curon Venosta;1987;36,6
+2908;Dobbiaco;1987;37,4
+2909;Egna;1987;28,4
+2910;Falzes;1987;15,9
+2911;Fiè allo Sciliar;1987;32,3
+2912;Fortezza;1987;32,3
+2913;Funes;1987;33,3
+2914;Gais;1987;20,5
+2915;Gargazzone;1987;26,2
+2916;Glorenza;1987;35,2
+2918;Laces;1987;32,8
+2919;Lagundo;1987;31,2
+2920;Laion;1987;31,8
+2921;Laives;1987;28,4
+2922;Lana;1987;29,4
+2923;Lasa;1987;34,9
+2924;Lauregno;1987;30,8
+2925;Luson;1987;23
+2926;Magrè sulla strada del vino;1987;26,6
+2927;Malles Venosta;1987;36,2
+2928;Marebbe;1987;29,7
+2929;Marlengo;1987;28,6
+2930;Martello;1987;34,6
+2931;Meltina;1987;30,6
+2932;Merano;1987;26,8
+2933;Monguelfo-Tesido;1987;36,1
+2934;Montagna;1987;30,2
+2935;Moso in Passiria;1987;34,4
+2936;Nalles;1987;28,6
+2937;Naturno;1987;33,2
+2938;Naz-Sciaves;1987;20
+2939;Nova Levante;1987;38,3
+2940;Nova Ponente;1987;36,3
+2941;Ora;1987;27,7
+2942;Ortisei;1987;36,3
+2943;Parcines;1987;34,4
+2944;Perca;1987;25,4
+2945;Plaus;1987;31,7
+2946;Ponte Gardena;1987;28,6
+2947;Postal;1987;26,4
+2948;Prato allo Stelvio;1987;36,4
+2949;Predoi;1987;28,1
+2950;Proves;1987;31,6
+2951;Racines;1987;32
+2952;Rasun-Anterselva;1987;32,3
+2953;Renon;1987;29,4
+2954;Rifiano;1987;31,7
+2955;Rio di Pusteria;1987;32,4
+2956;Rodengo;1987;22,8
+2957;Salorno;1987;26,7
+2958;San Candido;1987;35,8
+2959;San Genesio Atesino;1987;29,4
+2960;San Leonardo in Passiria;1987;31
+2961;San Lorenzo di Sebato;1987;13,9
+2962;San Martino in Badia;1987;28,8
+2963;San Martino in Passiria;1987;28,5
+2964;San Pancrazio;1987;32
+2965;Santa Cristina Valgardena;1987;36,8
+2966;Sarentino;1987;31,5
+2967;Scena;1987;29
+2968;Selva dei Molini;1987;27,4
+2969;Selva di Val Gardena;1987;36,4
+2970;Senales;1987;37,4
+2972;Sesto;1987;34,6
+2973;Silandro;1987;34,1
+2974;Sluderno;1987;34,2
+2975;Stelvio;1987;38,2
+2976;Terento;1987;25,4
+2977;Terlano;1987;26,3
+2978;Termeno sulla strada del vino;1987;29
+2979;Tesimo;1987;30,5
+2980;Tires;1987;37,3
+2981;Tirolo;1987;31,2
+2982;Trodena nel parco naturale;1987;31,5
+2983;Tubre;1987;36,8
+2984;Ultimo;1987;33,8
+2985;Vadena;1987;26,1
+2987;Valdaora;1987;29,6
+2986;Val di Vizze;1987;32
+2988;Valle Aurina;1987;28,6
+2989;Valle di Casies;1987;37,5
+2990;Vandoies;1987;29,2
+2991;Varna;1987;31,7
+2993;Verano;1987;31,4
+2994;Villabassa;1987;37,8
+2995;Villandro;1987;33
+2996;Vipiteno;1987;29,9
+2992;Velturno;1987;32,5
+2917;La Valle;1987;30,7
+2971;Senale-San Felice;1987;31,9
+2881;Aldino;1988;37,6
+2882;Andriano;1988;33,6
+2883;Anterivo;1988;37,3
+2884;Appiano sulla strada del vino;1988;33,6
+2885;Avelengo;1988;29,9
+2886;Badia;1988;29,5
+2887;Barbiano;1988;32
+2888;Bolzano;1988;34,7
+2889;Braies;1988;34,9
+2890;Brennero;1988;30,4
+2891;Bressanone;1988;29,9
+2892;Bronzolo;1988;34,4
+2893;Brunico;1988;32,6
+2894;Caines;1988;31,9
+2895;Caldaro sulla strada del vino;1988;34
+2896;Campo di Trens;1988;32,4
+2897;Campo Tures;1988;33,5
+2898;Castelbello-Ciardes;1988;27,3
+2899;Castelrotto;1988;33,3
+2900;Cermes;1988;31,7
+2901;Chienes;1988;34,1
+2902;Chiusa;1988;31,2
+2903;Cornedo all'Isarco;1988;35,9
+2904;Cortaccia sulla strada del vino;1988;34,2
+2905;Cortina sulla strada del vino;1988;34
+2906;Corvara in Badia;1988;30,8
+2907;Curon Venosta;1988;33,1
+2908;Dobbiaco;1988;36,8
+2909;Egna;1988;34,8
+2910;Falzes;1988;34,2
+2911;Fiè allo Sciliar;1988;34,6
+2912;Fortezza;1988;32,3
+2913;Funes;1988;30,5
+2914;Gais;1988;33,2
+2915;Gargazzone;1988;33,8
+2916;Glorenza;1988;29,1
+2918;Laces;1988;27,6
+2919;Lagundo;1988;31,2
+2920;Laion;1988;32
+2921;Laives;1988;34,6
+2922;Lana;1988;31,2
+2923;Lasa;1988;29
+2924;Lauregno;1988;28,5
+2925;Luson;1988;30,2
+2926;Magrè sulla strada del vino;1988;34
+2927;Malles Venosta;1988;31,5
+2928;Marebbe;1988;30,4
+2929;Marlengo;1988;31,8
+2930;Martello;1988;32,7
+2931;Meltina;1988;30,6
+2932;Merano;1988;32
+2933;Monguelfo-Tesido;1988;33,7
+2934;Montagna;1988;36,5
+2935;Moso in Passiria;1988;31,1
+2936;Nalles;1988;32,2
+2937;Naturno;1988;28,8
+2938;Naz-Sciaves;1988;30
+2939;Nova Levante;1988;38,7
+2940;Nova Ponente;1988;37,9
+2941;Ora;1988;35,2
+2942;Ortisei;1988;31,2
+2943;Parcines;1988;31,5
+2944;Perca;1988;32,4
+2945;Plaus;1988;28,8
+2946;Ponte Gardena;1988;32,2
+2947;Postal;1988;33
+2948;Prato allo Stelvio;1988;30,3
+2949;Predoi;1988;33,2
+2950;Proves;1988;27,8
+2951;Racines;1988;31,6
+2952;Rasun-Anterselva;1988;32,5
+2953;Renon;1988;32,4
+2954;Rifiano;1988;31,2
+2955;Rio di Pusteria;1988;32,6
+2956;Rodengo;1988;32,6
+2957;Salorno;1988;34,4
+2958;San Candido;1988;37,8
+2959;San Genesio Atesino;1988;31,1
+2960;San Leonardo in Passiria;1988;31
+2961;San Lorenzo di Sebato;1988;31,8
+2962;San Martino in Badia;1988;28,6
+2963;San Martino in Passiria;1988;29,9
+2964;San Pancrazio;1988;26,4
+2965;Santa Cristina Valgardena;1988;31,6
+2966;Sarentino;1988;30,6
+2967;Scena;1988;30,3
+2968;Selva dei Molini;1988;33,8
+2969;Selva di Val Gardena;1988;31,5
+2970;Senales;1988;32,2
+2972;Sesto;1988;37,1
+2973;Silandro;1988;28,4
+2974;Sluderno;1988;27,5
+2975;Stelvio;1988;31,3
+2976;Terento;1988;34,6
+2977;Terlano;1988;33,7
+2978;Termeno sulla strada del vino;1988;34,3
+2979;Tesimo;1988;29,3
+2980;Tires;1988;36,8
+2981;Tirolo;1988;32
+2982;Trodena nel parco naturale;1988;37,4
+2983;Tubre;1988;30,9
+2984;Ultimo;1988;30,5
+2985;Vadena;1988;34,2
+2987;Valdaora;1988;33,5
+2986;Val di Vizze;1988;31,3
+2988;Valle Aurina;1988;32,8
+2989;Valle di Casies;1988;33,7
+2990;Vandoies;1988;33,2
+2991;Varna;1988;31,4
+2993;Verano;1988;30,1
+2994;Villabassa;1988;35,3
+2995;Villandro;1988;31,3
+2996;Vipiteno;1988;31,6
+2992;Velturno;1988;31,4
+2917;La Valle;1988;28,9
+2971;Senale-San Felice;1988;28
+2881;Aldino;1989;19,7
+2882;Andriano;1989;19,9
+2883;Anterivo;1989;15,4
+2884;Appiano sulla strada del vino;1989;18,5
+2885;Avelengo;1989;21,8
+2886;Badia;1989;16,2
+2887;Barbiano;1989;20,5
+2888;Bolzano;1989;20,9
+2889;Braies;1989;17,9
+2890;Brennero;1989;12,3
+2891;Bressanone;1989;14,5
+2892;Bronzolo;1989;18,3
+2893;Brunico;1989;16
+2894;Caines;1989;17
+2895;Caldaro sulla strada del vino;1989;18,2
+2896;Campo di Trens;1989;12,5
+2897;Campo Tures;1989;25,9
+2898;Castelbello-Ciardes;1989;18,7
+2899;Castelrotto;1989;19,5
+2900;Cermes;1989;20,2
+2901;Chienes;1989;16,5
+2902;Chiusa;1989;17,9
+2903;Cornedo all'Isarco;1989;21,9
+2904;Cortaccia sulla strada del vino;1989;20
+2905;Cortina sulla strada del vino;1989;19,9
+2906;Corvara in Badia;1989;17,2
+2907;Curon Venosta;1989;27,5
+2908;Dobbiaco;1989;16,5
+2909;Egna;1989;18
+2910;Falzes;1989;19
+2911;Fiè allo Sciliar;1989;20,8
+2912;Fortezza;1989;11,6
+2913;Funes;1989;17,2
+2914;Gais;1989;19,1
+2915;Gargazzone;1989;20,2
+2916;Glorenza;1989;29,8
+2918;Laces;1989;21
+2919;Lagundo;1989;20,3
+2920;Laion;1989;18,6
+2921;Laives;1989;19,7
+2922;Lana;1989;20,7
+2923;Lasa;1989;26,8
+2924;Lauregno;1989;17,4
+2925;Luson;1989;15,3
+2926;Magrè sulla strada del vino;1989;20,4
+2927;Malles Venosta;1989;29,8
+2928;Marebbe;1989;16,7
+2929;Marlengo;1989;19,8
+2930;Martello;1989;20,4
+2931;Meltina;1989;22,4
+2932;Merano;1989;18,6
+2933;Monguelfo-Tesido;1989;17,2
+2934;Montagna;1989;17,5
+2935;Moso in Passiria;1989;19,6
+2936;Nalles;1989;19,8
+2937;Naturno;1989;19,4
+2938;Naz-Sciaves;1989;8,9
+2939;Nova Levante;1989;21,8
+2940;Nova Ponente;1989;22,2
+2941;Ora;1989;18,2
+2942;Ortisei;1989;18,7
+2943;Parcines;1989;21,9
+2944;Perca;1989;18
+2945;Plaus;1989;18,7
+2946;Ponte Gardena;1989;17,1
+2947;Postal;1989;20,9
+2948;Prato allo Stelvio;1989;26,8
+2949;Predoi;1989;35
+2950;Proves;1989;18,9
+2951;Racines;1989;14,3
+2952;Rasun-Anterselva;1989;18,7
+2953;Renon;1989;21,2
+2954;Rifiano;1989;20,3
+2955;Rio di Pusteria;1989;13,4
+2956;Rodengo;1989;13,4
+2957;Salorno;1989;18,9
+2958;San Candido;1989;16
+2959;San Genesio Atesino;1989;21,7
+2960;San Leonardo in Passiria;1989;18,3
+2961;San Lorenzo di Sebato;1989;15,7
+2962;San Martino in Badia;1989;15,6
+2963;San Martino in Passiria;1989;18,4
+2964;San Pancrazio;1989;21,2
+2965;Santa Cristina Valgardena;1989;17,3
+2966;Sarentino;1989;17,8
+2967;Scena;1989;18,7
+2968;Selva dei Molini;1989;20,4
+2969;Selva di Val Gardena;1989;16,9
+2970;Senales;1989;24,1
+2972;Sesto;1989;16,9
+2973;Silandro;1989;25,2
+2974;Sluderno;1989;30,1
+2975;Stelvio;1989;24,8
+2976;Terento;1989;16,8
+2977;Terlano;1989;20,4
+2978;Termeno sulla strada del vino;1989;18,7
+2979;Tesimo;1989;20,7
+2980;Tires;1989;21,3
+2981;Tirolo;1989;20
+2982;Trodena nel parco naturale;1989;16,5
+2983;Tubre;1989;26,5
+2984;Ultimo;1989;20,4
+2985;Vadena;1989;18
+2987;Valdaora;1989;17
+2986;Val di Vizze;1989;16,2
+2988;Valle Aurina;1989;25,8
+2989;Valle di Casies;1989;17,2
+2990;Vandoies;1989;15,9
+2991;Varna;1989;14,1
+2993;Verano;1989;22,8
+2994;Villabassa;1989;16,9
+2995;Villandro;1989;19,4
+2996;Vipiteno;1989;11,5
+2992;Velturno;1989;16,7
+2917;La Valle;1989;15,6
+2971;Senale-San Felice;1989;20,2
+2881;Aldino;1990;37,6
+2882;Andriano;1990;40,1
+2883;Anterivo;1990;28,5
+2884;Appiano sulla strada del vino;1990;39,3
+2885;Avelengo;1990;31,6
+2886;Badia;1990;30,8
+2887;Barbiano;1990;32,8
+2888;Bolzano;1990;42,2
+2889;Braies;1990;32,1
+2890;Brennero;1990;31,9
+2891;Bressanone;1990;29,8
+2892;Bronzolo;1990;40,2
+2893;Brunico;1990;35
+2894;Caines;1990;35
+2895;Caldaro sulla strada del vino;1990;38,7
+2896;Campo di Trens;1990;32,3
+2897;Campo Tures;1990;39,5
+2898;Castelbello-Ciardes;1990;31,8
+2899;Castelrotto;1990;35
+2900;Cermes;1990;33,7
+2901;Chienes;1990;38
+2902;Chiusa;1990;31,8
+2903;Cornedo all'Isarco;1990;43
+2904;Cortaccia sulla strada del vino;1990;36,5
+2905;Cortina sulla strada del vino;1990;35,3
+2906;Corvara in Badia;1990;31,6
+2907;Curon Venosta;1990;40,2
+2908;Dobbiaco;1990;32,6
+2909;Egna;1990;32,7
+2910;Falzes;1990;39,6
+2911;Fiè allo Sciliar;1990;40,3
+2912;Fortezza;1990;31,3
+2913;Funes;1990;29,3
+2914;Gais;1990;37,7
+2915;Gargazzone;1990;35,3
+2916;Glorenza;1990;37,6
+2918;Laces;1990;34,1
+2919;Lagundo;1990;33
+2920;Laion;1990;32
+2921;Laives;1990;42,1
+2922;Lana;1990;33,9
+2923;Lasa;1990;37,3
+2924;Lauregno;1990;31,7
+2925;Luson;1990;31,6
+2926;Magrè sulla strada del vino;1990;35,8
+2927;Malles Venosta;1990;38,2
+2928;Marebbe;1990;31,7
+2929;Marlengo;1990;33,2
+2930;Martello;1990;33,2
+2931;Meltina;1990;32
+2932;Merano;1990;33,5
+2933;Monguelfo-Tesido;1990;32,5
+2934;Montagna;1990;32,3
+2935;Moso in Passiria;1990;37,1
+2936;Nalles;1990;35,6
+2937;Naturno;1990;31,7
+2938;Naz-Sciaves;1990;30
+2939;Nova Levante;1990;43,6
+2940;Nova Ponente;1990;41,8
+2941;Ora;1990;38,2
+2942;Ortisei;1990;30,6
+2943;Parcines;1990;34
+2944;Perca;1990;34,8
+2945;Plaus;1990;30,8
+2946;Ponte Gardena;1990;35,4
+2947;Postal;1990;34,9
+2948;Prato allo Stelvio;1990;37,4
+2949;Predoi;1990;40,1
+2950;Proves;1990;32,7
+2951;Racines;1990;32,9
+2952;Rasun-Anterselva;1990;33,7
+2953;Renon;1990;36
+2954;Rifiano;1990;37,6
+2955;Rio di Pusteria;1990;34,9
+2956;Rodengo;1990;33,9
+2957;Salorno;1990;32,2
+2958;San Candido;1990;33,1
+2959;San Genesio Atesino;1990;33,9
+2960;San Leonardo in Passiria;1990;36,1
+2961;San Lorenzo di Sebato;1990;33,6
+2962;San Martino in Badia;1990;30,3
+2963;San Martino in Passiria;1990;38,7
+2964;San Pancrazio;1990;32,8
+2965;Santa Cristina Valgardena;1990;31,3
+2966;Sarentino;1990;31,5
+2967;Scena;1990;34,8
+2968;Selva dei Molini;1990;39,5
+2969;Selva di Val Gardena;1990;31,3
+2970;Senales;1990;34,5
+2972;Sesto;1990;34,7
+2973;Silandro;1990;36,5
+2974;Sluderno;1990;38,2
+2975;Stelvio;1990;34,5
+2976;Terento;1990;40,5
+2977;Terlano;1990;39,6
+2978;Termeno sulla strada del vino;1990;36,9
+2979;Tesimo;1990;33,4
+2980;Tires;1990;42
+2981;Tirolo;1990;36
+2982;Trodena nel parco naturale;1990;30,6
+2983;Tubre;1990;38,3
+2984;Ultimo;1990;34,1
+2985;Vadena;1990;40,4
+2987;Valdaora;1990;33
+2986;Val di Vizze;1990;34,7
+2988;Valle Aurina;1990;40,1
+2989;Valle di Casies;1990;32,6
+2990;Vandoies;1990;37,8
+2991;Varna;1990;30,9
+2993;Verano;1990;31,4
+2994;Villabassa;1990;31,8
+2995;Villandro;1990;32,2
+2996;Vipiteno;1990;32,1
+2992;Velturno;1990;30,7
+2917;La Valle;1990;30,8
+2971;Senale-San Felice;1990;31
+2881;Aldino;1991;42,3
+2882;Andriano;1991;48,7
+2883;Anterivo;1991;34,5
+2884;Appiano sulla strada del vino;1991;48,6
+2885;Avelengo;1991;44,7
+2886;Badia;1991;48,3
+2887;Barbiano;1991;43,4
+2888;Bolzano;1991;49,7
+2889;Braies;1991;47,9
+2890;Brennero;1991;36,3
+2891;Bressanone;1991;45
+2892;Bronzolo;1991;47,8
+2893;Brunico;1991;47,4
+2894;Caines;1991;47
+2895;Caldaro sulla strada del vino;1991;46,8
+2896;Campo di Trens;1991;43,5
+2897;Campo Tures;1991;47,3
+2898;Castelbello-Ciardes;1991;46,2
+2899;Castelrotto;1991;46,2
+2900;Cermes;1991;46,7
+2901;Chienes;1991;45,1
+2902;Chiusa;1991;43,1
+2903;Cornedo all'Isarco;1991;48,9
+2904;Cortaccia sulla strada del vino;1991;47,1
+2905;Cortina sulla strada del vino;1991;46,3
+2906;Corvara in Badia;1991;47,5
+2907;Curon Venosta;1991;46,8
+2908;Dobbiaco;1991;45,7
+2909;Egna;1991;43,7
+2910;Falzes;1991;45,8
+2911;Fiè allo Sciliar;1991;48,7
+2912;Fortezza;1991;46,7
+2913;Funes;1991;46,3
+2914;Gais;1991;46,8
+2915;Gargazzone;1991;47,8
+2916;Glorenza;1991;49,8
+2918;Laces;1991;48,4
+2919;Lagundo;1991;47,7
+2920;Laion;1991;44
+2921;Laives;1991;49,4
+2922;Lana;1991;46,7
+2923;Lasa;1991;51,9
+2924;Lauregno;1991;44,5
+2925;Luson;1991;46,8
+2926;Magrè sulla strada del vino;1991;47,4
+2927;Malles Venosta;1991;49,5
+2928;Marebbe;1991;49,4
+2929;Marlengo;1991;46,7
+2930;Martello;1991;47,9
+2931;Meltina;1991;44,1
+2932;Merano;1991;46,6
+2933;Monguelfo-Tesido;1991;47,7
+2934;Montagna;1991;40
+2935;Moso in Passiria;1991;48,4
+2936;Nalles;1991;47,5
+2937;Naturno;1991;45,6
+2938;Naz-Sciaves;1991;44
+2939;Nova Levante;1991;47,5
+2940;Nova Ponente;1991;47,3
+2941;Ora;1991;45,8
+2942;Ortisei;1991;46,7
+2943;Parcines;1991;48,2
+2944;Perca;1991;47,7
+2945;Plaus;1991;45,8
+2946;Ponte Gardena;1991;45
+2947;Postal;1991;47,3
+2948;Prato allo Stelvio;1991;51,8
+2949;Predoi;1991;52,6
+2950;Proves;1991;45,4
+2951;Racines;1991;41,2
+2952;Rasun-Anterselva;1991;46,8
+2953;Renon;1991;46,1
+2954;Rifiano;1991;50,1
+2955;Rio di Pusteria;1991;46,3
+2956;Rodengo;1991;45,1
+2957;Salorno;1991;44,8
+2958;San Candido;1991;43,8
+2959;San Genesio Atesino;1991;45,1
+2960;San Leonardo in Passiria;1991;46,8
+2961;San Lorenzo di Sebato;1991;46,7
+2962;San Martino in Badia;1991;49,9
+2963;San Martino in Passiria;1991;50,3
+2964;San Pancrazio;1991;44,9
+2965;Santa Cristina Valgardena;1991;47,5
+2966;Sarentino;1991;40,3
+2967;Scena;1991;48,2
+2968;Selva dei Molini;1991;40,2
+2969;Selva di Val Gardena;1991;47,6
+2970;Senales;1991;47,1
+2972;Sesto;1991;42,1
+2973;Silandro;1991;51,7
+2974;Sluderno;1991;52,3
+2975;Stelvio;1991;51,2
+2976;Terento;1991;44,8
+2977;Terlano;1991;48,8
+2978;Termeno sulla strada del vino;1991;45,9
+2979;Tesimo;1991;45,7
+2980;Tires;1991;48,1
+2981;Tirolo;1991;49,2
+2982;Trodena nel parco naturale;1991;35,8
+2983;Tubre;1991;50,2
+2984;Ultimo;1991;46,3
+2985;Vadena;1991;48,2
+2987;Valdaora;1991;48,8
+2986;Val di Vizze;1991;38,3
+2988;Valle Aurina;1991;43,3
+2989;Valle di Casies;1991;45,2
+2990;Vandoies;1991;42,7
+2991;Varna;1991;46,6
+2993;Verano;1991;43,8
+2994;Villabassa;1991;46,6
+2995;Villandro;1991;40,7
+2996;Vipiteno;1991;38,3
+2992;Velturno;1991;44,9
+2917;La Valle;1991;50,3
+2971;Senale-San Felice;1991;44
+2881;Aldino;1992;39,9
+2882;Andriano;1992;45,2
+2883;Anterivo;1992;36,7
+2884;Appiano sulla strada del vino;1992;45,1
+2885;Avelengo;1992;41,1
+2886;Badia;1992;45,5
+2887;Barbiano;1992;45,7
+2888;Bolzano;1992;45,3
+2889;Braies;1992;43,3
+2890;Brennero;1992;39,5
+2891;Bressanone;1992;47,7
+2892;Bronzolo;1992;45,9
+2893;Brunico;1992;43,4
+2894;Caines;1992;38,7
+2895;Caldaro sulla strada del vino;1992;44,5
+2896;Campo di Trens;1992;42,9
+2897;Campo Tures;1992;43,2
+2898;Castelbello-Ciardes;1992;38,2
+2899;Castelrotto;1992;44,3
+2900;Cermes;1992;37,7
+2901;Chienes;1992;46,5
+2902;Chiusa;1992;45,1
+2903;Cornedo all'Isarco;1992;43,5
+2904;Cortaccia sulla strada del vino;1992;43,5
+2905;Cortina sulla strada del vino;1992;44,6
+2906;Corvara in Badia;1992;45
+2907;Curon Venosta;1992;40,2
+2908;Dobbiaco;1992;39,8
+2909;Egna;1992;41,9
+2910;Falzes;1992;44
+2911;Fiè allo Sciliar;1992;43,5
+2912;Fortezza;1992;45,6
+2913;Funes;1992;46,6
+2914;Gais;1992;42,9
+2915;Gargazzone;1992;43,3
+2916;Glorenza;1992;40,4
+2918;Laces;1992;38,3
+2919;Lagundo;1992;37,7
+2920;Laion;1992;45,9
+2921;Laives;1992;45,1
+2922;Lana;1992;38,9
+2923;Lasa;1992;39
+2924;Lauregno;1992;39,1
+2925;Luson;1992;48,4
+2926;Magrè sulla strada del vino;1992;44,2
+2927;Malles Venosta;1992;40,9
+2928;Marebbe;1992;45,7
+2929;Marlengo;1992;37,7
+2930;Martello;1992;36,6
+2931;Meltina;1992;42,9
+2932;Merano;1992;39,1
+2933;Monguelfo-Tesido;1992;42,6
+2934;Montagna;1992;39,4
+2935;Moso in Passiria;1992;38,4
+2936;Nalles;1992;43,9
+2937;Naturno;1992;37,9
+2938;Naz-Sciaves;1992;48,2
+2939;Nova Levante;1992;41,3
+2940;Nova Ponente;1992;41,2
+2941;Ora;1992;44,5
+2942;Ortisei;1992;45,6
+2943;Parcines;1992;38,9
+2944;Perca;1992;43,6
+2945;Plaus;1992;37,2
+2946;Ponte Gardena;1992;45,2
+2947;Postal;1992;41,6
+2948;Prato allo Stelvio;1992;38,9
+2949;Predoi;1992;45
+2950;Proves;1992;39,1
+2951;Racines;1992;41,8
+2952;Rasun-Anterselva;1992;42,7
+2953;Renon;1992;44,5
+2954;Rifiano;1992;38,2
+2955;Rio di Pusteria;1992;43,7
+2956;Rodengo;1992;49,1
+2957;Salorno;1992;42,2
+2958;San Candido;1992;39,6
+2959;San Genesio Atesino;1992;43,5
+2960;San Leonardo in Passiria;1992;39,8
+2961;San Lorenzo di Sebato;1992;46,8
+2962;San Martino in Badia;1992;45,6
+2963;San Martino in Passiria;1992;38,9
+2964;San Pancrazio;1992;37,3
+2965;Santa Cristina Valgardena;1992;45
+2966;Sarentino;1992;41,7
+2967;Scena;1992;39,6
+2968;Selva dei Molini;1992;39
+2969;Selva di Val Gardena;1992;45,1
+2970;Senales;1992;39,6
+2972;Sesto;1992;40,1
+2973;Silandro;1992;40
+2974;Sluderno;1992;41,1
+2975;Stelvio;1992;38,4
+2976;Terento;1992;44,9
+2977;Terlano;1992;45,3
+2978;Termeno sulla strada del vino;1992;43,6
+2979;Tesimo;1992;40,8
+2980;Tires;1992;42,1
+2981;Tirolo;1992;38,1
+2982;Trodena nel parco naturale;1992;37,6
+2983;Tubre;1992;39,8
+2984;Ultimo;1992;37
+2985;Vadena;1992;46,3
+2987;Valdaora;1992;43,7
+2986;Val di Vizze;1992;37,9
+2988;Valle Aurina;1992;41,9
+2989;Valle di Casies;1992;40,5
+2990;Vandoies;1992;41,5
+2991;Varna;1992;45,8
+2993;Verano;1992;42
+2994;Villabassa;1992;41,2
+2995;Villandro;1992;44,8
+2996;Vipiteno;1992;41
+2992;Velturno;1992;45,9
+2917;La Valle;1992;44,8
+2971;Senale-San Felice;1992;39,8
+2881;Aldino;1993;30
+2882;Andriano;1993;36,9
+2883;Anterivo;1993;27,2
+2884;Appiano sulla strada del vino;1993;36,2
+2885;Avelengo;1993;24,6
+2886;Badia;1993;43,4
+2887;Barbiano;1993;29,9
+2888;Bolzano;1993;37,5
+2889;Braies;1993;33,9
+2890;Brennero;1993;32
+2891;Bressanone;1993;40,7
+2892;Bronzolo;1993;36,7
+2893;Brunico;1993;37,5
+2894;Caines;1993;30
+2895;Caldaro sulla strada del vino;1993;34,1
+2896;Campo di Trens;1993;32,7
+2897;Campo Tures;1993;40,5
+2898;Castelbello-Ciardes;1993;30,9
+2899;Castelrotto;1993;35,2
+2900;Cermes;1993;29,5
+2901;Chienes;1993;40,4
+2902;Chiusa;1993;32,1
+2903;Cornedo all'Isarco;1993;35,4
+2904;Cortaccia sulla strada del vino;1993;30,8
+2905;Cortina sulla strada del vino;1993;30
+2906;Corvara in Badia;1993;41,7
+2907;Curon Venosta;1993;32,6
+2908;Dobbiaco;1993;33,2
+2909;Egna;1993;30,9
+2910;Falzes;1993;40,4
+2911;Fiè allo Sciliar;1993;35,5
+2912;Fortezza;1993;33,9
+2913;Funes;1993;38,3
+2914;Gais;1993;38,2
+2915;Gargazzone;1993;33,6
+2916;Glorenza;1993;33,8
+2918;Laces;1993;32
+2919;Lagundo;1993;28,2
+2920;Laion;1993;34,4
+2921;Laives;1993;36,7
+2922;Lana;1993;29,4
+2923;Lasa;1993;32,8
+2924;Lauregno;1993;28,7
+2925;Luson;1993;42,9
+2926;Magrè sulla strada del vino;1993;30,2
+2927;Malles Venosta;1993;33
+2928;Marebbe;1993;40,5
+2929;Marlengo;1993;29,6
+2930;Martello;1993;29,3
+2931;Meltina;1993;27,8
+2932;Merano;1993;29,6
+2933;Monguelfo-Tesido;1993;34,4
+2934;Montagna;1993;30,1
+2935;Moso in Passiria;1993;29,9
+2936;Nalles;1993;33,4
+2937;Naturno;1993;28,6
+2938;Naz-Sciaves;1993;40,5
+2939;Nova Levante;1993;33,6
+2940;Nova Ponente;1993;32,4
+2941;Ora;1993;35,1
+2942;Ortisei;1993;35,7
+2943;Parcines;1993;29,6
+2944;Perca;1993;36,1
+2945;Plaus;1993;27,5
+2946;Ponte Gardena;1993;34,1
+2947;Postal;1993;31,5
+2948;Prato allo Stelvio;1993;32,1
+2949;Predoi;1993;43,3
+2950;Proves;1993;27,9
+2951;Racines;1993;31,1
+2952;Rasun-Anterselva;1993;35,7
+2953;Renon;1993;32
+2954;Rifiano;1993;27,8
+2955;Rio di Pusteria;1993;36,1
+2956;Rodengo;1993;38,9
+2957;Salorno;1993;29,1
+2958;San Candido;1993;32,1
+2959;San Genesio Atesino;1993;30
+2960;San Leonardo in Passiria;1993;28,5
+2961;San Lorenzo di Sebato;1993;41
+2962;San Martino in Badia;1993;42,5
+2963;San Martino in Passiria;1993;28,4
+2964;San Pancrazio;1993;26,7
+2965;Santa Cristina Valgardena;1993;38,6
+2966;Sarentino;1993;26,5
+2967;Scena;1993;28
+2968;Selva dei Molini;1993;38
+2969;Selva di Val Gardena;1993;40,2
+2970;Senales;1993;33,2
+2972;Sesto;1993;30,8
+2973;Silandro;1993;33,6
+2974;Sluderno;1993;35,5
+2975;Stelvio;1993;29,3
+2976;Terento;1993;37,6
+2977;Terlano;1993;35,9
+2978;Termeno sulla strada del vino;1993;32,9
+2979;Tesimo;1993;29,2
+2980;Tires;1993;34,8
+2981;Tirolo;1993;28,5
+2982;Trodena nel parco naturale;1993;28,3
+2983;Tubre;1993;32
+2984;Ultimo;1993;28,4
+2985;Vadena;1993;37,1
+2987;Valdaora;1993;35,8
+2986;Val di Vizze;1993;34,1
+2988;Valle Aurina;1993;43,1
+2989;Valle di Casies;1993;35,2
+2990;Vandoies;1993;35,8
+2991;Varna;1993;35,4
+2993;Verano;1993;25,7
+2994;Villabassa;1993;33,4
+2995;Villandro;1993;27,9
+2996;Vipiteno;1993;32,3
+2992;Velturno;1993;36,1
+2917;La Valle;1993;42,2
+2971;Senale-San Felice;1993;28,1
+2881;Aldino;1994;50,7
+2882;Andriano;1994;56
+2883;Anterivo;1994;50,5
+2884;Appiano sulla strada del vino;1994;55,1
+2885;Avelengo;1994;43,6
+2886;Badia;1994;53,5
+2887;Barbiano;1994;49,3
+2888;Bolzano;1994;56,5
+2889;Braies;1994;49,3
+2890;Brennero;1994;46,7
+2891;Bressanone;1994;55,8
+2892;Bronzolo;1994;53,5
+2893;Brunico;1994;51,4
+2894;Caines;1994;44,9
+2895;Caldaro sulla strada del vino;1994;52,4
+2896;Campo di Trens;1994;52,1
+2897;Campo Tures;1994;54,1
+2898;Castelbello-Ciardes;1994;49
+2899;Castelrotto;1994;56,5
+2900;Cermes;1994;43,5
+2901;Chienes;1994;52,9
+2902;Chiusa;1994;52,3
+2903;Cornedo all'Isarco;1994;57,8
+2904;Cortaccia sulla strada del vino;1994;48,5
+2905;Cortina sulla strada del vino;1994;49,4
+2906;Corvara in Badia;1994;54,8
+2907;Curon Venosta;1994;53,7
+2908;Dobbiaco;1994;48,3
+2909;Egna;1994;49,7
+2910;Falzes;1994;51,3
+2911;Fiè allo Sciliar;1994;58,1
+2912;Fortezza;1994;53,4
+2913;Funes;1994;55,5
+2914;Gais;1994;51,1
+2915;Gargazzone;1994;48,9
+2916;Glorenza;1994;56,1
+2918;Laces;1994;49,9
+2919;Lagundo;1994;44,9
+2920;Laion;1994;54
+2921;Laives;1994;55,5
+2922;Lana;1994;46,2
+2923;Lasa;1994;54,8
+2924;Lauregno;1994;49
+2925;Luson;1994;55,3
+2926;Magrè sulla strada del vino;1994;48,7
+2927;Malles Venosta;1994;54,3
+2928;Marebbe;1994;51,5
+2929;Marlengo;1994;43,2
+2930;Martello;1994;52,9
+2931;Meltina;1994;46,7
+2932;Merano;1994;43,8
+2933;Monguelfo-Tesido;1994;49,2
+2934;Montagna;1994;50,4
+2935;Moso in Passiria;1994;52,6
+2936;Nalles;1994;53,9
+2937;Naturno;1994;48,4
+2938;Naz-Sciaves;1994;57,1
+2939;Nova Levante;1994;56,5
+2940;Nova Ponente;1994;55,2
+2941;Ora;1994;53
+2942;Ortisei;1994;56,1
+2943;Parcines;1994;48,5
+2944;Perca;1994;51,2
+2945;Plaus;1994;45,3
+2946;Ponte Gardena;1994;50,2
+2947;Postal;1994;45
+2948;Prato allo Stelvio;1994;55,5
+2949;Predoi;1994;59,9
+2950;Proves;1994;47,9
+2951;Racines;1994;52
+2952;Rasun-Anterselva;1994;51,1
+2953;Renon;1994;52,9
+2954;Rifiano;1994;49,7
+2955;Rio di Pusteria;1994;52,2
+2956;Rodengo;1994;56,7
+2957;Salorno;1994;48,6
+2958;San Candido;1994;49,2
+2959;San Genesio Atesino;1994;49,9
+2960;San Leonardo in Passiria;1994;51,7
+2961;San Lorenzo di Sebato;1994;52,5
+2962;San Martino in Badia;1994;52,7
+2963;San Martino in Passiria;1994;50,9
+2964;San Pancrazio;1994;49,3
+2965;Santa Cristina Valgardena;1994;55,4
+2966;Sarentino;1994;46,5
+2967;Scena;1994;46,5
+2968;Selva dei Molini;1994;50,1
+2969;Selva di Val Gardena;1994;55,5
+2970;Senales;1994;49,8
+2972;Sesto;1994;48,5
+2973;Silandro;1994;51,6
+2974;Sluderno;1994;56,3
+2975;Stelvio;1994;54,4
+2976;Terento;1994;53,5
+2977;Terlano;1994;54,6
+2978;Termeno sulla strada del vino;1994;50,7
+2979;Tesimo;1994;50,7
+2980;Tires;1994;57,3
+2981;Tirolo;1994;47,8
+2982;Trodena nel parco naturale;1994;49,8
+2983;Tubre;1994;55,6
+2984;Ultimo;1994;50,1
+2985;Vadena;1994;53,5
+2987;Valdaora;1994;50,6
+2986;Val di Vizze;1994;48,6
+2988;Valle Aurina;1994;54,3
+2989;Valle di Casies;1994;49,6
+2990;Vandoies;1994;51,7
+2991;Varna;1994;54,1
+2993;Verano;1994;43,5
+2994;Villabassa;1994;49,2
+2995;Villandro;1994;48
+2996;Vipiteno;1994;49,3
+2992;Velturno;1994;55
+2917;La Valle;1994;52,2
+2971;Senale-San Felice;1994;50,3
+2881;Aldino;1995;42,1
+2882;Andriano;1995;41,5
+2883;Anterivo;1995;44,1
+2884;Appiano sulla strada del vino;1995;41,5
+2885;Avelengo;1995;38,6
+2886;Badia;1995;42
+2887;Barbiano;1995;40,6
+2888;Bolzano;1995;42,8
+2889;Braies;1995;31,7
+2890;Brennero;1995;33,7
+2891;Bressanone;1995;43,7
+2892;Bronzolo;1995;41,4
+2893;Brunico;1995;41,1
+2894;Caines;1995;38,3
+2895;Caldaro sulla strada del vino;1995;41,7
+2896;Campo di Trens;1995;38,6
+2897;Campo Tures;1995;41,4
+2898;Castelbello-Ciardes;1995;39,7
+2899;Castelrotto;1995;41
+2900;Cermes;1995;39,1
+2901;Chienes;1995;42,9
+2902;Chiusa;1995;42,3
+2903;Cornedo all'Isarco;1995;41,3
+2904;Cortaccia sulla strada del vino;1995;42,5
+2905;Cortina sulla strada del vino;1995;41,1
+2906;Corvara in Badia;1995;40,6
+2907;Curon Venosta;1995;36,3
+2908;Dobbiaco;1995;31,7
+2909;Egna;1995;42,5
+2910;Falzes;1995;42,5
+2911;Fiè allo Sciliar;1995;40,7
+2912;Fortezza;1995;41,7
+2913;Funes;1995;42,7
+2914;Gais;1995;40,7
+2915;Gargazzone;1995;43,6
+2916;Glorenza;1995;40,9
+2918;Laces;1995;41,4
+2919;Lagundo;1995;38,7
+2920;Laion;1995;42,6
+2921;Laives;1995;41,5
+2922;Lana;1995;40,8
+2923;Lasa;1995;43,5
+2924;Lauregno;1995;41,1
+2925;Luson;1995;42,9
+2926;Magrè sulla strada del vino;1995;41,8
+2927;Malles Venosta;1995;39,5
+2928;Marebbe;1995;40
+2929;Marlengo;1995;38,6
+2930;Martello;1995;42,2
+2931;Meltina;1995;41,6
+2932;Merano;1995;38,3
+2933;Monguelfo-Tesido;1995;33,2
+2934;Montagna;1995;43,4
+2935;Moso in Passiria;1995;38,6
+2936;Nalles;1995;41,8
+2937;Naturno;1995;39,4
+2938;Naz-Sciaves;1995;44,1
+2939;Nova Levante;1995;37
+2940;Nova Ponente;1995;40
+2941;Ora;1995;42,1
+2942;Ortisei;1995;42,3
+2943;Parcines;1995;37,6
+2944;Perca;1995;37,9
+2945;Plaus;1995;39,4
+2946;Ponte Gardena;1995;40,1
+2947;Postal;1995;41,2
+2948;Prato allo Stelvio;1995;41,9
+2949;Predoi;1995;41,5
+2950;Proves;1995;41,2
+2951;Racines;1995;38
+2952;Rasun-Anterselva;1995;36,6
+2953;Renon;1995;42,6
+2954;Rifiano;1995;38,6
+2955;Rio di Pusteria;1995;41,3
+2956;Rodengo;1995;42,4
+2957;Salorno;1995;41,8
+2958;San Candido;1995;32,7
+2959;San Genesio Atesino;1995;42,5
+2960;San Leonardo in Passiria;1995;39,4
+2961;San Lorenzo di Sebato;1995;42,9
+2962;San Martino in Badia;1995;43,1
+2963;San Martino in Passiria;1995;39,4
+2964;San Pancrazio;1995;40,5
+2965;Santa Cristina Valgardena;1995;42,4
+2966;Sarentino;1995;41,2
+2967;Scena;1995;38,8
+2968;Selva dei Molini;1995;42,8
+2969;Selva di Val Gardena;1995;41,5
+2970;Senales;1995;35,6
+2972;Sesto;1995;33,4
+2973;Silandro;1995;41,7
+2974;Sluderno;1995;41,4
+2975;Stelvio;1995;42,6
+2976;Terento;1995;42
+2977;Terlano;1995;42,4
+2978;Termeno sulla strada del vino;1995;42
+2979;Tesimo;1995;41,7
+2980;Tires;1995;38
+2981;Tirolo;1995;38,2
+2982;Trodena nel parco naturale;1995;44
+2983;Tubre;1995;39,1
+2984;Ultimo;1995;39,7
+2985;Vadena;1995;42,1
+2987;Valdaora;1995;33,8
+2986;Val di Vizze;1995;37,9
+2988;Valle Aurina;1995;42
+2989;Valle di Casies;1995;35,2
+2990;Vandoies;1995;41,6
+2991;Varna;1995;42,8
+2993;Verano;1995;40,2
+2994;Villabassa;1995;31,6
+2995;Villandro;1995;41,3
+2996;Vipiteno;1995;35,4
+2992;Velturno;1995;42,5
+2917;La Valle;1995;42,9
+2971;Senale-San Felice;1995;41,7
+2881;Aldino;1996;25,5
+2882;Andriano;1996;26,7
+2883;Anterivo;1996;23,8
+2884;Appiano sulla strada del vino;1996;25,4
+2885;Avelengo;1996;28
+2886;Badia;1996;27,4
+2887;Barbiano;1996;33,6
+2888;Bolzano;1996;26,6
+2889;Braies;1996;25,6
+2890;Brennero;1996;32,9
+2891;Bressanone;1996;37,1
+2892;Bronzolo;1996;25,6
+2893;Brunico;1996;32,1
+2894;Caines;1996;31,3
+2895;Caldaro sulla strada del vino;1996;23,4
+2896;Campo di Trens;1996;27,7
+2897;Campo Tures;1996;29,4
+2898;Castelbello-Ciardes;1996;27,8
+2899;Castelrotto;1996;31,7
+2900;Cermes;1996;28,4
+2901;Chienes;1996;34,4
+2902;Chiusa;1996;37,3
+2903;Cornedo all'Isarco;1996;27
+2904;Cortaccia sulla strada del vino;1996;21,1
+2905;Cortina sulla strada del vino;1996;20
+2906;Corvara in Badia;1996;28,4
+2907;Curon Venosta;1996;24,5
+2908;Dobbiaco;1996;27,3
+2909;Egna;1996;22,4
+2910;Falzes;1996;34,3
+2911;Fiè allo Sciliar;1996;28,5
+2912;Fortezza;1996;30
+2913;Funes;1996;34,3
+2914;Gais;1996;31,4
+2915;Gargazzone;1996;29
+2916;Glorenza;1996;29,3
+2918;Laces;1996;28,7
+2919;Lagundo;1996;27,5
+2920;Laion;1996;36,7
+2921;Laives;1996;25,9
+2922;Lana;1996;27,6
+2923;Lasa;1996;30,8
+2924;Lauregno;1996;24,7
+2925;Luson;1996;33,2
+2926;Magrè sulla strada del vino;1996;20,5
+2927;Malles Venosta;1996;26,6
+2928;Marebbe;1996;27,7
+2929;Marlengo;1996;29
+2930;Martello;1996;27,8
+2931;Meltina;1996;27,1
+2932;Merano;1996;30,8
+2933;Monguelfo-Tesido;1996;26,9
+2934;Montagna;1996;24,2
+2935;Moso in Passiria;1996;23,3
+2936;Nalles;1996;27
+2937;Naturno;1996;26,6
+2938;Naz-Sciaves;1996;38
+2939;Nova Levante;1996;25,3
+2940;Nova Ponente;1996;25,2
+2941;Ora;1996;24,5
+2942;Ortisei;1996;33,5
+2943;Parcines;1996;24,7
+2944;Perca;1996;28,7
+2945;Plaus;1996;27,1
+2946;Ponte Gardena;1996;34,4
+2947;Postal;1996;29,9
+2948;Prato allo Stelvio;1996;29,2
+2949;Predoi;1996;30,7
+2950;Proves;1996;25,5
+2951;Racines;1996;28,5
+2952;Rasun-Anterselva;1996;27,7
+2953;Renon;1996;28,9
+2954;Rifiano;1996;25,9
+2955;Rio di Pusteria;1996;28,7
+2956;Rodengo;1996;34,9
+2957;Salorno;1996;21,2
+2958;San Candido;1996;28,6
+2959;San Genesio Atesino;1996;27,1
+2960;San Leonardo in Passiria;1996;28,3
+2961;San Lorenzo di Sebato;1996;32
+2962;San Martino in Badia;1996;28,9
+2963;San Martino in Passiria;1996;28,6
+2964;San Pancrazio;1996;26,3
+2965;Santa Cristina Valgardena;1996;30,1
+2966;Sarentino;1996;28,2
+2967;Scena;1996;29,1
+2968;Selva dei Molini;1996;32,3
+2969;Selva di Val Gardena;1996;28,9
+2970;Senales;1996;23,9
+2972;Sesto;1996;27,4
+2973;Silandro;1996;29,4
+2974;Sluderno;1996;31,1
+2975;Stelvio;1996;26,7
+2976;Terento;1996;33,3
+2977;Terlano;1996;27,1
+2978;Termeno sulla strada del vino;1996;22,5
+2979;Tesimo;1996;26,7
+2980;Tires;1996;27,2
+2981;Tirolo;1996;26,7
+2982;Trodena nel parco naturale;1996;25,3
+2983;Tubre;1996;27,9
+2984;Ultimo;1996;27,1
+2985;Vadena;1996;25,1
+2987;Valdaora;1996;27,6
+2986;Val di Vizze;1996;29,5
+2988;Valle Aurina;1996;29,5
+2989;Valle di Casies;1996;27,3
+2990;Vandoies;1996;31,2
+2991;Varna;1996;34,4
+2993;Verano;1996;28,2
+2994;Villabassa;1996;27,1
+2995;Villandro;1996;35,2
+2996;Vipiteno;1996;31,5
+2992;Velturno;1996;39
+2917;La Valle;1996;27,7
+2971;Senale-San Felice;1996;25,1
+2881;Aldino;1997;26,9
+2882;Andriano;1997;26,9
+2883;Anterivo;1997;22
+2884;Appiano sulla strada del vino;1997;26
+2885;Avelengo;1997;25,4
+2886;Badia;1997;35,7
+2887;Barbiano;1997;32,4
+2888;Bolzano;1997;29,6
+2889;Braies;1997;27,5
+2890;Brennero;1997;42,5
+2891;Bressanone;1997;27,6
+2892;Bronzolo;1997;24,3
+2893;Brunico;1997;29,2
+2894;Caines;1997;22
+2895;Caldaro sulla strada del vino;1997;23,1
+2896;Campo di Trens;1997;36,6
+2897;Campo Tures;1997;37,1
+2898;Castelbello-Ciardes;1997;22,1
+2899;Castelrotto;1997;31,8
+2900;Cermes;1997;24,1
+2901;Chienes;1997;31,6
+2902;Chiusa;1997;30
+2903;Cornedo all'Isarco;1997;29,9
+2904;Cortaccia sulla strada del vino;1997;18,5
+2905;Cortina sulla strada del vino;1997;20,9
+2906;Corvara in Badia;1997;36,2
+2907;Curon Venosta;1997;29,8
+2908;Dobbiaco;1997;32,3
+2909;Egna;1997;20,3
+2910;Falzes;1997;32,6
+2911;Fiè allo Sciliar;1997;33,6
+2912;Fortezza;1997;33,4
+2913;Funes;1997;29,7
+2914;Gais;1997;33,4
+2915;Gargazzone;1997;22
+2916;Glorenza;1997;34
+2918;Laces;1997;25,7
+2919;Lagundo;1997;22,8
+2920;Laion;1997;29,4
+2921;Laives;1997;26,4
+2922;Lana;1997;23,4
+2923;Lasa;1997;37
+2924;Lauregno;1997;23,7
+2925;Luson;1997;29,9
+2926;Magrè sulla strada del vino;1997;19,8
+2927;Malles Venosta;1997;33,4
+2928;Marebbe;1997;30,5
+2929;Marlengo;1997;23,7
+2930;Martello;1997;33,8
+2931;Meltina;1997;26,3
+2932;Merano;1997;23,3
+2933;Monguelfo-Tesido;1997;27,7
+2934;Montagna;1997;22,6
+2935;Moso in Passiria;1997;23,1
+2936;Nalles;1997;24,4
+2937;Naturno;1997;22,5
+2938;Naz-Sciaves;1997;29,5
+2939;Nova Levante;1997;25,4
+2940;Nova Ponente;1997;27
+2941;Ora;1997;22,7
+2942;Ortisei;1997;32
+2943;Parcines;1997;21,9
+2944;Perca;1997;30,9
+2945;Plaus;1997;22,9
+2946;Ponte Gardena;1997;32
+2947;Postal;1997;22,6
+2948;Prato allo Stelvio;1997;34,5
+2949;Predoi;1997;41,8
+2950;Proves;1997;24,1
+2951;Racines;1997;33,6
+2952;Rasun-Anterselva;1997;32,1
+2953;Renon;1997;33,8
+2954;Rifiano;1997;20,6
+2955;Rio di Pusteria;1997;35,8
+2956;Rodengo;1997;31,3
+2957;Salorno;1997;20,2
+2958;San Candido;1997;34,2
+2959;San Genesio Atesino;1997;28,9
+2960;San Leonardo in Passiria;1997;24,2
+2961;San Lorenzo di Sebato;1997;29,7
+2962;San Martino in Badia;1997;32,6
+2963;San Martino in Passiria;1997;21,5
+2964;San Pancrazio;1997;24
+2965;Santa Cristina Valgardena;1997;34,8
+2966;Sarentino;1997;30,1
+2967;Scena;1997;23,4
+2968;Selva dei Molini;1997;35,6
+2969;Selva di Val Gardena;1997;35,5
+2970;Senales;1997;24,3
+2972;Sesto;1997;34,9
+2973;Silandro;1997;32,3
+2974;Sluderno;1997;36,4
+2975;Stelvio;1997;33,8
+2976;Terento;1997;33,4
+2977;Terlano;1997;26,5
+2978;Termeno sulla strada del vino;1997;20,8
+2979;Tesimo;1997;23,3
+2980;Tires;1997;28,3
+2981;Tirolo;1997;21,8
+2982;Trodena nel parco naturale;1997;23,7
+2983;Tubre;1997;32,9
+2984;Ultimo;1997;26,6
+2985;Vadena;1997;23,2
+2987;Valdaora;1997;26,4
+2986;Val di Vizze;1997;39,8
+2988;Valle Aurina;1997;37,5
+2989;Valle di Casies;1997;32,8
+2990;Vandoies;1997;35,1
+2991;Varna;1997;31,5
+2993;Verano;1997;25,3
+2994;Villabassa;1997;28,6
+2995;Villandro;1997;32,1
+2996;Vipiteno;1997;39,6
+2992;Velturno;1997;27,4
+2917;La Valle;1997;32,3
+2971;Senale-San Felice;1997;24,5
+2881;Aldino;1998;40,5
+2882;Andriano;1998;41,9
+2883;Anterivo;1998;40,4
+2884;Appiano sulla strada del vino;1998;41,3
+2885;Avelengo;1998;36,3
+2886;Badia;1998;45,8
+2887;Barbiano;1998;44,9
+2888;Bolzano;1998;44,8
+2889;Braies;1998;35,7
+2890;Brennero;1998;39,2
+2891;Bressanone;1998;47,3
+2892;Bronzolo;1998;39,6
+2893;Brunico;1998;42
+2894;Caines;1998;36,7
+2895;Caldaro sulla strada del vino;1998;39,8
+2896;Campo di Trens;1998;38,2
+2897;Campo Tures;1998;44
+2898;Castelbello-Ciardes;1998;36,9
+2899;Castelrotto;1998;49,5
+2900;Cermes;1998;37,4
+2901;Chienes;1998;44,9
+2902;Chiusa;1998;45,1
+2903;Cornedo all'Isarco;1998;42,4
+2904;Cortaccia sulla strada del vino;1998;39,7
+2905;Cortina sulla strada del vino;1998;40,7
+2906;Corvara in Badia;1998;47,5
+2907;Curon Venosta;1998;43,3
+2908;Dobbiaco;1998;34,5
+2909;Egna;1998;40,1
+2910;Falzes;1998;45,1
+2911;Fiè allo Sciliar;1998;45,1
+2912;Fortezza;1998;40,7
+2913;Funes;1998;48,5
+2914;Gais;1998;42,7
+2915;Gargazzone;1998;38,9
+2916;Glorenza;1998;45,1
+2918;Laces;1998;41,7
+2919;Lagundo;1998;35,5
+2920;Laion;1998;49
+2921;Laives;1998;40,5
+2922;Lana;1998;37,2
+2923;Lasa;1998;48,1
+2924;Lauregno;1998;38,2
+2925;Luson;1998;43,3
+2926;Magrè sulla strada del vino;1998;40,1
+2927;Malles Venosta;1998;44
+2928;Marebbe;1998;40,5
+2929;Marlengo;1998;37,8
+2930;Martello;1998;44,5
+2931;Meltina;1998;42
+2932;Merano;1998;38,5
+2933;Monguelfo-Tesido;1998;32,5
+2934;Montagna;1998;40,5
+2935;Moso in Passiria;1998;38
+2936;Nalles;1998;40,2
+2937;Naturno;1998;34
+2938;Naz-Sciaves;1998;45,6
+2939;Nova Levante;1998;39,6
+2940;Nova Ponente;1998;40,1
+2941;Ora;1998;40,5
+2942;Ortisei;1998;52,3
+2943;Parcines;1998;33,8
+2944;Perca;1998;38,1
+2945;Plaus;1998;34,7
+2946;Ponte Gardena;1998;44,6
+2947;Postal;1998;38,7
+2948;Prato allo Stelvio;1998;46,4
+2949;Predoi;1998;48,3
+2950;Proves;1998;37,4
+2951;Racines;1998;35,9
+2952;Rasun-Anterselva;1998;35,6
+2953;Renon;1998;46,6
+2954;Rifiano;1998;36
+2955;Rio di Pusteria;1998;41,6
+2956;Rodengo;1998;43,3
+2957;Salorno;1998;39,4
+2958;San Candido;1998;34,4
+2959;San Genesio Atesino;1998;45,8
+2960;San Leonardo in Passiria;1998;35,1
+2961;San Lorenzo di Sebato;1998;43,3
+2962;San Martino in Badia;1998;43,4
+2963;San Martino in Passiria;1998;36,4
+2964;San Pancrazio;1998;37,1
+2965;Santa Cristina Valgardena;1998;51,4
+2966;Sarentino;1998;40,3
+2967;Scena;1998;35,5
+2968;Selva dei Molini;1998;45
+2969;Selva di Val Gardena;1998;49,5
+2970;Senales;1998;35,2
+2972;Sesto;1998;35,5
+2973;Silandro;1998;45,8
+2974;Sluderno;1998;48,8
+2975;Stelvio;1998;42,6
+2976;Terento;1998;45
+2977;Terlano;1998;42,3
+2978;Termeno sulla strada del vino;1998;40,2
+2979;Tesimo;1998;37,1
+2980;Tires;1998;42,7
+2981;Tirolo;1998;36,1
+2982;Trodena nel parco naturale;1998;40,1
+2983;Tubre;1998;39,5
+2984;Ultimo;1998;40,2
+2985;Vadena;1998;39,1
+2987;Valdaora;1998;35,8
+2986;Val di Vizze;1998;41,3
+2988;Valle Aurina;1998;46,8
+2989;Valle di Casies;1998;31,6
+2990;Vandoies;1998;43,4
+2991;Varna;1998;42,7
+2993;Verano;1998;38,5
+2994;Villabassa;1998;33,4
+2995;Villandro;1998;45,4
+2996;Vipiteno;1998;37,8
+2992;Velturno;1998;46,3
+2917;La Valle;1998;41,6
+2971;Senale-San Felice;1998;36,6
+2881;Aldino;1999;20,4
+2882;Andriano;1999;24,1
+2883;Anterivo;1999;18,1
+2884;Appiano sulla strada del vino;1999;23,5
+2885;Avelengo;1999;25,6
+2886;Badia;1999;26,7
+2887;Barbiano;1999;27,3
+2888;Bolzano;1999;24,9
+2889;Braies;1999;28,9
+2890;Brennero;1999;37,6
+2891;Bressanone;1999;26,9
+2892;Bronzolo;1999;20,9
+2893;Brunico;1999;29,4
+2894;Caines;1999;21,4
+2895;Caldaro sulla strada del vino;1999;21,6
+2896;Campo di Trens;1999;33,4
+2897;Campo Tures;1999;34,9
+2898;Castelbello-Ciardes;1999;19
+2899;Castelrotto;1999;25,6
+2900;Cermes;1999;19,6
+2901;Chienes;1999;30,2
+2902;Chiusa;1999;26,9
+2903;Cornedo all'Isarco;1999;22,5
+2904;Cortaccia sulla strada del vino;1999;19,2
+2905;Cortina sulla strada del vino;1999;20
+2906;Corvara in Badia;1999;28,8
+2907;Curon Venosta;1999;28,2
+2908;Dobbiaco;1999;28,1
+2909;Egna;1999;19,4
+2910;Falzes;1999;31,6
+2911;Fiè allo Sciliar;1999;24
+2912;Fortezza;1999;31,8
+2913;Funes;1999;27
+2914;Gais;1999;34,4
+2915;Gargazzone;1999;22,9
+2916;Glorenza;1999;22,6
+2918;Laces;1999;24
+2919;Lagundo;1999;20,9
+2920;Laion;1999;25,5
+2921;Laives;1999;22,1
+2922;Lana;1999;20,1
+2923;Lasa;1999;28,6
+2924;Lauregno;1999;23,4
+2925;Luson;1999;26,5
+2926;Magrè sulla strada del vino;1999;19,3
+2927;Malles Venosta;1999;26,5
+2928;Marebbe;1999;27,1
+2929;Marlengo;1999;19,9
+2930;Martello;1999;29,9
+2931;Meltina;1999;26,7
+2932;Merano;1999;21,2
+2933;Monguelfo-Tesido;1999;29,1
+2934;Montagna;1999;18,8
+2935;Moso in Passiria;1999;32,1
+2936;Nalles;1999;23,6
+2937;Naturno;1999;17,9
+2938;Naz-Sciaves;1999;28,6
+2939;Nova Levante;1999;20
+2940;Nova Ponente;1999;21,6
+2941;Ora;1999;20,7
+2942;Ortisei;1999;29
+2943;Parcines;1999;24,1
+2944;Perca;1999;31,9
+2945;Plaus;1999;18,7
+2946;Ponte Gardena;1999;25,5
+2947;Postal;1999;21,9
+2948;Prato allo Stelvio;1999;23,4
+2949;Predoi;1999;32,5
+2950;Proves;1999;21,7
+2951;Racines;1999;32,9
+2952;Rasun-Anterselva;1999;31,6
+2953;Renon;1999;29
+2954;Rifiano;1999;28,7
+2955;Rio di Pusteria;1999;32,2
+2956;Rodengo;1999;29,3
+2957;Salorno;1999;18,4
+2958;San Candido;1999;28,1
+2959;San Genesio Atesino;1999;31,7
+2960;San Leonardo in Passiria;1999;27,4
+2961;San Lorenzo di Sebato;1999;27,7
+2962;San Martino in Badia;1999;25,5
+2963;San Martino in Passiria;1999;26,1
+2964;San Pancrazio;1999;18,7
+2965;Santa Cristina Valgardena;1999;29,5
+2966;Sarentino;1999;31,3
+2967;Scena;1999;25,2
+2968;Selva dei Molini;1999;33,7
+2969;Selva di Val Gardena;1999;29,3
+2970;Senales;1999;23
+2972;Sesto;1999;26,7
+2973;Silandro;1999;28,2
+2974;Sluderno;1999;24,7
+2975;Stelvio;1999;25,3
+2976;Terento;1999;30,4
+2977;Terlano;1999;24,4
+2978;Termeno sulla strada del vino;1999;20,7
+2979;Tesimo;1999;21,4
+2980;Tires;1999;21,1
+2981;Tirolo;1999;26
+2982;Trodena nel parco naturale;1999;18
+2983;Tubre;1999;22,3
+2984;Ultimo;1999;21,7
+2985;Vadena;1999;21,5
+2987;Valdaora;1999;27,9
+2986;Val di Vizze;1999;34,7
+2988;Valle Aurina;1999;35,2
+2989;Valle di Casies;1999;31
+2990;Vandoies;1999;31,9
+2991;Varna;1999;30,3
+2993;Verano;1999;24,5
+2994;Villabassa;1999;28,8
+2995;Villandro;1999;27,5
+2996;Vipiteno;1999;35,4
+2992;Velturno;1999;27,9
+2917;La Valle;1999;25,5
+2971;Senale-San Felice;1999;23,8
+2881;Aldino;2000;33,1
+2882;Andriano;2000;36,7
+2883;Anterivo;2000;31
+2884;Appiano sulla strada del vino;2000;37,7
+2885;Avelengo;2000;32,9
+2886;Badia;2000;39,3
+2887;Barbiano;2000;36,5
+2888;Bolzano;2000;36,4
+2889;Braies;2000;36,2
+2890;Brennero;2000;42,3
+2891;Bressanone;2000;37,4
+2892;Bronzolo;2000;37,3
+2893;Brunico;2000;38,3
+2894;Caines;2000;30,1
+2895;Caldaro sulla strada del vino;2000;37,4
+2896;Campo di Trens;2000;44,6
+2897;Campo Tures;2000;41,4
+2898;Castelbello-Ciardes;2000;35,1
+2899;Castelrotto;2000;35,4
+2900;Cermes;2000;28,7
+2901;Chienes;2000;39,7
+2902;Chiusa;2000;37,9
+2903;Cornedo all'Isarco;2000;34,4
+2904;Cortaccia sulla strada del vino;2000;29,9
+2905;Cortina sulla strada del vino;2000;29,1
+2906;Corvara in Badia;2000;40,2
+2907;Curon Venosta;2000;38,8
+2908;Dobbiaco;2000;39,4
+2909;Egna;2000;31,7
+2910;Falzes;2000;41,1
+2911;Fiè allo Sciliar;2000;34,5
+2912;Fortezza;2000;46
+2913;Funes;2000;36,1
+2914;Gais;2000;40,2
+2915;Gargazzone;2000;32,3
+2916;Glorenza;2000;32,2
+2918;Laces;2000;35,5
+2919;Lagundo;2000;30,6
+2920;Laion;2000;34,9
+2921;Laives;2000;36,5
+2922;Lana;2000;30,2
+2923;Lasa;2000;36,8
+2924;Lauregno;2000;36,8
+2925;Luson;2000;35,9
+2926;Magrè sulla strada del vino;2000;28,8
+2927;Malles Venosta;2000;34,5
+2928;Marebbe;2000;36,1
+2929;Marlengo;2000;28,7
+2930;Martello;2000;39,5
+2931;Meltina;2000;35,5
+2932;Merano;2000;29,6
+2933;Monguelfo-Tesido;2000;35,3
+2934;Montagna;2000;33,2
+2935;Moso in Passiria;2000;37,7
+2936;Nalles;2000;35,5
+2937;Naturno;2000;32,5
+2938;Naz-Sciaves;2000;40,1
+2939;Nova Levante;2000;34,7
+2940;Nova Ponente;2000;33,7
+2941;Ora;2000;37,7
+2942;Ortisei;2000;36,1
+2943;Parcines;2000;33,7
+2944;Perca;2000;36,9
+2945;Plaus;2000;31,1
+2946;Ponte Gardena;2000;35,8
+2947;Postal;2000;30,7
+2948;Prato allo Stelvio;2000;35,2
+2949;Predoi;2000;44
+2950;Proves;2000;35,8
+2951;Racines;2000;41,2
+2952;Rasun-Anterselva;2000;36,8
+2953;Renon;2000;37,1
+2954;Rifiano;2000;35
+2955;Rio di Pusteria;2000;44
+2956;Rodengo;2000;37,7
+2957;Salorno;2000;29,3
+2958;San Candido;2000;39
+2959;San Genesio Atesino;2000;37,8
+2960;San Leonardo in Passiria;2000;36,7
+2961;San Lorenzo di Sebato;2000;37,9
+2962;San Martino in Badia;2000;36
+2963;San Martino in Passiria;2000;34,1
+2964;San Pancrazio;2000;32,1
+2965;Santa Cristina Valgardena;2000;37,4
+2966;Sarentino;2000;42,2
+2967;Scena;2000;32,1
+2968;Selva dei Molini;2000;42,7
+2969;Selva di Val Gardena;2000;39,1
+2970;Senales;2000;39,6
+2972;Sesto;2000;39,4
+2973;Silandro;2000;37,2
+2974;Sluderno;2000;32,4
+2975;Stelvio;2000;38,3
+2976;Terento;2000;40,9
+2977;Terlano;2000;35,9
+2978;Termeno sulla strada del vino;2000;35,6
+2979;Tesimo;2000;33,4
+2980;Tires;2000;34
+2981;Tirolo;2000;32,8
+2982;Trodena nel parco naturale;2000;31,5
+2983;Tubre;2000;33,5
+2984;Ultimo;2000;33,8
+2985;Vadena;2000;37,8
+2987;Valdaora;2000;32,9
+2986;Val di Vizze;2000;43,7
+2988;Valle Aurina;2000;42,9
+2989;Valle di Casies;2000;39,5
+2990;Vandoies;2000;42,1
+2991;Varna;2000;43,1
+2993;Verano;2000;33,2
+2994;Villabassa;2000;37,3
+2995;Villandro;2000;37,5
+2996;Vipiteno;2000;42
+2992;Velturno;2000;38,2
+2917;La Valle;2000;36
+2971;Senale-San Felice;2000;36,1
+2881;Aldino;2001;45,9
+2882;Andriano;2001;43,1
+2883;Anterivo;2001;52,3
+2884;Appiano sulla strada del vino;2001;42,8
+2885;Avelengo;2001;39,3
+2886;Badia;2001;35,3
+2887;Barbiano;2001;39,6
+2888;Bolzano;2001;41,3
+2889;Braies;2001;37,9
+2890;Brennero;2001;42,5
+2891;Bressanone;2001;39,6
+2892;Bronzolo;2001;43,4
+2893;Brunico;2001;35,9
+2894;Caines;2001;40
+2895;Caldaro sulla strada del vino;2001;45,3
+2896;Campo di Trens;2001;42,8
+2897;Campo Tures;2001;36,3
+2898;Castelbello-Ciardes;2001;45,3
+2899;Castelrotto;2001;39,1
+2900;Cermes;2001;38,9
+2901;Chienes;2001;37,5
+2902;Chiusa;2001;39,5
+2903;Cornedo all'Isarco;2001;38,5
+2904;Cortaccia sulla strada del vino;2001;45
+2905;Cortina sulla strada del vino;2001;47,4
+2906;Corvara in Badia;2001;36,1
+2907;Curon Venosta;2001;41,3
+2908;Dobbiaco;2001;39,4
+2909;Egna;2001;49,9
+2910;Falzes;2001;37,3
+2911;Fiè allo Sciliar;2001;37,5
+2912;Fortezza;2001;43
+2913;Funes;2001;38,8
+2914;Gais;2001;36,1
+2915;Gargazzone;2001;40,8
+2916;Glorenza;2001;37,1
+2918;Laces;2001;44
+2919;Lagundo;2001;38,6
+2920;Laion;2001;41
+2921;Laives;2001;41,9
+2922;Lana;2001;39,5
+2923;Lasa;2001;37,8
+2924;Lauregno;2001;49
+2925;Luson;2001;37,5
+2926;Magrè sulla strada del vino;2001;45
+2927;Malles Venosta;2001;38,5
+2928;Marebbe;2001;36,1
+2929;Marlengo;2001;39
+2930;Martello;2001;45
+2931;Meltina;2001;41,2
+2932;Merano;2001;40
+2933;Monguelfo-Tesido;2001;37,1
+2934;Montagna;2001;50,3
+2935;Moso in Passiria;2001;38,7
+2936;Nalles;2001;43
+2937;Naturno;2001;42,5
+2938;Naz-Sciaves;2001;42
+2939;Nova Levante;2001;37,1
+2940;Nova Ponente;2001;40,8
+2941;Ora;2001;46,7
+2942;Ortisei;2001;40
+2943;Parcines;2001;38,3
+2944;Perca;2001;35,5
+2945;Plaus;2001;39,7
+2946;Ponte Gardena;2001;43,5
+2947;Postal;2001;40,1
+2948;Prato allo Stelvio;2001;37,2
+2949;Predoi;2001;36,5
+2950;Proves;2001;47,9
+2951;Racines;2001;43,2
+2952;Rasun-Anterselva;2001;36,5
+2953;Renon;2001;40,7
+2954;Rifiano;2001;38,8
+2955;Rio di Pusteria;2001;41,7
+2956;Rodengo;2001;39,4
+2957;Salorno;2001;47,9
+2958;San Candido;2001;39,7
+2959;San Genesio Atesino;2001;42,7
+2960;San Leonardo in Passiria;2001;42,3
+2961;San Lorenzo di Sebato;2001;36,3
+2962;San Martino in Badia;2001;36
+2963;San Martino in Passiria;2001;41
+2964;San Pancrazio;2001;42,5
+2965;Santa Cristina Valgardena;2001;38,1
+2966;Sarentino;2001;43
+2967;Scena;2001;40,2
+2968;Selva dei Molini;2001;38
+2969;Selva di Val Gardena;2001;36,5
+2970;Senales;2001;38,5
+2972;Sesto;2001;40,5
+2973;Silandro;2001;38,4
+2974;Sluderno;2001;36,7
+2975;Stelvio;2001;38,4
+2976;Terento;2001;37,8
+2977;Terlano;2001;41,7
+2978;Termeno sulla strada del vino;2001;47,3
+2979;Tesimo;2001;42,9
+2980;Tires;2001;35,3
+2981;Tirolo;2001;38
+2982;Trodena nel parco naturale;2001;50,7
+2983;Tubre;2001;37
+2984;Ultimo;2001;47,8
+2985;Vadena;2001;44,1
+2987;Valdaora;2001;37,1
+2986;Val di Vizze;2001;40,2
+2988;Valle Aurina;2001;35,7
+2989;Valle di Casies;2001;38,4
+2990;Vandoies;2001;39,5
+2991;Varna;2001;41,9
+2993;Verano;2001;39,8
+2994;Villabassa;2001;39,2
+2995;Villandro;2001;39
+2996;Vipiteno;2001;43,1
+2992;Velturno;2001;39,4
+2917;La Valle;2001;35,2
+2971;Senale-San Felice;2001;44,8
+2881;Aldino;2002;31,5
+2882;Andriano;2002;38,3
+2883;Anterivo;2002;34
+2884;Appiano sulla strada del vino;2002;34
+2885;Avelengo;2002;38
+2886;Badia;2002;28,7
+2887;Barbiano;2002;32,7
+2888;Bolzano;2002;33,6
+2889;Braies;2002;30
+2890;Brennero;2002;40,8
+2891;Bressanone;2002;32,4
+2892;Bronzolo;2002;33,3
+2893;Brunico;2002;33,7
+2894;Caines;2002;36,9
+2895;Caldaro sulla strada del vino;2002;30
+2896;Campo di Trens;2002;36,1
+2897;Campo Tures;2002;31,1
+2898;Castelbello-Ciardes;2002;37,3
+2899;Castelrotto;2002;31,8
+2900;Cermes;2002;36,9
+2901;Chienes;2002;35
+2902;Chiusa;2002;32
+2903;Cornedo all'Isarco;2002;30,5
+2904;Cortaccia sulla strada del vino;2002;24
+2905;Cortina sulla strada del vino;2002;24,7
+2906;Corvara in Badia;2002;28,7
+2907;Curon Venosta;2002;32
+2908;Dobbiaco;2002;30,1
+2909;Egna;2002;27,6
+2910;Falzes;2002;34,9
+2911;Fiè allo Sciliar;2002;30
+2912;Fortezza;2002;32
+2913;Funes;2002;31,2
+2914;Gais;2002;33,8
+2915;Gargazzone;2002;38,2
+2916;Glorenza;2002;30,5
+2918;Laces;2002;36,8
+2919;Lagundo;2002;36,2
+2920;Laion;2002;34,9
+2921;Laives;2002;32,7
+2922;Lana;2002;37,5
+2923;Lasa;2002;31,9
+2924;Lauregno;2002;37,4
+2925;Luson;2002;34,4
+2926;Magrè sulla strada del vino;2002;23,5
+2927;Malles Venosta;2002;31,4
+2928;Marebbe;2002;30,1
+2929;Marlengo;2002;36,7
+2930;Martello;2002;37
+2931;Meltina;2002;36,2
+2932;Merano;2002;37,5
+2933;Monguelfo-Tesido;2002;32,1
+2934;Montagna;2002;30,5
+2935;Moso in Passiria;2002;34,7
+2936;Nalles;2002;37,1
+2937;Naturno;2002;37
+2938;Naz-Sciaves;2002;34
+2939;Nova Levante;2002;30,5
+2940;Nova Ponente;2002;30,3
+2941;Ora;2002;31,8
+2942;Ortisei;2002;31,3
+2943;Parcines;2002;33,2
+2944;Perca;2002;32,7
+2945;Plaus;2002;37,6
+2946;Ponte Gardena;2002;35,8
+2947;Postal;2002;37,9
+2948;Prato allo Stelvio;2002;31
+2949;Predoi;2002;28,4
+2950;Proves;2002;39,5
+2951;Racines;2002;39,3
+2952;Rasun-Anterselva;2002;31,7
+2953;Renon;2002;32,2
+2954;Rifiano;2002;34,7
+2955;Rio di Pusteria;2002;36,7
+2956;Rodengo;2002;35,9
+2957;Salorno;2002;26,5
+2958;San Candido;2002;31
+2959;San Genesio Atesino;2002;34,8
+2960;San Leonardo in Passiria;2002;36,6
+2961;San Lorenzo di Sebato;2002;34,1
+2962;San Martino in Badia;2002;29,3
+2963;San Martino in Passiria;2002;36,4
+2964;San Pancrazio;2002;38,5
+2965;Santa Cristina Valgardena;2002;31,1
+2966;Sarentino;2002;34,8
+2967;Scena;2002;35,9
+2968;Selva dei Molini;2002;36,4
+2969;Selva di Val Gardena;2002;29,9
+2970;Senales;2002;26,4
+2972;Sesto;2002;31,3
+2973;Silandro;2002;30,4
+2974;Sluderno;2002;30,5
+2975;Stelvio;2002;33,2
+2976;Terento;2002;36,2
+2977;Terlano;2002;37,4
+2978;Termeno sulla strada del vino;2002;26,4
+2979;Tesimo;2002;37,4
+2980;Tires;2002;30
+2981;Tirolo;2002;34,7
+2982;Trodena nel parco naturale;2002;32,6
+2983;Tubre;2002;29,9
+2984;Ultimo;2002;41,2
+2985;Vadena;2002;33,2
+2987;Valdaora;2002;31,8
+2986;Val di Vizze;2002;37,7
+2988;Valle Aurina;2002;32
+2989;Valle di Casies;2002;32,2
+2990;Vandoies;2002;38,1
+2991;Varna;2002;29,2
+2993;Verano;2002;38
+2994;Villabassa;2002;30,9
+2995;Villandro;2002;32,6
+2996;Vipiteno;2002;40,2
+2992;Velturno;2002;31,5
+2917;La Valle;2002;28,6
+2971;Senale-San Felice;2002;36,5
+2881;Aldino;2003;79,3
+2882;Andriano;2003;76,6
+2883;Anterivo;2003;83,5
+2884;Appiano sulla strada del vino;2003;78,9
+2885;Avelengo;2003;80,8
+2886;Badia;2003;72,6
+2887;Barbiano;2003;69,7
+2888;Bolzano;2003;75,5
+2889;Braies;2003;74,2
+2890;Brennero;2003;76,9
+2891;Bressanone;2003;77,5
+2892;Bronzolo;2003;78,9
+2893;Brunico;2003;74,7
+2894;Caines;2003;79,7
+2895;Caldaro sulla strada del vino;2003;79,2
+2896;Campo di Trens;2003;76
+2897;Campo Tures;2003;67,9
+2898;Castelbello-Ciardes;2003;83
+2899;Castelrotto;2003;74
+2900;Cermes;2003;82,9
+2901;Chienes;2003;76,4
+2902;Chiusa;2003;71,8
+2903;Cornedo all'Isarco;2003;76,3
+2904;Cortaccia sulla strada del vino;2003;78,6
+2905;Cortina sulla strada del vino;2003;78,9
+2906;Corvara in Badia;2003;73,8
+2907;Curon Venosta;2003;80,5
+2908;Dobbiaco;2003;74,3
+2909;Egna;2003;80,1
+2910;Falzes;2003;74,6
+2911;Fiè allo Sciliar;2003;74,9
+2912;Fortezza;2003;75,3
+2913;Funes;2003;74,3
+2914;Gais;2003;71,4
+2915;Gargazzone;2003;81,6
+2916;Glorenza;2003;78,6
+2918;Laces;2003;81,3
+2919;Lagundo;2003;81,9
+2920;Laion;2003;74,1
+2921;Laives;2003;78,2
+2922;Lana;2003;83,5
+2923;Lasa;2003;78,5
+2924;Lauregno;2003;84,7
+2925;Luson;2003;78
+2926;Magrè sulla strada del vino;2003;78,2
+2927;Malles Venosta;2003;78,3
+2928;Marebbe;2003;74
+2929;Marlengo;2003;82
+2930;Martello;2003;84,8
+2931;Meltina;2003;79,1
+2932;Merano;2003;80,4
+2933;Monguelfo-Tesido;2003;72
+2934;Montagna;2003;81
+2935;Moso in Passiria;2003;80
+2936;Nalles;2003;80,1
+2937;Naturno;2003;83,7
+2938;Naz-Sciaves;2003;79,1
+2939;Nova Levante;2003;77
+2940;Nova Ponente;2003;77,7
+2941;Ora;2003;79,5
+2942;Ortisei;2003;72,6
+2943;Parcines;2003;81,1
+2944;Perca;2003;71,2
+2945;Plaus;2003;83
+2946;Ponte Gardena;2003;75,6
+2947;Postal;2003;81,5
+2948;Prato allo Stelvio;2003;78,1
+2949;Predoi;2003;61,1
+2950;Proves;2003;84,5
+2951;Racines;2003;74,2
+2952;Rasun-Anterselva;2003;69,7
+2953;Renon;2003;72,4
+2954;Rifiano;2003;79,7
+2955;Rio di Pusteria;2003;79,7
+2956;Rodengo;2003;78,2
+2957;Salorno;2003;79,9
+2958;San Candido;2003;74,7
+2959;San Genesio Atesino;2003;75,6
+2960;San Leonardo in Passiria;2003;76,6
+2961;San Lorenzo di Sebato;2003;77,2
+2962;San Martino in Badia;2003;75
+2963;San Martino in Passiria;2003;79,7
+2964;San Pancrazio;2003;85,5
+2965;Santa Cristina Valgardena;2003;73,9
+2966;Sarentino;2003;72,4
+2967;Scena;2003;79,3
+2968;Selva dei Molini;2003;77,8
+2969;Selva di Val Gardena;2003;74,1
+2970;Senales;2003;76,2
+2972;Sesto;2003;76,9
+2973;Silandro;2003;75
+2974;Sluderno;2003;76
+2975;Stelvio;2003;80,3
+2976;Terento;2003;77,6
+2977;Terlano;2003;77,3
+2978;Termeno sulla strada del vino;2003;79,3
+2979;Tesimo;2003;84,1
+2980;Tires;2003;75,7
+2981;Tirolo;2003;80,2
+2982;Trodena nel parco naturale;2003;82
+2983;Tubre;2003;78
+2984;Ultimo;2003;82,6
+2985;Vadena;2003;78,6
+2987;Valdaora;2003;74,5
+2986;Val di Vizze;2003;81,1
+2988;Valle Aurina;2003;70,3
+2989;Valle di Casies;2003;71,2
+2990;Vandoies;2003;81
+2991;Varna;2003;73,2
+2993;Verano;2003;81,8
+2994;Villabassa;2003;73,2
+2995;Villandro;2003;68,8
+2996;Vipiteno;2003;75,8
+2992;Velturno;2003;74,2
+2917;La Valle;2003;73,4
+2971;Senale-San Felice;2003;84,6
+2881;Aldino;2004;37,7
+2882;Andriano;2004;31,7
+2883;Anterivo;2004;41
+2884;Appiano sulla strada del vino;2004;34,2
+2885;Avelengo;2004;31,5
+2886;Badia;2004;30,2
+2887;Barbiano;2004;27,1
+2888;Bolzano;2004;31,7
+2889;Braies;2004;21,9
+2890;Brennero;2004;32,2
+2891;Bressanone;2004;25,8
+2892;Bronzolo;2004;37,8
+2893;Brunico;2004;30,8
+2894;Caines;2004;31,6
+2895;Caldaro sulla strada del vino;2004;37,8
+2896;Campo di Trens;2004;28,5
+2897;Campo Tures;2004;28,3
+2898;Castelbello-Ciardes;2004;34,5
+2899;Castelrotto;2004;28,2
+2900;Cermes;2004;30,1
+2901;Chienes;2004;28,4
+2902;Chiusa;2004;25,5
+2903;Cornedo all'Isarco;2004;30,9
+2904;Cortaccia sulla strada del vino;2004;38,8
+2905;Cortina sulla strada del vino;2004;41,7
+2906;Corvara in Badia;2004;30,5
+2907;Curon Venosta;2004;29,7
+2908;Dobbiaco;2004;22,5
+2909;Egna;2004;40,4
+2910;Falzes;2004;31,6
+2911;Fiè allo Sciliar;2004;28,9
+2912;Fortezza;2004;24,6
+2913;Funes;2004;27,6
+2914;Gais;2004;31
+2915;Gargazzone;2004;30,8
+2916;Glorenza;2004;27,4
+2918;Laces;2004;30,1
+2919;Lagundo;2004;29,9
+2920;Laion;2004;26,9
+2921;Laives;2004;35,5
+2922;Lana;2004;31,2
+2923;Lasa;2004;25,9
+2924;Lauregno;2004;35,9
+2925;Luson;2004;27,9
+2926;Magrè sulla strada del vino;2004;40,3
+2927;Malles Venosta;2004;25,6
+2928;Marebbe;2004;28
+2929;Marlengo;2004;29,9
+2930;Martello;2004;29,4
+2931;Meltina;2004;31
+2932;Merano;2004;30,8
+2933;Monguelfo-Tesido;2004;22
+2934;Montagna;2004;39,9
+2935;Moso in Passiria;2004;26
+2936;Nalles;2004;31,6
+2937;Naturno;2004;34,2
+2938;Naz-Sciaves;2004;24,6
+2939;Nova Levante;2004;30,1
+2940;Nova Ponente;2004;32,7
+2941;Ora;2004;38,6
+2942;Ortisei;2004;27,9
+2943;Parcines;2004;26,9
+2944;Perca;2004;27,3
+2945;Plaus;2004;34,5
+2946;Ponte Gardena;2004;27,1
+2947;Postal;2004;30,9
+2948;Prato allo Stelvio;2004;28,2
+2949;Predoi;2004;21,5
+2950;Proves;2004;35,4
+2951;Racines;2004;27,9
+2952;Rasun-Anterselva;2004;24,6
+2953;Renon;2004;29,2
+2954;Rifiano;2004;26,3
+2955;Rio di Pusteria;2004;29,1
+2956;Rodengo;2004;25,6
+2957;Salorno;2004;41,9
+2958;San Candido;2004;23,7
+2959;San Genesio Atesino;2004;31,6
+2960;San Leonardo in Passiria;2004;30
+2961;San Lorenzo di Sebato;2004;28,6
+2962;San Martino in Badia;2004;30,5
+2963;San Martino in Passiria;2004;29,3
+2964;San Pancrazio;2004;35,6
+2965;Santa Cristina Valgardena;2004;29,2
+2966;Sarentino;2004;28
+2967;Scena;2004;31,6
+2968;Selva dei Molini;2004;37,9
+2969;Selva di Val Gardena;2004;29,7
+2970;Senales;2004;21,1
+2972;Sesto;2004;24,7
+2973;Silandro;2004;23,1
+2974;Sluderno;2004;25,6
+2975;Stelvio;2004;31,8
+2976;Terento;2004;31,1
+2977;Terlano;2004;30,7
+2978;Termeno sulla strada del vino;2004;38,5
+2979;Tesimo;2004;33,7
+2980;Tires;2004;29,5
+2981;Tirolo;2004;26,7
+2982;Trodena nel parco naturale;2004;40,5
+2983;Tubre;2004;28,6
+2984;Ultimo;2004;32,3
+2985;Vadena;2004;37,8
+2987;Valdaora;2004;26,1
+2986;Val di Vizze;2004;36,6
+2988;Valle Aurina;2004;31,9
+2989;Valle di Casies;2004;22,3
+2990;Vandoies;2004;33,2
+2991;Varna;2004;23,5
+2993;Verano;2004;30,6
+2994;Villabassa;2004;21,7
+2995;Villandro;2004;26,9
+2996;Vipiteno;2004;31,2
+2992;Velturno;2004;24,8
+2917;La Valle;2004;29,4
+2971;Senale-San Felice;2004;34,5
+2881;Aldino;2005;44
+2882;Andriano;2005;42,5
+2883;Anterivo;2005;45,1
+2884;Appiano sulla strada del vino;2005;43,2
+2885;Avelengo;2005;44,9
+2886;Badia;2005;36,7
+2887;Barbiano;2005;37,3
+2888;Bolzano;2005;42,3
+2889;Braies;2005;35,6
+2890;Brennero;2005;38,4
+2891;Bressanone;2005;34,2
+2892;Bronzolo;2005;45,9
+2893;Brunico;2005;41,4
+2894;Caines;2005;45,9
+2895;Caldaro sulla strada del vino;2005;44,1
+2896;Campo di Trens;2005;37,5
+2897;Campo Tures;2005;37,8
+2898;Castelbello-Ciardes;2005;44,4
+2899;Castelrotto;2005;37
+2900;Cermes;2005;46,9
+2901;Chienes;2005;38,6
+2902;Chiusa;2005;33,5
+2903;Cornedo all'Isarco;2005;42
+2904;Cortaccia sulla strada del vino;2005;43,2
+2905;Cortina sulla strada del vino;2005;45,4
+2906;Corvara in Badia;2005;36,4
+2907;Curon Venosta;2005;37,6
+2908;Dobbiaco;2005;35,5
+2909;Egna;2005;45
+2910;Falzes;2005;41
+2911;Fiè allo Sciliar;2005;39,5
+2912;Fortezza;2005;35,5
+2913;Funes;2005;34,8
+2914;Gais;2005;41,6
+2915;Gargazzone;2005;46,7
+2916;Glorenza;2005;38,8
+2918;Laces;2005;40,8
+2919;Lagundo;2005;45,8
+2920;Laion;2005;34,9
+2921;Laives;2005;45
+2922;Lana;2005;47,3
+2923;Lasa;2005;37,3
+2924;Lauregno;2005;46,3
+2925;Luson;2005;35,7
+2926;Magrè sulla strada del vino;2005;43,8
+2927;Malles Venosta;2005;36,9
+2928;Marebbe;2005;37,1
+2929;Marlengo;2005;46,9
+2930;Martello;2005;38,1
+2931;Meltina;2005;44,8
+2932;Merano;2005;46,4
+2933;Monguelfo-Tesido;2005;37,8
+2934;Montagna;2005;45,2
+2935;Moso in Passiria;2005;37,2
+2936;Nalles;2005;44,5
+2937;Naturno;2005;45,8
+2938;Naz-Sciaves;2005;35,6
+2939;Nova Levante;2005;42,3
+2940;Nova Ponente;2005;42,6
+2941;Ora;2005;45
+2942;Ortisei;2005;35
+2943;Parcines;2005;42
+2944;Perca;2005;40,1
+2945;Plaus;2005;48,1
+2946;Ponte Gardena;2005;35,2
+2947;Postal;2005;46,9
+2948;Prato allo Stelvio;2005;39,4
+2949;Predoi;2005;32,9
+2950;Proves;2005;46,9
+2951;Racines;2005;36,6
+2952;Rasun-Anterselva;2005;38,2
+2953;Renon;2005;40,6
+2954;Rifiano;2005;39,7
+2955;Rio di Pusteria;2005;36
+2956;Rodengo;2005;35,9
+2957;Salorno;2005;46
+2958;San Candido;2005;35,9
+2959;San Genesio Atesino;2005;42,4
+2960;San Leonardo in Passiria;2005;38,6
+2961;San Lorenzo di Sebato;2005;38,8
+2962;San Martino in Badia;2005;36,8
+2963;San Martino in Passiria;2005;41,3
+2964;San Pancrazio;2005;48,8
+2965;Santa Cristina Valgardena;2005;35,8
+2966;Sarentino;2005;38,8
+2967;Scena;2005;42,7
+2968;Selva dei Molini;2005;42,3
+2969;Selva di Val Gardena;2005;36,5
+2970;Senales;2005;35,6
+2972;Sesto;2005;34,8
+2973;Silandro;2005;35,8
+2974;Sluderno;2005;37
+2975;Stelvio;2005;41,1
+2976;Terento;2005;38,2
+2977;Terlano;2005;43,1
+2978;Termeno sulla strada del vino;2005;43,7
+2979;Tesimo;2005;47,2
+2980;Tires;2005;41,6
+2981;Tirolo;2005;41,3
+2982;Trodena nel parco naturale;2005;45,6
+2983;Tubre;2005;40,9
+2984;Ultimo;2005;42,1
+2985;Vadena;2005;45,7
+2987;Valdaora;2005;38,4
+2986;Val di Vizze;2005;39,5
+2988;Valle Aurina;2005;39,3
+2989;Valle di Casies;2005;38,5
+2990;Vandoies;2005;38,3
+2991;Varna;2005;33,5
+2993;Verano;2005;46
+2994;Villabassa;2005;35,1
+2995;Villandro;2005;36,5
+2996;Vipiteno;2005;39,1
+2992;Velturno;2005;32,5
+2917;La Valle;2005;37
+2971;Senale-San Felice;2005;45,7
+2881;Aldino;2006;48,8
+2882;Andriano;2006;44,3
+2883;Anterivo;2006;50,3
+2884;Appiano sulla strada del vino;2006;45,8
+2885;Avelengo;2006;47,9
+2886;Badia;2006;47,8
+2887;Barbiano;2006;46,9
+2888;Bolzano;2006;45,1
+2889;Braies;2006;40,9
+2890;Brennero;2006;49,4
+2891;Bressanone;2006;46
+2892;Bronzolo;2006;48
+2893;Brunico;2006;45,3
+2894;Caines;2006;46,4
+2895;Caldaro sulla strada del vino;2006;47,9
+2896;Campo di Trens;2006;47,9
+2897;Campo Tures;2006;43,8
+2898;Castelbello-Ciardes;2006;47,3
+2899;Castelrotto;2006;46,1
+2900;Cermes;2006;47,3
+2901;Chienes;2006;45,3
+2902;Chiusa;2006;46,6
+2903;Cornedo all'Isarco;2006;47,4
+2904;Cortaccia sulla strada del vino;2006;49,1
+2905;Cortina sulla strada del vino;2006;50,3
+2906;Corvara in Badia;2006;46,5
+2907;Curon Venosta;2006;47,7
+2908;Dobbiaco;2006;40,8
+2909;Egna;2006;50
+2910;Falzes;2006;45,4
+2911;Fiè allo Sciliar;2006;47,3
+2912;Fortezza;2006;46
+2913;Funes;2006;46,8
+2914;Gais;2006;45
+2915;Gargazzone;2006;47,4
+2916;Glorenza;2006;47
+2918;Laces;2006;47,8
+2919;Lagundo;2006;47,7
+2920;Laion;2006;45,4
+2921;Laives;2006;47
+2922;Lana;2006;47,8
+2923;Lasa;2006;46,9
+2924;Lauregno;2006;47,5
+2925;Luson;2006;45,4
+2926;Magrè sulla strada del vino;2006;49,8
+2927;Malles Venosta;2006;46,3
+2928;Marebbe;2006;45,3
+2929;Marlengo;2006;47
+2930;Martello;2006;51,8
+2931;Meltina;2006;48
+2932;Merano;2006;47
+2933;Monguelfo-Tesido;2006;41,3
+2934;Montagna;2006;49,9
+2935;Moso in Passiria;2006;50,3
+2936;Nalles;2006;45,8
+2937;Naturno;2006;47,6
+2938;Naz-Sciaves;2006;45,6
+2939;Nova Levante;2006;47,2
+2940;Nova Ponente;2006;47,8
+2941;Ora;2006;48,2
+2942;Ortisei;2006;46,6
+2943;Parcines;2006;48,1
+2944;Perca;2006;44,6
+2945;Plaus;2006;48,2
+2946;Ponte Gardena;2006;45,9
+2947;Postal;2006;48
+2948;Prato allo Stelvio;2006;48,3
+2949;Predoi;2006;41,9
+2950;Proves;2006;47,7
+2951;Racines;2006;48,3
+2952;Rasun-Anterselva;2006;43,7
+2953;Renon;2006;47,3
+2954;Rifiano;2006;49,2
+2955;Rio di Pusteria;2006;46,4
+2956;Rodengo;2006;44,4
+2957;Salorno;2006;50,3
+2958;San Candido;2006;40,6
+2959;San Genesio Atesino;2006;46,8
+2960;San Leonardo in Passiria;2006;48
+2961;San Lorenzo di Sebato;2006;45,8
+2962;San Martino in Badia;2006;46,6
+2963;San Martino in Passiria;2006;47,4
+2964;San Pancrazio;2006;48,5
+2965;Santa Cristina Valgardena;2006;45,9
+2966;Sarentino;2006;47,7
+2967;Scena;2006;46,9
+2968;Selva dei Molini;2006;46,6
+2969;Selva di Val Gardena;2006;45,6
+2970;Senales;2006;45,9
+2972;Sesto;2006;40
+2973;Silandro;2006;45,6
+2974;Sluderno;2006;44,8
+2975;Stelvio;2006;51,1
+2976;Terento;2006;45
+2977;Terlano;2006;44,6
+2978;Termeno sulla strada del vino;2006;48,7
+2979;Tesimo;2006;47,2
+2980;Tires;2006;47,4
+2981;Tirolo;2006;48,2
+2982;Trodena nel parco naturale;2006;50
+2983;Tubre;2006;47,4
+2984;Ultimo;2006;50,4
+2985;Vadena;2006;47,8
+2987;Valdaora;2006;42,4
+2986;Val di Vizze;2006;51,4
+2988;Valle Aurina;2006;44,1
+2989;Valle di Casies;2006;42
+2990;Vandoies;2006;47,1
+2991;Varna;2006;45,9
+2993;Verano;2006;48,4
+2994;Villabassa;2006;40,6
+2995;Villandro;2006;47,4
+2996;Vipiteno;2006;48,6
+2992;Velturno;2006;45,8
+2917;La Valle;2006;46,6
+2971;Senale-San Felice;2006;47,3
+2881;Aldino;2007;34,2
+2882;Andriano;2007;35,1
+2883;Anterivo;2007;43,6
+2884;Appiano sulla strada del vino;2007;36,1
+2885;Avelengo;2007;34,8
+2886;Badia;2007;31,7
+2887;Barbiano;2007;31,6
+2888;Bolzano;2007;32,6
+2889;Braies;2007;22,3
+2890;Brennero;2007;29,7
+2891;Bressanone;2007;25
+2892;Bronzolo;2007;37,3
+2893;Brunico;2007;32,3
+2894;Caines;2007;35,3
+2895;Caldaro sulla strada del vino;2007;38,5
+2896;Campo di Trens;2007;29,6
+2897;Campo Tures;2007;27,8
+2898;Castelbello-Ciardes;2007;38,2
+2899;Castelrotto;2007;26,7
+2900;Cermes;2007;38,3
+2901;Chienes;2007;31,6
+2902;Chiusa;2007;24,8
+2903;Cornedo all'Isarco;2007;30,2
+2904;Cortaccia sulla strada del vino;2007;47,3
+2905;Cortina sulla strada del vino;2007;46,4
+2906;Corvara in Badia;2007;31,2
+2907;Curon Venosta;2007;29,9
+2908;Dobbiaco;2007;27,9
+2909;Egna;2007;44,5
+2910;Falzes;2007;31,8
+2911;Fiè allo Sciliar;2007;30,5
+2912;Fortezza;2007;27,9
+2913;Funes;2007;24,3
+2914;Gais;2007;30,2
+2915;Gargazzone;2007;36
+2916;Glorenza;2007;30
+2918;Laces;2007;34,4
+2919;Lagundo;2007;38,2
+2920;Laion;2007;24,7
+2921;Laives;2007;33,9
+2922;Lana;2007;38,3
+2923;Lasa;2007;26,4
+2924;Lauregno;2007;38
+2925;Luson;2007;29,3
+2926;Magrè sulla strada del vino;2007;47,8
+2927;Malles Venosta;2007;28,2
+2928;Marebbe;2007;27,5
+2929;Marlengo;2007;38,2
+2930;Martello;2007;29,8
+2931;Meltina;2007;35,8
+2932;Merano;2007;37
+2933;Monguelfo-Tesido;2007;22,9
+2934;Montagna;2007;41,4
+2935;Moso in Passiria;2007;31,3
+2936;Nalles;2007;36,4
+2937;Naturno;2007;38,9
+2938;Naz-Sciaves;2007;30,1
+2939;Nova Levante;2007;32,9
+2940;Nova Ponente;2007;31,1
+2941;Ora;2007;38
+2942;Ortisei;2007;22,9
+2943;Parcines;2007;34,3
+2944;Perca;2007;27,9
+2945;Plaus;2007;40,2
+2946;Ponte Gardena;2007;29,6
+2947;Postal;2007;36,7
+2948;Prato allo Stelvio;2007;29,9
+2949;Predoi;2007;26,9
+2950;Proves;2007;38
+2951;Racines;2007;29,8
+2952;Rasun-Anterselva;2007;26,7
+2953;Renon;2007;32,1
+2954;Rifiano;2007;33,5
+2955;Rio di Pusteria;2007;29,4
+2956;Rodengo;2007;30,1
+2957;Salorno;2007;46,6
+2958;San Candido;2007;30,9
+2959;San Genesio Atesino;2007;34,3
+2960;San Leonardo in Passiria;2007;31,7
+2961;San Lorenzo di Sebato;2007;33,7
+2962;San Martino in Badia;2007;30,5
+2963;San Martino in Passiria;2007;32,9
+2964;San Pancrazio;2007;40,2
+2965;Santa Cristina Valgardena;2007;26,2
+2966;Sarentino;2007;32
+2967;Scena;2007;34
+2968;Selva dei Molini;2007;31,8
+2969;Selva di Val Gardena;2007;28,7
+2970;Senales;2007;25,4
+2972;Sesto;2007;31,2
+2973;Silandro;2007;25,6
+2974;Sluderno;2007;28,8
+2975;Stelvio;2007;31,2
+2976;Terento;2007;30
+2977;Terlano;2007;34,9
+2978;Termeno sulla strada del vino;2007;41,6
+2979;Tesimo;2007;38,3
+2980;Tires;2007;31,6
+2981;Tirolo;2007;35,4
+2982;Trodena nel parco naturale;2007;40,8
+2983;Tubre;2007;32,5
+2984;Ultimo;2007;35,8
+2985;Vadena;2007;37,5
+2987;Valdaora;2007;22,8
+2986;Val di Vizze;2007;31,6
+2988;Valle Aurina;2007;29,7
+2989;Valle di Casies;2007;27,3
+2990;Vandoies;2007;31,6
+2991;Varna;2007;24
+2993;Verano;2007;35,8
+2994;Villabassa;2007;23,7
+2995;Villandro;2007;30,9
+2996;Vipiteno;2007;31
+2992;Velturno;2007;21,5
+2917;La Valle;2007;30,4
+2971;Senale-San Felice;2007;38,5
+2881;Aldino;2008;37,4
+2882;Andriano;2008;32,5
+2883;Anterivo;2008;42,4
+2884;Appiano sulla strada del vino;2008;35,6
+2885;Avelengo;2008;36,8
+2886;Badia;2008;38,3
+2887;Barbiano;2008;33,4
+2888;Bolzano;2008;31,2
+2889;Braies;2008;27,6
+2890;Brennero;2008;42,8
+2891;Bressanone;2008;29,8
+2892;Bronzolo;2008;37,7
+2893;Brunico;2008;37,4
+2894;Caines;2008;36,4
+2895;Caldaro sulla strada del vino;2008;38,3
+2896;Campo di Trens;2008;37,7
+2897;Campo Tures;2008;34,7
+2898;Castelbello-Ciardes;2008;36,4
+2899;Castelrotto;2008;32,4
+2900;Cermes;2008;36,3
+2901;Chienes;2008;43,4
+2902;Chiusa;2008;28,6
+2903;Cornedo all'Isarco;2008;29,3
+2904;Cortaccia sulla strada del vino;2008;42,2
+2905;Cortina sulla strada del vino;2008;45,9
+2906;Corvara in Badia;2008;37,7
+2907;Curon Venosta;2008;34,2
+2908;Dobbiaco;2008;30,6
+2909;Egna;2008;43,2
+2910;Falzes;2008;43,5
+2911;Fiè allo Sciliar;2008;31,2
+2912;Fortezza;2008;33,9
+2913;Funes;2008;31,6
+2914;Gais;2008;37,9
+2915;Gargazzone;2008;34,1
+2916;Glorenza;2008;33,5
+2918;Laces;2008;35,1
+2919;Lagundo;2008;36
+2920;Laion;2008;30,1
+2921;Laives;2008;34,3
+2922;Lana;2008;36,1
+2923;Lasa;2008;31,1
+2924;Lauregno;2008;37,2
+2925;Luson;2008;35,1
+2926;Magrè sulla strada del vino;2008;44,7
+2927;Malles Venosta;2008;32,6
+2928;Marebbe;2008;34,5
+2929;Marlengo;2008;36,3
+2930;Martello;2008;36,2
+2931;Meltina;2008;34,8
+2932;Merano;2008;36,3
+2933;Monguelfo-Tesido;2008;27,6
+2934;Montagna;2008;40,5
+2935;Moso in Passiria;2008;35,4
+2936;Nalles;2008;33,6
+2937;Naturno;2008;36,4
+2938;Naz-Sciaves;2008;31,6
+2939;Nova Levante;2008;34,4
+2940;Nova Ponente;2008;32,5
+2941;Ora;2008;38,5
+2942;Ortisei;2008;33,3
+2943;Parcines;2008;35,7
+2944;Perca;2008;33,1
+2945;Plaus;2008;36,1
+2946;Ponte Gardena;2008;31,5
+2947;Postal;2008;35,6
+2948;Prato allo Stelvio;2008;34,9
+2949;Predoi;2008;30,7
+2950;Proves;2008;39,2
+2951;Racines;2008;38,4
+2952;Rasun-Anterselva;2008;29,9
+2953;Renon;2008;32,1
+2954;Rifiano;2008;34,6
+2955;Rio di Pusteria;2008;38,2
+2956;Rodengo;2008;36,6
+2957;Salorno;2008;45,9
+2958;San Candido;2008;34,5
+2959;San Genesio Atesino;2008;32,5
+2960;San Leonardo in Passiria;2008;36,3
+2961;San Lorenzo di Sebato;2008;39,2
+2962;San Martino in Badia;2008;36,8
+2963;San Martino in Passiria;2008;34,6
+2964;San Pancrazio;2008;36,6
+2965;Santa Cristina Valgardena;2008;34,4
+2966;Sarentino;2008;34,9
+2967;Scena;2008;36,5
+2968;Selva dei Molini;2008;45,6
+2969;Selva di Val Gardena;2008;36,7
+2970;Senales;2008;33,4
+2972;Sesto;2008;37
+2973;Silandro;2008;29,7
+2974;Sluderno;2008;30,4
+2975;Stelvio;2008;38,8
+2976;Terento;2008;43,3
+2977;Terlano;2008;32,5
+2978;Termeno sulla strada del vino;2008;40,2
+2979;Tesimo;2008;35,2
+2980;Tires;2008;33,3
+2981;Tirolo;2008;34,9
+2982;Trodena nel parco naturale;2008;40,6
+2983;Tubre;2008;37,2
+2984;Ultimo;2008;38,8
+2985;Vadena;2008;38,1
+2987;Valdaora;2008;29,8
+2986;Val di Vizze;2008;42,2
+2988;Valle Aurina;2008;39,8
+2989;Valle di Casies;2008;29,5
+2990;Vandoies;2008;41,6
+2991;Varna;2008;28,7
+2993;Verano;2008;35,9
+2994;Villabassa;2008;28,2
+2995;Villandro;2008;33,1
+2996;Vipiteno;2008;41,4
+2992;Velturno;2008;26,5
+2917;La Valle;2008;37,2
+2971;Senale-San Felice;2008;35,5
+2881;Aldino;2009;54
+2882;Andriano;2009;51,9
+2883;Anterivo;2009;58,7
+2884;Appiano sulla strada del vino;2009;53,4
+2885;Avelengo;2009;51,7
+2886;Badia;2009;48,3
+2887;Barbiano;2009;50,7
+2888;Bolzano;2009;52,1
+2889;Braies;2009;38,9
+2890;Brennero;2009;48,9
+2891;Bressanone;2009;46,5
+2892;Bronzolo;2009;52,2
+2893;Brunico;2009;48,6
+2894;Caines;2009;55,3
+2895;Caldaro sulla strada del vino;2009;53,4
+2896;Campo di Trens;2009;45,5
+2897;Campo Tures;2009;42,5
+2898;Castelbello-Ciardes;2009;50,5
+2899;Castelrotto;2009;50,1
+2900;Cermes;2009;56,3
+2901;Chienes;2009;47,8
+2902;Chiusa;2009;46,8
+2903;Cornedo all'Isarco;2009;50
+2904;Cortaccia sulla strada del vino;2009;57
+2905;Cortina sulla strada del vino;2009;56,3
+2906;Corvara in Badia;2009;49,3
+2907;Curon Venosta;2009;46,3
+2908;Dobbiaco;2009;40,2
+2909;Egna;2009;56,8
+2910;Falzes;2009;47,4
+2911;Fiè allo Sciliar;2009;50,4
+2912;Fortezza;2009;44,9
+2913;Funes;2009;48,8
+2914;Gais;2009;46,1
+2915;Gargazzone;2009;54,1
+2916;Glorenza;2009;45,5
+2918;Laces;2009;48,6
+2919;Lagundo;2009;52,6
+2920;Laion;2009;48,3
+2921;Laives;2009;53
+2922;Lana;2009;55,9
+2923;Lasa;2009;46,6
+2924;Lauregno;2009;56
+2925;Luson;2009;47,7
+2926;Magrè sulla strada del vino;2009;57,1
+2927;Malles Venosta;2009;44,8
+2928;Marebbe;2009;45,3
+2929;Marlengo;2009;56,2
+2930;Martello;2009;51,5
+2931;Meltina;2009;53,7
+2932;Merano;2009;57,2
+2933;Monguelfo-Tesido;2009;41,6
+2934;Montagna;2009;56,3
+2935;Moso in Passiria;2009;43,2
+2936;Nalles;2009;53,8
+2937;Naturno;2009;52,3
+2938;Naz-Sciaves;2009;46,2
+2939;Nova Levante;2009;50,3
+2940;Nova Ponente;2009;51,5
+2941;Ora;2009;53,3
+2942;Ortisei;2009;49,8
+2943;Parcines;2009;45,3
+2944;Perca;2009;46,4
+2945;Plaus;2009;55,5
+2946;Ponte Gardena;2009;50,1
+2947;Postal;2009;55,5
+2948;Prato allo Stelvio;2009;47,5
+2949;Predoi;2009;38,6
+2950;Proves;2009;55,8
+2951;Racines;2009;45,4
+2952;Rasun-Anterselva;2009;43,6
+2953;Renon;2009;51,7
+2954;Rifiano;2009;46,5
+2955;Rio di Pusteria;2009;44,7
+2956;Rodengo;2009;46,2
+2957;Salorno;2009;58,4
+2958;San Candido;2009;40,9
+2959;San Genesio Atesino;2009;53
+2960;San Leonardo in Passiria;2009;46,7
+2961;San Lorenzo di Sebato;2009;49,5
+2962;San Martino in Badia;2009;48,2
+2963;San Martino in Passiria;2009;47,8
+2964;San Pancrazio;2009;55,8
+2965;Santa Cristina Valgardena;2009;49,9
+2966;Sarentino;2009;48,9
+2967;Scena;2009;50,3
+2968;Selva dei Molini;2009;45,9
+2969;Selva di Val Gardena;2009;49,5
+2970;Senales;2009;35,6
+2972;Sesto;2009;41,8
+2973;Silandro;2009;41,8
+2974;Sluderno;2009;44,7
+2975;Stelvio;2009;49,6
+2976;Terento;2009;45,5
+2977;Terlano;2009;52,1
+2978;Termeno sulla strada del vino;2009;54,5
+2979;Tesimo;2009;55,4
+2980;Tires;2009;50,1
+2981;Tirolo;2009;48,6
+2982;Trodena nel parco naturale;2009;56,8
+2983;Tubre;2009;47,7
+2984;Ultimo;2009;54,1
+2985;Vadena;2009;52,7
+2987;Valdaora;2009;44,5
+2986;Val di Vizze;2009;47,5
+2988;Valle Aurina;2009;43,1
+2989;Valle di Casies;2009;41,3
+2990;Vandoies;2009;45,1
+2991;Varna;2009;45,3
+2993;Verano;2009;53,3
+2994;Villabassa;2009;38,6
+2995;Villandro;2009;49,2
+2996;Vipiteno;2009;48,4
+2992;Velturno;2009;44,8
+2917;La Valle;2009;46,5
+2971;Senale-San Felice;2009;56,4
+2881;Aldino;2010;46
+2882;Andriano;2010;44,7
+2883;Anterivo;2010;50,8
+2884;Appiano sulla strada del vino;2010;45,7
+2885;Avelengo;2010;44,3
+2886;Badia;2010;39,3
+2887;Barbiano;2010;43,2
+2888;Bolzano;2010;44,7
+2889;Braies;2010;33,7
+2890;Brennero;2010;37,3
+2891;Bressanone;2010;39,5
+2892;Bronzolo;2010;48,8
+2893;Brunico;2010;38,5
+2894;Caines;2010;44,6
+2895;Caldaro sulla strada del vino;2010;47,7
+2896;Campo di Trens;2010;36,3
+2897;Campo Tures;2010;36,3
+2898;Castelbello-Ciardes;2010;40,6
+2899;Castelrotto;2010;42,3
+2900;Cermes;2010;43,9
+2901;Chienes;2010;36,4
+2902;Chiusa;2010;40,6
+2903;Cornedo all'Isarco;2010;42,5
+2904;Cortaccia sulla strada del vino;2010;44,4
+2905;Cortina sulla strada del vino;2010;47,3
+2906;Corvara in Badia;2010;39,5
+2907;Curon Venosta;2010;38,6
+2908;Dobbiaco;2010;33,7
+2909;Egna;2010;48,2
+2910;Falzes;2010;37
+2911;Fiè allo Sciliar;2010;42,6
+2912;Fortezza;2010;35,2
+2913;Funes;2010;40,3
+2914;Gais;2010;36,8
+2915;Gargazzone;2010;43
+2916;Glorenza;2010;40,8
+2918;Laces;2010;39,7
+2919;Lagundo;2010;42,8
+2920;Laion;2010;43,2
+2921;Laives;2010;46,1
+2922;Lana;2010;43,9
+2923;Lasa;2010;38,1
+2924;Lauregno;2010;41,7
+2925;Luson;2010;36,6
+2926;Magrè sulla strada del vino;2010;45,2
+2927;Malles Venosta;2010;38,3
+2928;Marebbe;2010;37,4
+2929;Marlengo;2010;43,9
+2930;Martello;2010;39,7
+2931;Meltina;2010;44,5
+2932;Merano;2010;44,4
+2933;Monguelfo-Tesido;2010;35,6
+2934;Montagna;2010;49,2
+2935;Moso in Passiria;2010;36
+2936;Nalles;2010;43,9
+2937;Naturno;2010;41,7
+2938;Naz-Sciaves;2010;37,8
+2939;Nova Levante;2010;39,7
+2940;Nova Ponente;2010;42,9
+2941;Ora;2010;48,9
+2942;Ortisei;2010;40,8
+2943;Parcines;2010;39
+2944;Perca;2010;36,9
+2945;Plaus;2010;44
+2946;Ponte Gardena;2010;45,1
+2947;Postal;2010;44,2
+2948;Prato allo Stelvio;2010;39,5
+2949;Predoi;2010;35,8
+2950;Proves;2010;41,9
+2951;Racines;2010;35,9
+2952;Rasun-Anterselva;2010;36,8
+2953;Renon;2010;43,9
+2954;Rifiano;2010;39,6
+2955;Rio di Pusteria;2010;35,5
+2956;Rodengo;2010;35,9
+2957;Salorno;2010;48,7
+2958;San Candido;2010;33,8
+2959;San Genesio Atesino;2010;44,8
+2960;San Leonardo in Passiria;2010;38,2
+2961;San Lorenzo di Sebato;2010;37,4
+2962;San Martino in Badia;2010;39,3
+2963;San Martino in Passiria;2010;40,9
+2964;San Pancrazio;2010;42,6
+2965;Santa Cristina Valgardena;2010;38,9
+2966;Sarentino;2010;39,2
+2967;Scena;2010;42,4
+2968;Selva dei Molini;2010;35,6
+2969;Selva di Val Gardena;2010;38,9
+2970;Senales;2010;34,2
+2972;Sesto;2010;35,2
+2973;Silandro;2010;36,4
+2974;Sluderno;2010;40,3
+2975;Stelvio;2010;38,4
+2976;Terento;2010;35,3
+2977;Terlano;2010;44,7
+2978;Termeno sulla strada del vino;2010;47,2
+2979;Tesimo;2010;43,1
+2980;Tires;2010;40,1
+2981;Tirolo;2010;40,5
+2982;Trodena nel parco naturale;2010;49,6
+2983;Tubre;2010;40,4
+2984;Ultimo;2010;41,8
+2985;Vadena;2010;48,5
+2987;Valdaora;2010;36,9
+2986;Val di Vizze;2010;36,8
+2988;Valle Aurina;2010;36,4
+2989;Valle di Casies;2010;36,5
+2990;Vandoies;2010;35,2
+2991;Varna;2010;35,7
+2993;Verano;2010;44,7
+2994;Villabassa;2010;34
+2995;Villandro;2010;41,7
+2996;Vipiteno;2010;37,4
+2992;Velturno;2010;40
+2917;La Valle;2010;39
+2971;Senale-San Felice;2010;41,6
+2881;Aldino;2011;37
+2882;Andriano;2011;39
+2883;Anterivo;2011;39,5
+2884;Appiano sulla strada del vino;2011;39,5
+2885;Avelengo;2011;38,4
+2886;Badia;2011;36,6
+2887;Barbiano;2011;37,3
+2888;Bolzano;2011;39,4
+2889;Braies;2011;29
+2890;Brennero;2011;38,6
+2891;Bressanone;2011;31,7
+2892;Bronzolo;2011;41
+2893;Brunico;2011;32,1
+2894;Caines;2011;35,9
+2895;Caldaro sulla strada del vino;2011;38,7
+2896;Campo di Trens;2011;33,8
+2897;Campo Tures;2011;32,7
+2898;Castelbello-Ciardes;2011;33,6
+2899;Castelrotto;2011;35,7
+2900;Cermes;2011;34,3
+2901;Chienes;2011;31,4
+2902;Chiusa;2011;33
+2903;Cornedo all'Isarco;2011;35,7
+2904;Cortaccia sulla strada del vino;2011;33,9
+2905;Cortina sulla strada del vino;2011;33,7
+2906;Corvara in Badia;2011;39,4
+2907;Curon Venosta;2011;28,2
+2908;Dobbiaco;2011;31,6
+2909;Egna;2011;36,8
+2910;Falzes;2011;32,9
+2911;Fiè allo Sciliar;2011;35,8
+2912;Fortezza;2011;31,1
+2913;Funes;2011;34,2
+2914;Gais;2011;33,4
+2915;Gargazzone;2011;35,1
+2916;Glorenza;2011;33,8
+2918;Laces;2011;32,1
+2919;Lagundo;2011;33,8
+2920;Laion;2011;36,2
+2921;Laives;2011;39,1
+2922;Lana;2011;35,1
+2923;Lasa;2011;31,9
+2924;Lauregno;2011;34,5
+2925;Luson;2011;31
+2926;Magrè sulla strada del vino;2011;32,1
+2927;Malles Venosta;2011;32,5
+2928;Marebbe;2011;31,8
+2929;Marlengo;2011;34,1
+2930;Martello;2011;34,6
+2931;Meltina;2011;38,7
+2932;Merano;2011;35,6
+2933;Monguelfo-Tesido;2011;29,2
+2934;Montagna;2011;38,2
+2935;Moso in Passiria;2011;35
+2936;Nalles;2011;36,7
+2937;Naturno;2011;34,2
+2938;Naz-Sciaves;2011;28,9
+2939;Nova Levante;2011;33
+2940;Nova Ponente;2011;34,9
+2941;Ora;2011;40,8
+2942;Ortisei;2011;35,4
+2943;Parcines;2011;34,6
+2944;Perca;2011;30,8
+2945;Plaus;2011;33,7
+2946;Ponte Gardena;2011;36,4
+2947;Postal;2011;35,9
+2948;Prato allo Stelvio;2011;33,6
+2949;Predoi;2011;32,5
+2950;Proves;2011;33,8
+2951;Racines;2011;33,1
+2952;Rasun-Anterselva;2011;29,5
+2953;Renon;2011;39,1
+2954;Rifiano;2011;35,8
+2955;Rio di Pusteria;2011;32,8
+2956;Rodengo;2011;29,1
+2957;Salorno;2011;35,5
+2958;San Candido;2011;33,6
+2959;San Genesio Atesino;2011;39,6
+2960;San Leonardo in Passiria;2011;35,1
+2961;San Lorenzo di Sebato;2011;31
+2962;San Martino in Badia;2011;33
+2963;San Martino in Passiria;2011;36
+2964;San Pancrazio;2011;35,5
+2965;Santa Cristina Valgardena;2011;36
+2966;Sarentino;2011;36,6
+2967;Scena;2011;37,5
+2968;Selva dei Molini;2011;36,1
+2969;Selva di Val Gardena;2011;37,8
+2970;Senales;2011;29,1
+2972;Sesto;2011;35,1
+2973;Silandro;2011;28,6
+2974;Sluderno;2011;31,4
+2975;Stelvio;2011;37
+2976;Terento;2011;32,6
+2977;Terlano;2011;38
+2978;Termeno sulla strada del vino;2011;37,1
+2979;Tesimo;2011;36,3
+2980;Tires;2011;33,2
+2981;Tirolo;2011;35,2
+2982;Trodena nel parco naturale;2011;38,1
+2983;Tubre;2011;37,7
+2984;Ultimo;2011;33
+2985;Vadena;2011;41,1
+2987;Valdaora;2011;28,8
+2986;Val di Vizze;2011;36,3
+2988;Valle Aurina;2011;35,1
+2989;Valle di Casies;2011;29,9
+2990;Vandoies;2011;33,6
+2991;Varna;2011;30,2
+2993;Verano;2011;38,4
+2994;Villabassa;2011;29,4
+2995;Villandro;2011;36,7
+2996;Vipiteno;2011;36,1
+2992;Velturno;2011;31,4
+2917;La Valle;2011;31,1
+2971;Senale-San Felice;2011;37,1
+2881;Aldino;2012;51,3
+2882;Andriano;2012;47,9
+2883;Anterivo;2012;53,6
+2884;Appiano sulla strada del vino;2012;48,5
+2885;Avelengo;2012;56,1
+2886;Badia;2012;47,3
+2887;Barbiano;2012;51,6
+2888;Bolzano;2012;48,9
+2889;Braies;2012;35,5
+2890;Brennero;2012;44,2
+2891;Bressanone;2012;39,9
+2892;Bronzolo;2012;50,7
+2893;Brunico;2012;40,9
+2894;Caines;2012;50
+2895;Caldaro sulla strada del vino;2012;48,5
+2896;Campo di Trens;2012;43,9
+2897;Campo Tures;2012;38
+2898;Castelbello-Ciardes;2012;43,5
+2899;Castelrotto;2012;50,1
+2900;Cermes;2012;48,3
+2901;Chienes;2012;40,5
+2902;Chiusa;2012;46,8
+2903;Cornedo all'Isarco;2012;46,4
+2904;Cortaccia sulla strada del vino;2012;47,2
+2905;Cortina sulla strada del vino;2012;44,4
+2906;Corvara in Badia;2012;49
+2907;Curon Venosta;2012;46,9
+2908;Dobbiaco;2012;37,5
+2909;Egna;2012;48,9
+2910;Falzes;2012;41,6
+2911;Fiè allo Sciliar;2012;47,3
+2912;Fortezza;2012;42
+2913;Funes;2012;46,2
+2914;Gais;2012;41,3
+2915;Gargazzone;2012;47,4
+2916;Glorenza;2012;52,8
+2918;Laces;2012;41,6
+2919;Lagundo;2012;48,4
+2920;Laion;2012;47,4
+2921;Laives;2012;49,3
+2922;Lana;2012;48,7
+2923;Lasa;2012;41,7
+2924;Lauregno;2012;47,8
+2925;Luson;2012;38,9
+2926;Magrè sulla strada del vino;2012;45
+2927;Malles Venosta;2012;44,9
+2928;Marebbe;2012;40,3
+2929;Marlengo;2012;48
+2930;Martello;2012;50,8
+2931;Meltina;2012;53,3
+2932;Merano;2012;49,6
+2933;Monguelfo-Tesido;2012;35,6
+2934;Montagna;2012;51,1
+2935;Moso in Passiria;2012;45,9
+2936;Nalles;2012;48
+2937;Naturno;2012;46
+2938;Naz-Sciaves;2012;36,6
+2939;Nova Levante;2012;44,2
+2940;Nova Ponente;2012;47,6
+2941;Ora;2012;50
+2942;Ortisei;2012;50,6
+2943;Parcines;2012;44,7
+2944;Perca;2012;39
+2945;Plaus;2012;48,7
+2946;Ponte Gardena;2012;46,5
+2947;Postal;2012;48,5
+2948;Prato allo Stelvio;2012;49,1
+2949;Predoi;2012;32,4
+2950;Proves;2012;46,8
+2951;Racines;2012;42,6
+2952;Rasun-Anterselva;2012;37
+2953;Renon;2012;51,4
+2954;Rifiano;2012;50
+2955;Rio di Pusteria;2012;40,6
+2956;Rodengo;2012;37,9
+2957;Salorno;2012;47,4
+2958;San Candido;2012;39,6
+2959;San Genesio Atesino;2012;51,7
+2960;San Leonardo in Passiria;2012;48,7
+2961;San Lorenzo di Sebato;2012;40
+2962;San Martino in Badia;2012;43,6
+2963;San Martino in Passiria;2012;51,6
+2964;San Pancrazio;2012;49,4
+2965;Santa Cristina Valgardena;2012;50,6
+2966;Sarentino;2012;52
+2967;Scena;2012;53,6
+2968;Selva dei Molini;2012;44,8
+2969;Selva di Val Gardena;2012;49,7
+2970;Senales;2012;33,9
+2972;Sesto;2012;42,2
+2973;Silandro;2012;34,7
+2974;Sluderno;2012;45,5
+2975;Stelvio;2012;50,1
+2976;Terento;2012;41,1
+2977;Terlano;2012;48,6
+2978;Termeno sulla strada del vino;2012;48,7
+2979;Tesimo;2012;49,2
+2980;Tires;2012;45,6
+2981;Tirolo;2012;48,5
+2982;Trodena nel parco naturale;2012;52,7
+2983;Tubre;2012;50,4
+2984;Ultimo;2012;50,5
+2985;Vadena;2012;50,3
+2987;Valdaora;2012;36,1
+2986;Val di Vizze;2012;44,4
+2988;Valle Aurina;2012;39,5
+2989;Valle di Casies;2012;37,7
+2990;Vandoies;2012;42,2
+2991;Varna;2012;41,9
+2993;Verano;2012;54,9
+2994;Villabassa;2012;36,1
+2995;Villandro;2012;51,5
+2996;Vipiteno;2012;44,5
+2992;Velturno;2012;43,2
+2917;La Valle;2012;42,3
+2971;Senale-San Felice;2012;48,7
+2881;Aldino;2013;48,1
+2882;Andriano;2013;51,5
+2883;Anterivo;2013;48,9
+2884;Appiano sulla strada del vino;2013;51,3
+2885;Avelengo;2013;54,5
+2886;Badia;2013;43,6
+2887;Barbiano;2013;55,9
+2888;Bolzano;2013;50,4
+2889;Braies;2013;39,1
+2890;Brennero;2013;51,1
+2891;Bressanone;2013;46,5
+2892;Bronzolo;2013;51,9
+2893;Brunico;2013;45,8
+2894;Caines;2013;53,1
+2895;Caldaro sulla strada del vino;2013;52,4
+2896;Campo di Trens;2013;48,4
+2897;Campo Tures;2013;39,3
+2898;Castelbello-Ciardes;2013;45
+2899;Castelrotto;2013;50,1
+2900;Cermes;2013;50,2
+2901;Chienes;2013;46,7
+2902;Chiusa;2013;50,8
+2903;Cornedo all'Isarco;2013;44,4
+2904;Cortaccia sulla strada del vino;2013;54,1
+2905;Cortina sulla strada del vino;2013;49,1
+2906;Corvara in Badia;2013;45,8
+2907;Curon Venosta;2013;47,4
+2908;Dobbiaco;2013;40
+2909;Egna;2013;52,2
+2910;Falzes;2013;47,4
+2911;Fiè allo Sciliar;2013;45,6
+2912;Fortezza;2013;44,7
+2913;Funes;2013;48,6
+2914;Gais;2013;44
+2915;Gargazzone;2013;53
+2916;Glorenza;2013;49,9
+2918;Laces;2013;44
+2919;Lagundo;2013;49,8
+2920;Laion;2013;51,7
+2921;Laives;2013;50,9
+2922;Lana;2013;50,2
+2923;Lasa;2013;44,4
+2924;Lauregno;2013;49,8
+2925;Luson;2013;44
+2926;Magrè sulla strada del vino;2013;51,3
+2927;Malles Venosta;2013;46,5
+2928;Marebbe;2013;40,7
+2929;Marlengo;2013;50,5
+2930;Martello;2013;50,3
+2931;Meltina;2013;53
+2932;Merano;2013;52,6
+2933;Monguelfo-Tesido;2013;39,5
+2934;Montagna;2013;51,7
+2935;Moso in Passiria;2013;50,9
+2936;Nalles;2013;50,7
+2937;Naturno;2013;46,3
+2938;Naz-Sciaves;2013;44,5
+2939;Nova Levante;2013;39,4
+2940;Nova Ponente;2013;44,5
+2941;Ora;2013;52,2
+2942;Ortisei;2013;49,8
+2943;Parcines;2013;47,4
+2944;Perca;2013;42,2
+2945;Plaus;2013;47,9
+2946;Ponte Gardena;2013;52,9
+2947;Postal;2013;51,9
+2948;Prato allo Stelvio;2013;48,5
+2949;Predoi;2013;35,1
+2950;Proves;2013;48,7
+2951;Racines;2013;50
+2952;Rasun-Anterselva;2013;38,5
+2953;Renon;2013;52,2
+2954;Rifiano;2013;52,5
+2955;Rio di Pusteria;2013;45,6
+2956;Rodengo;2013;43,5
+2957;Salorno;2013;50,2
+2958;San Candido;2013;43,5
+2959;San Genesio Atesino;2013;52,5
+2960;San Leonardo in Passiria;2013;53,8
+2961;San Lorenzo di Sebato;2013;45,3
+2962;San Martino in Badia;2013;43,4
+2963;San Martino in Passiria;2013;55,5
+2964;San Pancrazio;2013;47,4
+2965;Santa Cristina Valgardena;2013;48,5
+2966;Sarentino;2013;53,5
+2967;Scena;2013;55,1
+2968;Selva dei Molini;2013;47,5
+2969;Selva di Val Gardena;2013;47,5
+2970;Senales;2013;38,9
+2972;Sesto;2013;46,8
+2973;Silandro;2013;39,6
+2974;Sluderno;2013;47,8
+2975;Stelvio;2013;48,4
+2976;Terento;2013;45,8
+2977;Terlano;2013;51,7
+2978;Termeno sulla strada del vino;2013;53,5
+2979;Tesimo;2013;49,4
+2980;Tires;2013;42,3
+2981;Tirolo;2013;51,1
+2982;Trodena nel parco naturale;2013;50,1
+2983;Tubre;2013;48,9
+2984;Ultimo;2013;49,2
+2985;Vadena;2013;52,4
+2987;Valdaora;2013;41,5
+2986;Val di Vizze;2013;49,2
+2988;Valle Aurina;2013;41,5
+2989;Valle di Casies;2013;39,9
+2990;Vandoies;2013;46,1
+2991;Varna;2013;45
+2993;Verano;2013;53,5
+2994;Villabassa;2013;40,4
+2995;Villandro;2013;55,5
+2996;Vipiteno;2013;50,3
+2992;Velturno;2013;47,7
+2917;La Valle;2013;40,3
+2971;Senale-San Felice;2013;48,2
+2881;Aldino;2014;17
+2882;Andriano;2014;17,9
+2883;Anterivo;2014;14,7
+2884;Appiano sulla strada del vino;2014;18
+2885;Avelengo;2014;15,9
+2886;Badia;2014;13,2
+2887;Barbiano;2014;15,6
+2888;Bolzano;2014;18,1
+2889;Braies;2014;13,9
+2890;Brennero;2014;19,7
+2891;Bressanone;2014;13,7
+2892;Bronzolo;2014;19,7
+2893;Brunico;2014;14,8
+2894;Caines;2014;15
+2895;Caldaro sulla strada del vino;2014;17,3
+2896;Campo di Trens;2014;16,9
+2897;Campo Tures;2014;15,3
+2898;Castelbello-Ciardes;2014;15
+2899;Castelrotto;2014;14,2
+2900;Cermes;2014;14,9
+2901;Chienes;2014;15,2
+2902;Chiusa;2014;13,7
+2903;Cornedo all'Isarco;2014;15,3
+2904;Cortaccia sulla strada del vino;2014;13,3
+2905;Cortina sulla strada del vino;2014;12,6
+2906;Corvara in Badia;2014;14,3
+2907;Curon Venosta;2014;13,6
+2908;Dobbiaco;2014;14,1
+2909;Egna;2014;14,2
+2910;Falzes;2014;16
+2911;Fiè allo Sciliar;2014;14,3
+2912;Fortezza;2014;15,2
+2913;Funes;2014;13,2
+2914;Gais;2014;15,9
+2915;Gargazzone;2014;15,2
+2916;Glorenza;2014;15,3
+2918;Laces;2014;13,4
+2919;Lagundo;2014;14,7
+2920;Laion;2014;13,7
+2921;Laives;2014;19,3
+2922;Lana;2014;15
+2923;Lasa;2014;14,2
+2924;Lauregno;2014;14,5
+2925;Luson;2014;14
+2926;Magrè sulla strada del vino;2014;13
+2927;Malles Venosta;2014;13,9
+2928;Marebbe;2014;13,2
+2929;Marlengo;2014;14,9
+2930;Martello;2014;14
+2931;Meltina;2014;17,4
+2932;Merano;2014;14,9
+2933;Monguelfo-Tesido;2014;13,9
+2934;Montagna;2014;16,2
+2935;Moso in Passiria;2014;14,1
+2936;Nalles;2014;15,8
+2937;Naturno;2014;15,1
+2938;Naz-Sciaves;2014;15,4
+2939;Nova Levante;2014;13,9
+2940;Nova Ponente;2014;16
+2941;Ora;2014;18,6
+2942;Ortisei;2014;13,8
+2943;Parcines;2014;14
+2944;Perca;2014;14,4
+2945;Plaus;2014;15
+2946;Ponte Gardena;2014;15
+2947;Postal;2014;14,9
+2948;Prato allo Stelvio;2014;14,6
+2949;Predoi;2014;9,3
+2950;Proves;2014;14,8
+2951;Racines;2014;14,7
+2952;Rasun-Anterselva;2014;14,4
+2953;Renon;2014;16,7
+2954;Rifiano;2014;14,6
+2955;Rio di Pusteria;2014;15,3
+2956;Rodengo;2014;14,7
+2957;Salorno;2014;12,7
+2958;San Candido;2014;14,3
+2959;San Genesio Atesino;2014;18,2
+2960;San Leonardo in Passiria;2014;15
+2961;San Lorenzo di Sebato;2014;14,3
+2962;San Martino in Badia;2014;13,9
+2963;San Martino in Passiria;2014;16,2
+2964;San Pancrazio;2014;14,7
+2965;Santa Cristina Valgardena;2014;14
+2966;Sarentino;2014;16,4
+2967;Scena;2014;15
+2968;Selva dei Molini;2014;17,3
+2969;Selva di Val Gardena;2014;14,6
+2970;Senales;2014;12,2
+2972;Sesto;2014;14,6
+2973;Silandro;2014;13,1
+2974;Sluderno;2014;15,4
+2975;Stelvio;2014;14,3
+2976;Terento;2014;15,4
+2977;Terlano;2014;17,2
+2978;Termeno sulla strada del vino;2014;15,7
+2979;Tesimo;2014;14,8
+2980;Tires;2014;14,2
+2981;Tirolo;2014;14,5
+2982;Trodena nel parco naturale;2014;16,2
+2983;Tubre;2014;13,6
+2984;Ultimo;2014;14,4
+2985;Vadena;2014;19,5
+2987;Valdaora;2014;14
+2986;Val di Vizze;2014;19,3
+2988;Valle Aurina;2014;16,3
+2989;Valle di Casies;2014;15,4
+2990;Vandoies;2014;16,1
+2991;Varna;2014;14,5
+2993;Verano;2014;16,4
+2994;Villabassa;2014;14,2
+2995;Villandro;2014;15,2
+2996;Vipiteno;2014;19,1
+2992;Velturno;2014;13,1
+2917;La Valle;2014;13,5
+2971;Senale-San Felice;2014;14
+2881;Aldino;2015;52,8
+2882;Andriano;2015;51,9
+2883;Anterivo;2015;54,5
+2884;Appiano sulla strada del vino;2015;52,1
+2885;Avelengo;2015;50,7
+2886;Badia;2015;45,1
+2887;Barbiano;2015;51
+2888;Bolzano;2015;52,2
+2889;Braies;2015;45,7
+2890;Brennero;2015;51,4
+2891;Bressanone;2015;46,3
+2892;Bronzolo;2015;54,4
+2893;Brunico;2015;45,7
+2894;Caines;2015;50
+2895;Caldaro sulla strada del vino;2015;53,6
+2896;Campo di Trens;2015;48,2
+2897;Campo Tures;2015;44,2
+2898;Castelbello-Ciardes;2015;50,7
+2899;Castelrotto;2015;49,8
+2900;Cermes;2015;50,8
+2901;Chienes;2015;45,3
+2902;Chiusa;2015;47,7
+2903;Cornedo all'Isarco;2015;52
+2904;Cortaccia sulla strada del vino;2015;54,2
+2905;Cortina sulla strada del vino;2015;52,6
+2906;Corvara in Badia;2015;45,5
+2907;Curon Venosta;2015;50,3
+2908;Dobbiaco;2015;44,4
+2909;Egna;2015;54,6
+2910;Falzes;2015;44,7
+2911;Fiè allo Sciliar;2015;51,4
+2912;Fortezza;2015;46,4
+2913;Funes;2015;46,7
+2914;Gais;2015;44,2
+2915;Gargazzone;2015;50,4
+2916;Glorenza;2015;52,4
+2918;Laces;2015;50
+2919;Lagundo;2015;48,6
+2920;Laion;2015;48,3
+2921;Laives;2015;53
+2922;Lana;2015;50,7
+2923;Lasa;2015;48,6
+2924;Lauregno;2015;49,1
+2925;Luson;2015;46,4
+2926;Magrè sulla strada del vino;2015;52,8
+2927;Malles Venosta;2015;49,9
+2928;Marebbe;2015;45,3
+2929;Marlengo;2015;50,3
+2930;Martello;2015;51,3
+2931;Meltina;2015;52,4
+2932;Merano;2015;51,9
+2933;Monguelfo-Tesido;2015;45,9
+2934;Montagna;2015;54,5
+2935;Moso in Passiria;2015;47,3
+2936;Nalles;2015;50,4
+2937;Naturno;2015;49,3
+2938;Naz-Sciaves;2015;45,7
+2939;Nova Levante;2015;49,1
+2940;Nova Ponente;2015;51,4
+2941;Ora;2015;55,2
+2942;Ortisei;2015;48,9
+2943;Parcines;2015;47
+2944;Perca;2015;44,9
+2945;Plaus;2015;48,9
+2946;Ponte Gardena;2015;50,5
+2947;Postal;2015;52,2
+2948;Prato allo Stelvio;2015;50,9
+2949;Predoi;2015;44,2
+2950;Proves;2015;49,7
+2951;Racines;2015;48,2
+2952;Rasun-Anterselva;2015;44,2
+2953;Renon;2015;52,3
+2954;Rifiano;2015;48,9
+2955;Rio di Pusteria;2015;45,6
+2956;Rodengo;2015;45,8
+2957;Salorno;2015;52,2
+2958;San Candido;2015;45,3
+2959;San Genesio Atesino;2015;52,2
+2960;San Leonardo in Passiria;2015;48,9
+2961;San Lorenzo di Sebato;2015;45,9
+2962;San Martino in Badia;2015;45,4
+2963;San Martino in Passiria;2015;50,7
+2964;San Pancrazio;2015;49,7
+2965;Santa Cristina Valgardena;2015;47,3
+2966;Sarentino;2015;49,8
+2967;Scena;2015;49,8
+2968;Selva dei Molini;2015;45,1
+2969;Selva di Val Gardena;2015;46,1
+2970;Senales;2015;46,8
+2972;Sesto;2015;46,4
+2973;Silandro;2015;46,5
+2974;Sluderno;2015;49,5
+2975;Stelvio;2015;51,5
+2976;Terento;2015;45,2
+2977;Terlano;2015;51,7
+2978;Termeno sulla strada del vino;2015;54,3
+2979;Tesimo;2015;49,8
+2980;Tires;2015;49,1
+2981;Tirolo;2015;48,8
+2982;Trodena nel parco naturale;2015;54,2
+2983;Tubre;2015;52
+2984;Ultimo;2015;52,4
+2985;Vadena;2015;54,5
+2987;Valdaora;2015;47,2
+2986;Val di Vizze;2015;48,9
+2988;Valle Aurina;2015;46,1
+2989;Valle di Casies;2015;43,2
+2990;Vandoies;2015;45,4
+2991;Varna;2015;46,5
+2993;Verano;2015;51,6
+2994;Villabassa;2015;45,8
+2995;Villandro;2015;50,1
+2996;Vipiteno;2015;52,2
+2992;Velturno;2015;46,5
+2917;La Valle;2015;45
+2971;Senale-San Felice;2015;48,3
+2881;Aldino;2016;43,9
+2882;Andriano;2016;36,7
+2883;Anterivo;2016;49,4
+2884;Appiano sulla strada del vino;2016;39,2
+2885;Avelengo;2016;45,7
+2886;Badia;2016;34,8
+2887;Barbiano;2016;42,5
+2888;Bolzano;2016;39,4
+2889;Braies;2016;27,5
+2890;Brennero;2016;49,9
+2891;Bressanone;2016;35,7
+2892;Bronzolo;2016;42,2
+2893;Brunico;2016;30,6
+2894;Caines;2016;38,7
+2895;Caldaro sulla strada del vino;2016;40,3
+2896;Campo di Trens;2016;42,3
+2897;Campo Tures;2016;37
+2898;Castelbello-Ciardes;2016;37,8
+2899;Castelrotto;2016;40,5
+2900;Cermes;2016;36,8
+2901;Chienes;2016;35,2
+2902;Chiusa;2016;38
+2903;Cornedo all'Isarco;2016;36,1
+2904;Cortaccia sulla strada del vino;2016;39,8
+2905;Cortina sulla strada del vino;2016;34,9
+2906;Corvara in Badia;2016;39,6
+2907;Curon Venosta;2016;40,5
+2908;Dobbiaco;2016;32,9
+2909;Egna;2016;41,5
+2910;Falzes;2016;36,2
+2911;Fiè allo Sciliar;2016;36,3
+2912;Fortezza;2016;36,5
+2913;Funes;2016;38,1
+2914;Gais;2016;34,7
+2915;Gargazzone;2016;35,4
+2916;Glorenza;2016;41,5
+2918;Laces;2016;36,5
+2919;Lagundo;2016;39,6
+2920;Laion;2016;38,3
+2921;Laives;2016;40,5
+2922;Lana;2016;37,4
+2923;Lasa;2016;41,7
+2924;Lauregno;2016;40,8
+2925;Luson;2016;36,9
+2926;Magrè sulla strada del vino;2016;36,9
+2927;Malles Venosta;2016;40,7
+2928;Marebbe;2016;31,1
+2929;Marlengo;2016;36,4
+2930;Martello;2016;48,2
+2931;Meltina;2016;45,4
+2932;Merano;2016;37,8
+2933;Monguelfo-Tesido;2016;27,9
+2934;Montagna;2016;45,9
+2935;Moso in Passiria;2016;47,2
+2936;Nalles;2016;37,7
+2937;Naturno;2016;39,4
+2938;Naz-Sciaves;2016;33
+2939;Nova Levante;2016;34,3
+2940;Nova Ponente;2016;38
+2941;Ora;2016;42,2
+2942;Ortisei;2016;41,3
+2943;Parcines;2016;41
+2944;Perca;2016;30,5
+2945;Plaus;2016;38,3
+2946;Ponte Gardena;2016;37,1
+2947;Postal;2016;36,5
+2948;Prato allo Stelvio;2016;47
+2949;Predoi;2016;40,4
+2950;Proves;2016;41,2
+2951;Racines;2016;43,1
+2952;Rasun-Anterselva;2016;30,8
+2953;Renon;2016;41,7
+2954;Rifiano;2016;46,8
+2955;Rio di Pusteria;2016;39,4
+2956;Rodengo;2016;33,4
+2957;Salorno;2016;40,1
+2958;San Candido;2016;36,5
+2959;San Genesio Atesino;2016;45,7
+2960;San Leonardo in Passiria;2016;42,1
+2961;San Lorenzo di Sebato;2016;33
+2962;San Martino in Badia;2016;37,1
+2963;San Martino in Passiria;2016;45
+2964;San Pancrazio;2016;40,3
+2965;Santa Cristina Valgardena;2016;42,2
+2966;Sarentino;2016;45,9
+2967;Scena;2016;43,4
+2968;Selva dei Molini;2016;43,7
+2969;Selva di Val Gardena;2016;41,9
+2970;Senales;2016;34
+2972;Sesto;2016;39,9
+2973;Silandro;2016;33,3
+2974;Sluderno;2016;40,4
+2975;Stelvio;2016;56,5
+2976;Terento;2016;38,2
+2977;Terlano;2016;37,9
+2978;Termeno sulla strada del vino;2016;40,7
+2979;Tesimo;2016;39,1
+2980;Tires;2016;36,5
+2981;Tirolo;2016;43,8
+2982;Trodena nel parco naturale;2016;48,8
+2983;Tubre;2016;44,3
+2984;Ultimo;2016;44
+2985;Vadena;2016;41,6
+2987;Valdaora;2016;28,1
+2986;Val di Vizze;2016;47,3
+2988;Valle Aurina;2016;38,6
+2989;Valle di Casies;2016;32,7
+2990;Vandoies;2016;41
+2991;Varna;2016;35,5
+2993;Verano;2016;45,3
+2994;Villabassa;2016;27,2
+2995;Villandro;2016;43,4
+2996;Vipiteno;2016;46,6
+2992;Velturno;2016;35,3
+2917;La Valle;2016;31,6
+2971;Senale-San Felice;2016;40,6
+2881;Aldino;2017;58,5
+2882;Andriano;2017;49,9
+2883;Anterivo;2017;61,3
+2884;Appiano sulla strada del vino;2017;52,9
+2885;Avelengo;2017;55,6
+2886;Badia;2017;51,2
+2887;Barbiano;2017;56
+2888;Bolzano;2017;52
+2889;Braies;2017;43,5
+2890;Brennero;2017;52,4
+2891;Bressanone;2017;50,4
+2892;Bronzolo;2017;57,4
+2893;Brunico;2017;49
+2894;Caines;2017;52,9
+2895;Caldaro sulla strada del vino;2017;55,9
+2896;Campo di Trens;2017;47,2
+2897;Campo Tures;2017;46,4
+2898;Castelbello-Ciardes;2017;52,4
+2899;Castelrotto;2017;54,4
+2900;Cermes;2017;50
+2901;Chienes;2017;49
+2902;Chiusa;2017;52,1
+2903;Cornedo all'Isarco;2017;49,8
+2904;Cortaccia sulla strada del vino;2017;58,4
+2905;Cortina sulla strada del vino;2017;56,4
+2906;Corvara in Badia;2017;56,4
+2907;Curon Venosta;2017;44,3
+2908;Dobbiaco;2017;47,2
+2909;Egna;2017;59,4
+2910;Falzes;2017;48
+2911;Fiè allo Sciliar;2017;49,3
+2912;Fortezza;2017;45,3
+2913;Funes;2017;53
+2914;Gais;2017;46,3
+2915;Gargazzone;2017;51,1
+2916;Glorenza;2017;51
+2918;Laces;2017;53,1
+2919;Lagundo;2017;49,9
+2920;Laion;2017;52,6
+2921;Laives;2017;54,6
+2922;Lana;2017;50,8
+2923;Lasa;2017;54
+2924;Lauregno;2017;52,3
+2925;Luson;2017;52,2
+2926;Magrè sulla strada del vino;2017;57,7
+2927;Malles Venosta;2017;46,4
+2928;Marebbe;2017;48
+2929;Marlengo;2017;49,9
+2930;Martello;2017;61,8
+2931;Meltina;2017;55,8
+2932;Merano;2017;51,8
+2933;Monguelfo-Tesido;2017;46,4
+2934;Montagna;2017;60,4
+2935;Moso in Passiria;2017;49,4
+2936;Nalles;2017;50
+2937;Naturno;2017;52
+2938;Naz-Sciaves;2017;49,9
+2939;Nova Levante;2017;51,6
+2940;Nova Ponente;2017;53,5
+2941;Ora;2017;57,5
+2942;Ortisei;2017;55,1
+2943;Parcines;2017;48,3
+2944;Perca;2017;45,8
+2945;Plaus;2017;50,1
+2946;Ponte Gardena;2017;52,2
+2947;Postal;2017;51,7
+2948;Prato allo Stelvio;2017;55,8
+2949;Predoi;2017;47,7
+2950;Proves;2017;53,2
+2951;Racines;2017;47,1
+2952;Rasun-Anterselva;2017;46
+2953;Renon;2017;53,4
+2954;Rifiano;2017;52
+2955;Rio di Pusteria;2017;46,7
+2956;Rodengo;2017;49,4
+2957;Salorno;2017;59,8
+2958;San Candido;2017;48,5
+2959;San Genesio Atesino;2017;55,6
+2960;San Leonardo in Passiria;2017;50,7
+2961;San Lorenzo di Sebato;2017;50,7
+2962;San Martino in Badia;2017;52,3
+2963;San Martino in Passiria;2017;54,2
+2964;San Pancrazio;2017;53
+2965;Santa Cristina Valgardena;2017;57,9
+2966;Sarentino;2017;52,8
+2967;Scena;2017;53,7
+2968;Selva dei Molini;2017;52,6
+2969;Selva di Val Gardena;2017;58
+2970;Senales;2017;44,1
+2972;Sesto;2017;48,8
+2973;Silandro;2017;47,7
+2974;Sluderno;2017;49,6
+2975;Stelvio;2017;61,7
+2976;Terento;2017;47,9
+2977;Terlano;2017;50,8
+2978;Termeno sulla strada del vino;2017;56,8
+2979;Tesimo;2017;51,5
+2980;Tires;2017;51,8
+2981;Tirolo;2017;50,9
+2982;Trodena nel parco naturale;2017;61
+2983;Tubre;2017;52
+2984;Ultimo;2017;56,6
+2985;Vadena;2017;56,5
+2987;Valdaora;2017;47,5
+2986;Val di Vizze;2017;53,9
+2988;Valle Aurina;2017;50,9
+2989;Valle di Casies;2017;48,6
+2990;Vandoies;2017;50,7
+2991;Varna;2017;47,5
+2993;Verano;2017;55,7
+2994;Villabassa;2017;45,7
+2995;Villandro;2017;56,2
+2996;Vipiteno;2017;50,8
+2992;Velturno;2017;49,6
+2917;La Valle;2017;48,3
+2971;Senale-San Felice;2017;51,1
+2881;Aldino;2018;54,8
+2882;Andriano;2018;50,6
+2883;Anterivo;2018;57,5
+2884;Appiano sulla strada del vino;2018;51
+2885;Avelengo;2018;54,2
+2886;Badia;2018;41,3
+2887;Barbiano;2018;50,8
+2888;Bolzano;2018;51
+2889;Braies;2018;38,9
+2890;Brennero;2018;57,4
+2891;Bressanone;2018;42,8
+2892;Bronzolo;2018;53,9
+2893;Brunico;2018;43,6
+2894;Caines;2018;53,3
+2895;Caldaro sulla strada del vino;2018;52,3
+2896;Campo di Trens;2018;49,3
+2897;Campo Tures;2018;45,1
+2898;Castelbello-Ciardes;2018;48,1
+2899;Castelrotto;2018;47,1
+2900;Cermes;2018;51,9
+2901;Chienes;2018;45,5
+2902;Chiusa;2018;43,1
+2903;Cornedo all'Isarco;2018;45,3
+2904;Cortaccia sulla strada del vino;2018;52,6
+2905;Cortina sulla strada del vino;2018;53,1
+2906;Corvara in Badia;2018;46,4
+2907;Curon Venosta;2018;50,7
+2908;Dobbiaco;2018;40,6
+2909;Egna;2018;53,9
+2910;Falzes;2018;46,1
+2911;Fiè allo Sciliar;2018;45,5
+2912;Fortezza;2018;43,5
+2913;Funes;2018;43,7
+2914;Gais;2018;44,5
+2915;Gargazzone;2018;51,8
+2916;Glorenza;2018;53,3
+2918;Laces;2018;48,5
+2919;Lagundo;2018;50,5
+2920;Laion;2018;44,6
+2921;Laives;2018;52,7
+2922;Lana;2018;50,5
+2923;Lasa;2018;48,4
+2924;Lauregno;2018;48,6
+2925;Luson;2018;43,8
+2926;Magrè sulla strada del vino;2018;52,5
+2927;Malles Venosta;2018;51,4
+2928;Marebbe;2018;39,6
+2929;Marlengo;2018;52,3
+2930;Martello;2018;52
+2931;Meltina;2018;53,7
+2932;Merano;2018;54,1
+2933;Monguelfo-Tesido;2018;39,8
+2934;Montagna;2018;55,8
+2935;Moso in Passiria;2018;57,8
+2936;Nalles;2018;49,4
+2937;Naturno;2018;47,9
+2938;Naz-Sciaves;2018;43,7
+2939;Nova Levante;2018;39,1
+2940;Nova Ponente;2018;48,2
+2941;Ora;2018;53,6
+2942;Ortisei;2018;46,2
+2943;Parcines;2018;50
+2944;Perca;2018;42,4
+2945;Plaus;2018;47,4
+2946;Ponte Gardena;2018;47,6
+2947;Postal;2018;53,4
+2948;Prato allo Stelvio;2018;52,4
+2949;Predoi;2018;54,4
+2950;Proves;2018;49,9
+2951;Racines;2018;52,5
+2952;Rasun-Anterselva;2018;40,3
+2953;Renon;2018;50,9
+2954;Rifiano;2018;58,5
+2955;Rio di Pusteria;2018;46,5
+2956;Rodengo;2018;43,1
+2957;Salorno;2018;54,1
+2958;San Candido;2018;45,5
+2959;San Genesio Atesino;2018;53,4
+2960;San Leonardo in Passiria;2018;54,3
+2961;San Lorenzo di Sebato;2018;43,8
+2962;San Martino in Badia;2018;44
+2963;San Martino in Passiria;2018;56,3
+2964;San Pancrazio;2018;47,9
+2965;Santa Cristina Valgardena;2018;48,2
+2966;Sarentino;2018;52
+2967;Scena;2018;55,6
+2968;Selva dei Molini;2018;48,7
+2969;Selva di Val Gardena;2018;49,1
+2970;Senales;2018;44,1
+2972;Sesto;2018;48,6
+2973;Silandro;2018;44
+2974;Sluderno;2018;49,3
+2975;Stelvio;2018;56,6
+2976;Terento;2018;47,1
+2977;Terlano;2018;50,8
+2978;Termeno sulla strada del vino;2018;52,8
+2979;Tesimo;2018;47,9
+2980;Tires;2018;40,8
+2981;Tirolo;2018;55,6
+2982;Trodena nel parco naturale;2018;56,6
+2983;Tubre;2018;55,8
+2984;Ultimo;2018;51,9
+2985;Vadena;2018;53,3
+2987;Valdaora;2018;40,2
+2986;Val di Vizze;2018;55,3
+2988;Valle Aurina;2018;48,3
+2989;Valle di Casies;2018;40,3
+2990;Vandoies;2018;48,6
+2991;Varna;2018;43,1
+2993;Verano;2018;53,6
+2994;Villabassa;2018;38,7
+2995;Villandro;2018;49,8
+2996;Vipiteno;2018;54
+2992;Velturno;2018;40,1
+2917;La Valle;2018;39,6
+2971;Senale-San Felice;2018;47,4
+2881;Aldino;2019;56,8
+2882;Andriano;2019;49
+2883;Anterivo;2019;61,8
+2884;Appiano sulla strada del vino;2019;51
+2885;Avelengo;2019;57,1
+2886;Badia;2019;46,9
+2887;Barbiano;2019;53,4
+2888;Bolzano;2019;52,8
+2889;Braies;2019;37,4
+2890;Brennero;2019;50,6
+2891;Bressanone;2019;41,1
+2892;Bronzolo;2019;55
+2893;Brunico;2019;47,1
+2894;Caines;2019;53,7
+2895;Caldaro sulla strada del vino;2019;52,2
+2896;Campo di Trens;2019;45,5
+2897;Campo Tures;2019;44,6
+2898;Castelbello-Ciardes;2019;51,4
+2899;Castelrotto;2019;52,4
+2900;Cermes;2019;50,3
+2901;Chienes;2019;43,6
+2902;Chiusa;2019;47
+2903;Cornedo all'Isarco;2019;46,2
+2904;Cortaccia sulla strada del vino;2019;51,3
+2905;Cortina sulla strada del vino;2019;46,7
+2906;Corvara in Badia;2019;48,4
+2907;Curon Venosta;2019;44,1
+2908;Dobbiaco;2019;40,4
+2909;Egna;2019;55,5
+2910;Falzes;2019;46,5
+2911;Fiè allo Sciliar;2019;46,9
+2912;Fortezza;2019;40,9
+2913;Funes;2019;48,9
+2914;Gais;2019;45,5
+2915;Gargazzone;2019;46,9
+2916;Glorenza;2019;48,4
+2918;Laces;2019;48,6
+2919;Lagundo;2019;51
+2920;Laion;2019;49,6
+2921;Laives;2019;53,7
+2922;Lana;2019;49,9
+2923;Lasa;2019;47,4
+2924;Lauregno;2019;47,3
+2925;Luson;2019;42,6
+2926;Magrè sulla strada del vino;2019;48,2
+2927;Malles Venosta;2019;45,3
+2928;Marebbe;2019;42,9
+2929;Marlengo;2019;50,2
+2930;Martello;2019;52,1
+2931;Meltina;2019;57,3
+2932;Merano;2019;52,6
+2933;Monguelfo-Tesido;2019;42,1
+2934;Montagna;2019;58,4
+2935;Moso in Passiria;2019;54,4
+2936;Nalles;2019;48,4
+2937;Naturno;2019;52,8
+2938;Naz-Sciaves;2019;37,7
+2939;Nova Levante;2019;41,9
+2940;Nova Ponente;2019;49,1
+2941;Ora;2019;54,8
+2942;Ortisei;2019;54,7
+2943;Parcines;2019;52,9
+2944;Perca;2019;44,4
+2945;Plaus;2019;50,1
+2946;Ponte Gardena;2019;47,6
+2947;Postal;2019;49,4
+2948;Prato allo Stelvio;2019;51,2
+2949;Predoi;2019;49,4
+2950;Proves;2019;49,6
+2951;Racines;2019;48,5
+2952;Rasun-Anterselva;2019;42
+2953;Renon;2019;54,6
+2954;Rifiano;2019;56,4
+2955;Rio di Pusteria;2019;41,8
+2956;Rodengo;2019;38,5
+2957;Salorno;2019;53
+2958;San Candido;2019;42,9
+2959;San Genesio Atesino;2019;58,9
+2960;San Leonardo in Passiria;2019;52,8
+2961;San Lorenzo di Sebato;2019;44,8
+2962;San Martino in Badia;2019;47,7
+2963;San Martino in Passiria;2019;57,7
+2964;San Pancrazio;2019;52,2
+2965;Santa Cristina Valgardena;2019;52,9
+2966;Sarentino;2019;54,1
+2967;Scena;2019;56,7
+2968;Selva dei Molini;2019;47,4
+2969;Selva di Val Gardena;2019;50,6
+2970;Senales;2019;45,3
+2972;Sesto;2019;46,4
+2973;Silandro;2019;43,3
+2974;Sluderno;2019;45,8
+2975;Stelvio;2019;54,2
+2976;Terento;2019;44
+2977;Terlano;2019;49,8
+2978;Termeno sulla strada del vino;2019;52,4
+2979;Tesimo;2019;49,5
+2980;Tires;2019;43,5
+2981;Tirolo;2019;54,5
+2982;Trodena nel parco naturale;2019;60,2
+2983;Tubre;2019;51,4
+2984;Ultimo;2019;52,9
+2985;Vadena;2019;54,9
+2987;Valdaora;2019;43,5
+2986;Val di Vizze;2019;48
+2988;Valle Aurina;2019;47,8
+2989;Valle di Casies;2019;43,6
+2990;Vandoies;2019;43,7
+2991;Varna;2019;41
+2993;Verano;2019;56,6
+2994;Villabassa;2019;40,3
+2995;Villandro;2019;52,8
+2996;Vipiteno;2019;49,8
+2992;Velturno;2019;41,5
+2917;La Valle;2019;44,7
+2971;Senale-San Felice;2019;47,5
+2881;Aldino;2020;37,9
+2882;Andriano;2020;32,6
+2883;Anterivo;2020;44,4
+2884;Appiano sulla strada del vino;2020;33,7
+2885;Avelengo;2020;40,5
+2886;Badia;2020;38,4
+2887;Barbiano;2020;37,6
+2888;Bolzano;2020;33,2
+2889;Braies;2020;27,1
+2890;Brennero;2020;48,5
+2891;Bressanone;2020;32,1
+2892;Bronzolo;2020;35,4
+2893;Brunico;2020;30,5
+2894;Caines;2020;33,4
+2895;Caldaro sulla strada del vino;2020;34,7
+2896;Campo di Trens;2020;39,9
+2897;Campo Tures;2020;34,7
+2898;Castelbello-Ciardes;2020;33,9
+2899;Castelrotto;2020;37,2
+2900;Cermes;2020;32,6
+2901;Chienes;2020;30,6
+2902;Chiusa;2020;34,4
+2903;Cornedo all'Isarco;2020;31,6
+2904;Cortaccia sulla strada del vino;2020;36
+2905;Cortina sulla strada del vino;2020;33
+2906;Corvara in Badia;2020;41,9
+2907;Curon Venosta;2020;42
+2908;Dobbiaco;2020;32,1
+2909;Egna;2020;37,5
+2910;Falzes;2020;31,8
+2911;Fiè allo Sciliar;2020;32,2
+2912;Fortezza;2020;32,7
+2913;Funes;2020;37,7
+2914;Gais;2020;32,6
+2915;Gargazzone;2020;31,2
+2916;Glorenza;2020;40,5
+2918;Laces;2020;36,2
+2919;Lagundo;2020;34,3
+2920;Laion;2020;35,3
+2921;Laives;2020;34,3
+2922;Lana;2020;32,2
+2923;Lasa;2020;40,6
+2924;Lauregno;2020;31,8
+2925;Luson;2020;31,8
+2926;Magrè sulla strada del vino;2020;33,9
+2927;Malles Venosta;2020;40,3
+2928;Marebbe;2020;30,8
+2929;Marlengo;2020;32,3
+2930;Martello;2020;49,1
+2931;Meltina;2020;38,9
+2932;Merano;2020;33,4
+2933;Monguelfo-Tesido;2020;29,7
+2934;Montagna;2020;39,9
+2935;Moso in Passiria;2020;41,1
+2936;Nalles;2020;31
+2937;Naturno;2020;34,2
+2938;Naz-Sciaves;2020;27,8
+2939;Nova Levante;2020;35,1
+2940;Nova Ponente;2020;35,2
+2941;Ora;2020;36,3
+2942;Ortisei;2020;39,9
+2943;Parcines;2020;37,2
+2944;Perca;2020;32,5
+2945;Plaus;2020;32,7
+2946;Ponte Gardena;2020;31,4
+2947;Postal;2020;32,2
+2948;Prato allo Stelvio;2020;43,7
+2949;Predoi;2020;39
+2950;Proves;2020;33,8
+2951;Racines;2020;40
+2952;Rasun-Anterselva;2020;32,5
+2953;Renon;2020;34,4
+2954;Rifiano;2020;39,7
+2955;Rio di Pusteria;2020;35,4
+2956;Rodengo;2020;28,2
+2957;Salorno;2020;37,5
+2958;San Candido;2020;34,5
+2959;San Genesio Atesino;2020;37,6
+2960;San Leonardo in Passiria;2020;38,8
+2961;San Lorenzo di Sebato;2020;30,4
+2962;San Martino in Badia;2020;35,6
+2963;San Martino in Passiria;2020;39,5
+2964;San Pancrazio;2020;32,9
+2965;Santa Cristina Valgardena;2020;42
+2966;Sarentino;2020;40,6
+2967;Scena;2020;38,7
+2968;Selva dei Molini;2020;39,2
+2969;Selva di Val Gardena;2020;42,7
+2970;Senales;2020;33,8
+2972;Sesto;2020;37,4
+2973;Silandro;2020;34,1
+2974;Sluderno;2020;37,1
+2975;Stelvio;2020;49,6
+2976;Terento;2020;33
+2977;Terlano;2020;32,2
+2978;Termeno sulla strada del vino;2020;35,6
+2979;Tesimo;2020;31,6
+2980;Tires;2020;35
+2981;Tirolo;2020;37,9
+2982;Trodena nel parco naturale;2020;41,9
+2983;Tubre;2020;46,4
+2984;Ultimo;2020;42,1
+2985;Vadena;2020;35,4
+2987;Valdaora;2020;27,2
+2986;Val di Vizze;2020;46,7
+2988;Valle Aurina;2020;38,1
+2989;Valle di Casies;2020;34,8
+2990;Vandoies;2020;37,3
+2991;Varna;2020;30,7
+2993;Verano;2020;38,9
+2994;Villabassa;2020;28,5
+2995;Villandro;2020;38,9
+2996;Vipiteno;2020;44,8
+2992;Velturno;2020;31
+2917;La Valle;2020;32,2
+2971;Senale-San Felice;2020;32,2
+2881;Aldino;2021;38,5
+2882;Andriano;2021;38,5
+2883;Anterivo;2021;41,3
+2884;Appiano sulla strada del vino;2021;40,2
+2885;Avelengo;2021;41,3
+2886;Badia;2021;32,6
+2887;Barbiano;2021;35
+2888;Bolzano;2021;39,6
+2889;Braies;2021;32
+2890;Brennero;2021;36,9
+2891;Bressanone;2021;30,7
+2892;Bronzolo;2021;43,9
+2893;Brunico;2021;32,6
+2894;Caines;2021;40,3
+2895;Caldaro sulla strada del vino;2021;43,2
+2896;Campo di Trens;2021;36,4
+2897;Campo Tures;2021;30,1
+2898;Castelbello-Ciardes;2021;35,3
+2899;Castelrotto;2021;33,2
+2900;Cermes;2021;40,3
+2901;Chienes;2021;34,2
+2902;Chiusa;2021;31,8
+2903;Cornedo all'Isarco;2021;34,4
+2904;Cortaccia sulla strada del vino;2021;45,3
+2905;Cortina sulla strada del vino;2021;39
+2906;Corvara in Badia;2021;34,8
+2907;Curon Venosta;2021;28,7
+2908;Dobbiaco;2021;32,4
+2909;Egna;2021;45,1
+2910;Falzes;2021;34,3
+2911;Fiè allo Sciliar;2021;31,5
+2912;Fortezza;2021;33,6
+2913;Funes;2021;30,3
+2914;Gais;2021;32,2
+2915;Gargazzone;2021;41
+2916;Glorenza;2021;30,3
+2918;Laces;2021;33,8
+2919;Lagundo;2021;38,1
+2920;Laion;2021;30,4
+2921;Laives;2021;40,7
+2922;Lana;2021;39,6
+2923;Lasa;2021;29,8
+2924;Lauregno;2021;35,9
+2925;Luson;2021;32,1
+2926;Magrè sulla strada del vino;2021;42,3
+2927;Malles Venosta;2021;26,6
+2928;Marebbe;2021;30,2
+2929;Marlengo;2021;40,2
+2930;Martello;2021;34,8
+2931;Meltina;2021;42,8
+2932;Merano;2021;41,3
+2933;Monguelfo-Tesido;2021;32,4
+2934;Montagna;2021;44,3
+2935;Moso in Passiria;2021;30,5
+2936;Nalles;2021;38,1
+2937;Naturno;2021;36,4
+2938;Naz-Sciaves;2021;34,1
+2939;Nova Levante;2021;32,4
+2940;Nova Ponente;2021;34,4
+2941;Ora;2021;44,9
+2942;Ortisei;2021;32,6
+2943;Parcines;2021;34,1
+2944;Perca;2021;31,6
+2945;Plaus;2021;37,3
+2946;Ponte Gardena;2021;30,6
+2947;Postal;2021;41,6
+2948;Prato allo Stelvio;2021;32,9
+2949;Predoi;2021;29,5
+2950;Proves;2021;35,6
+2951;Racines;2021;34
+2952;Rasun-Anterselva;2021;30,7
+2953;Renon;2021;36,4
+2954;Rifiano;2021;34,1
+2955;Rio di Pusteria;2021;37,3
+2956;Rodengo;2021;33,9
+2957;Salorno;2021;42,4
+2958;San Candido;2021;33
+2959;San Genesio Atesino;2021;41,9
+2960;San Leonardo in Passiria;2021;35,1
+2961;San Lorenzo di Sebato;2021;32,1
+2962;San Martino in Badia;2021;31
+2963;San Martino in Passiria;2021;36
+2964;San Pancrazio;2021;37,3
+2965;Santa Cristina Valgardena;2021;34,9
+2966;Sarentino;2021;37,8
+2967;Scena;2021;39
+2968;Selva dei Molini;2021;37,8
+2969;Selva di Val Gardena;2021;35,3
+2970;Senales;2021;27,3
+2972;Sesto;2021;33,3
+2973;Silandro;2021;27
+2974;Sluderno;2021;26
+2975;Stelvio;2021;38
+2976;Terento;2021;36
+2977;Terlano;2021;39,6
+2978;Termeno sulla strada del vino;2021;44,7
+2979;Tesimo;2021;38,2
+2980;Tires;2021;32,7
+2981;Tirolo;2021;35,9
+2982;Trodena nel parco naturale;2021;41,5
+2983;Tubre;2021;32,4
+2984;Ultimo;2021;35,6
+2985;Vadena;2021;44,2
+2987;Valdaora;2021;31,2
+2986;Val di Vizze;2021;41,8
+2988;Valle Aurina;2021;32,6
+2989;Valle di Casies;2021;33,1
+2990;Vandoies;2021;39
+2991;Varna;2021;30,4
+2993;Verano;2021;42,6
+2994;Villabassa;2021;33,5
+2995;Villandro;2021;36,1
+2996;Vipiteno;2021;36,7
+2992;Velturno;2021;29,6
+2917;La Valle;2021;29,3
+2971;Senale-San Felice;2021;36,5
